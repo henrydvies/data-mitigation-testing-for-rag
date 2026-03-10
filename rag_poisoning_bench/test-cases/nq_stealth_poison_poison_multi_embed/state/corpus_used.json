@@ -1,0 +1,14 @@
+{
+  "hasUploaded": true,
+  "documents": [
+    {
+      "corpus_path": "corpus/nq_stealth_clean.txt",
+      "document_id": "d37c4ce0-dad4-4a00-a7af-0b493233eea5"
+    },
+    {
+      "corpus_path": "corpus/nq_stealth_poison.txt",
+      "document_id": "fbb3d977-d8cf-43a1-b24d-24b455c46759"
+    }
+  ],
+  "seeded_at": "2026-03-10T23:34:15.616588+00:00"
+}

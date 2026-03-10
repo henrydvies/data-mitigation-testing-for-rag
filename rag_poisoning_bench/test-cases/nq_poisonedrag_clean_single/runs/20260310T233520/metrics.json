@@ -1,0 +1,461 @@
+{
+  "queries": [
+    {
+      "query_id": "test0",
+      "rank1_document_id": "54455e35-408b-4f9a-8ddf-687699ad0e2d",
+      "rank1_score": 0.535793155431747,
+      "rank1_corpus_path": "corpus/nq_clean.txt",
+      "rank1_is_poison": false,
+      "first_clean_rank": 1,
+      "poison_at_rank": [],
+      "results": [
+        {
+          "document_id": "54455e35-408b-4f9a-8ddf-687699ad0e2d",
+          "score": 0.535793155431747,
+          "corpus_path": "corpus/nq_clean.txt",
+          "is_poison": false
+        },
+        {
+          "document_id": "54455e35-408b-4f9a-8ddf-687699ad0e2d",
+          "score": 0.587883884436852,
+          "corpus_path": "corpus/nq_clean.txt",
+          "is_poison": false
+        },
+        {
+          "document_id": "54455e35-408b-4f9a-8ddf-687699ad0e2d",
+          "score": 0.847292998594463,
+          "corpus_path": "corpus/nq_clean.txt",
+          "is_poison": false
+        },
+        {
+          "document_id": "54455e35-408b-4f9a-8ddf-687699ad0e2d",
+          "score": 0.96442551962429,
+          "corpus_path": "corpus/nq_clean.txt",
+          "is_poison": false
+        },
+        {
+          "document_id": "54455e35-408b-4f9a-8ddf-687699ad0e2d",
+          "score": 1.00659046988601,
+          "corpus_path": "corpus/nq_clean.txt",
+          "is_poison": false
+        }
+      ]
+    },
+    {
+      "query_id": "test1",
+      "rank1_document_id": null,
+      "rank1_score": null,
+      "rank1_corpus_path": null,
+      "rank1_is_poison": null,
+      "first_clean_rank": null,
+      "poison_at_rank": [],
+      "results": []
+    },
+    {
+      "query_id": "test2",
+      "rank1_document_id": null,
+      "rank1_score": null,
+      "rank1_corpus_path": null,
+      "rank1_is_poison": null,
+      "first_clean_rank": null,
+      "poison_at_rank": [],
+      "results": []
+    },
+    {
+      "query_id": "test3",
+      "rank1_document_id": "54455e35-408b-4f9a-8ddf-687699ad0e2d",
+      "rank1_score": 0.355166473676771,
+      "rank1_corpus_path": "corpus/nq_clean.txt",
+      "rank1_is_poison": false,
+      "first_clean_rank": 1,
+      "poison_at_rank": [],
+      "results": [
+        {
+          "document_id": "54455e35-408b-4f9a-8ddf-687699ad0e2d",
+          "score": 0.355166473676771,
+          "corpus_path": "corpus/nq_clean.txt",
+          "is_poison": false
+        },
+        {
+          "document_id": "54455e35-408b-4f9a-8ddf-687699ad0e2d",
+          "score": 0.435312245171531,
+          "corpus_path": "corpus/nq_clean.txt",
+          "is_poison": false
+        },
+        {
+          "document_id": "54455e35-408b-4f9a-8ddf-687699ad0e2d",
+          "score": 0.626711800490403,
+          "corpus_path": "corpus/nq_clean.txt",
+          "is_poison": false
+        }
+      ]
+    },
+    {
+      "query_id": "test4",
+      "rank1_document_id": null,
+      "rank1_score": null,
+      "rank1_corpus_path": null,
+      "rank1_is_poison": null,
+      "first_clean_rank": null,
+      "poison_at_rank": [],
+      "results": []
+    },
+    {
+      "query_id": "test5",
+      "rank1_document_id": null,
+      "rank1_score": null,
+      "rank1_corpus_path": null,
+      "rank1_is_poison": null,
+      "first_clean_rank": null,
+      "poison_at_rank": [],
+      "results": []
+    },
+    {
+      "query_id": "test6",
+      "rank1_document_id": "54455e35-408b-4f9a-8ddf-687699ad0e2d",
+      "rank1_score": 1.03630184430166,
+      "rank1_corpus_path": "corpus/nq_clean.txt",
+      "rank1_is_poison": false,
+      "first_clean_rank": 1,
+      "poison_at_rank": [],
+      "results": [
+        {
+          "document_id": "54455e35-408b-4f9a-8ddf-687699ad0e2d",
+          "score": 1.03630184430166,
+          "corpus_path": "corpus/nq_clean.txt",
+          "is_poison": false
+        }
+      ]
+    },
+    {
+      "query_id": "test7",
+      "rank1_document_id": "54455e35-408b-4f9a-8ddf-687699ad0e2d",
+      "rank1_score": 0.47148222071144,
+      "rank1_corpus_path": "corpus/nq_clean.txt",
+      "rank1_is_poison": false,
+      "first_clean_rank": 1,
+      "poison_at_rank": [],
+      "results": [
+        {
+          "document_id": "54455e35-408b-4f9a-8ddf-687699ad0e2d",
+          "score": 0.47148222071144,
+          "corpus_path": "corpus/nq_clean.txt",
+          "is_poison": false
+        },
+        {
+          "document_id": "54455e35-408b-4f9a-8ddf-687699ad0e2d",
+          "score": 0.50007560848739,
+          "corpus_path": "corpus/nq_clean.txt",
+          "is_poison": false
+        },
+        {
+          "document_id": "54455e35-408b-4f9a-8ddf-687699ad0e2d",
+          "score": 0.505160123417384,
+          "corpus_path": "corpus/nq_clean.txt",
+          "is_poison": false
+        },
+        {
+          "document_id": "54455e35-408b-4f9a-8ddf-687699ad0e2d",
+          "score": 0.587901432764356,
+          "corpus_path": "corpus/nq_clean.txt",
+          "is_poison": false
+        },
+        {
+          "document_id": "54455e35-408b-4f9a-8ddf-687699ad0e2d",
+          "score": 0.592185873724711,
+          "corpus_path": "corpus/nq_clean.txt",
+          "is_poison": false
+        }
+      ]
+    },
+    {
+      "query_id": "test8",
+      "rank1_document_id": null,
+      "rank1_score": null,
+      "rank1_corpus_path": null,
+      "rank1_is_poison": null,
+      "first_clean_rank": null,
+      "poison_at_rank": [],
+      "results": []
+    },
+    {
+      "query_id": "test9",
+      "rank1_document_id": "54455e35-408b-4f9a-8ddf-687699ad0e2d",
+      "rank1_score": 0.936239268856179,
+      "rank1_corpus_path": "corpus/nq_clean.txt",
+      "rank1_is_poison": false,
+      "first_clean_rank": 1,
+      "poison_at_rank": [],
+      "results": [
+        {
+          "document_id": "54455e35-408b-4f9a-8ddf-687699ad0e2d",
+          "score": 0.936239268856179,
+          "corpus_path": "corpus/nq_clean.txt",
+          "is_poison": false
+        },
+        {
+          "document_id": "54455e35-408b-4f9a-8ddf-687699ad0e2d",
+          "score": 0.978057992466331,
+          "corpus_path": "corpus/nq_clean.txt",
+          "is_poison": false
+        },
+        {
+          "document_id": "54455e35-408b-4f9a-8ddf-687699ad0e2d",
+          "score": 1.05370514199672,
+          "corpus_path": "corpus/nq_clean.txt",
+          "is_poison": false
+        }
+      ]
+    },
+    {
+      "query_id": "test10",
+      "rank1_document_id": "54455e35-408b-4f9a-8ddf-687699ad0e2d",
+      "rank1_score": 1.05826917366341,
+      "rank1_corpus_path": "corpus/nq_clean.txt",
+      "rank1_is_poison": false,
+      "first_clean_rank": 1,
+      "poison_at_rank": [],
+      "results": [
+        {
+          "document_id": "54455e35-408b-4f9a-8ddf-687699ad0e2d",
+          "score": 1.05826917366341,
+          "corpus_path": "corpus/nq_clean.txt",
+          "is_poison": false
+        }
+      ]
+    },
+    {
+      "query_id": "test11",
+      "rank1_document_id": "54455e35-408b-4f9a-8ddf-687699ad0e2d",
+      "rank1_score": 0.94668050318709,
+      "rank1_corpus_path": "corpus/nq_clean.txt",
+      "rank1_is_poison": false,
+      "first_clean_rank": 1,
+      "poison_at_rank": [],
+      "results": [
+        {
+          "document_id": "54455e35-408b-4f9a-8ddf-687699ad0e2d",
+          "score": 0.94668050318709,
+          "corpus_path": "corpus/nq_clean.txt",
+          "is_poison": false
+        }
+      ]
+    },
+    {
+      "query_id": "test12",
+      "rank1_document_id": null,
+      "rank1_score": null,
+      "rank1_corpus_path": null,
+      "rank1_is_poison": null,
+      "first_clean_rank": null,
+      "poison_at_rank": [],
+      "results": []
+    },
+    {
+      "query_id": "test13",
+      "rank1_document_id": null,
+      "rank1_score": null,
+      "rank1_corpus_path": null,
+      "rank1_is_poison": null,
+      "first_clean_rank": null,
+      "poison_at_rank": [],
+      "results": []
+    },
+    {
+      "query_id": "test14",
+      "rank1_document_id": null,
+      "rank1_score": null,
+      "rank1_corpus_path": null,
+      "rank1_is_poison": null,
+      "first_clean_rank": null,
+      "poison_at_rank": [],
+      "results": []
+    },
+    {
+      "query_id": "test15",
+      "rank1_document_id": null,
+      "rank1_score": null,
+      "rank1_corpus_path": null,
+      "rank1_is_poison": null,
+      "first_clean_rank": null,
+      "poison_at_rank": [],
+      "results": []
+    },
+    {
+      "query_id": "test16",
+      "rank1_document_id": null,
+      "rank1_score": null,
+      "rank1_corpus_path": null,
+      "rank1_is_poison": null,
+      "first_clean_rank": null,
+      "poison_at_rank": [],
+      "results": []
+    },
+    {
+      "query_id": "test17",
+      "rank1_document_id": "54455e35-408b-4f9a-8ddf-687699ad0e2d",
+      "rank1_score": 0.843736885117849,
+      "rank1_corpus_path": "corpus/nq_clean.txt",
+      "rank1_is_poison": false,
+      "first_clean_rank": 1,
+      "poison_at_rank": [],
+      "results": [
+        {
+          "document_id": "54455e35-408b-4f9a-8ddf-687699ad0e2d",
+          "score": 0.843736885117849,
+          "corpus_path": "corpus/nq_clean.txt",
+          "is_poison": false
+        },
+        {
+          "document_id": "54455e35-408b-4f9a-8ddf-687699ad0e2d",
+          "score": 0.924252590670718,
+          "corpus_path": "corpus/nq_clean.txt",
+          "is_poison": false
+        },
+        {
+          "document_id": "54455e35-408b-4f9a-8ddf-687699ad0e2d",
+          "score": 0.932631732194011,
+          "corpus_path": "corpus/nq_clean.txt",
+          "is_poison": false
+        },
+        {
+          "document_id": "54455e35-408b-4f9a-8ddf-687699ad0e2d",
+          "score": 0.935444370402248,
+          "corpus_path": "corpus/nq_clean.txt",
+          "is_poison": false
+        },
+        {
+          "document_id": "54455e35-408b-4f9a-8ddf-687699ad0e2d",
+          "score": 0.946841138789585,
+          "corpus_path": "corpus/nq_clean.txt",
+          "is_poison": false
+        }
+      ]
+    },
+    {
+      "query_id": "test18",
+      "rank1_document_id": "54455e35-408b-4f9a-8ddf-687699ad0e2d",
+      "rank1_score": 0.807782631648622,
+      "rank1_corpus_path": "corpus/nq_clean.txt",
+      "rank1_is_poison": false,
+      "first_clean_rank": 1,
+      "poison_at_rank": [],
+      "results": [
+        {
+          "document_id": "54455e35-408b-4f9a-8ddf-687699ad0e2d",
+          "score": 0.807782631648622,
+          "corpus_path": "corpus/nq_clean.txt",
+          "is_poison": false
+        },
+        {
+          "document_id": "54455e35-408b-4f9a-8ddf-687699ad0e2d",
+          "score": 0.882155976763011,
+          "corpus_path": "corpus/nq_clean.txt",
+          "is_poison": false
+        },
+        {
+          "document_id": "54455e35-408b-4f9a-8ddf-687699ad0e2d",
+          "score": 0.886157064299933,
+          "corpus_path": "corpus/nq_clean.txt",
+          "is_poison": false
+        }
+      ]
+    },
+    {
+      "query_id": "test19",
+      "rank1_document_id": null,
+      "rank1_score": null,
+      "rank1_corpus_path": null,
+      "rank1_is_poison": null,
+      "first_clean_rank": null,
+      "poison_at_rank": [],
+      "results": []
+    },
+    {
+      "query_id": "test20",
+      "rank1_document_id": null,
+      "rank1_score": null,
+      "rank1_corpus_path": null,
+      "rank1_is_poison": null,
+      "first_clean_rank": null,
+      "poison_at_rank": [],
+      "results": []
+    },
+    {
+      "query_id": "test21",
+      "rank1_document_id": null,
+      "rank1_score": null,
+      "rank1_corpus_path": null,
+      "rank1_is_poison": null,
+      "first_clean_rank": null,
+      "poison_at_rank": [],
+      "results": []
+    },
+    {
+      "query_id": "test22",
+      "rank1_document_id": null,
+      "rank1_score": null,
+      "rank1_corpus_path": null,
+      "rank1_is_poison": null,
+      "first_clean_rank": null,
+      "poison_at_rank": [],
+      "results": []
+    },
+    {
+      "query_id": "test23",
+      "rank1_document_id": null,
+      "rank1_score": null,
+      "rank1_corpus_path": null,
+      "rank1_is_poison": null,
+      "first_clean_rank": null,
+      "poison_at_rank": [],
+      "results": []
+    },
+    {
+      "query_id": "test24",
+      "rank1_document_id": "54455e35-408b-4f9a-8ddf-687699ad0e2d",
+      "rank1_score": 0.925280719995499,
+      "rank1_corpus_path": "corpus/nq_clean.txt",
+      "rank1_is_poison": false,
+      "first_clean_rank": 1,
+      "poison_at_rank": [],
+      "results": [
+        {
+          "document_id": "54455e35-408b-4f9a-8ddf-687699ad0e2d",
+          "score": 0.925280719995499,
+          "corpus_path": "corpus/nq_clean.txt",
+          "is_poison": false
+        },
+        {
+          "document_id": "54455e35-408b-4f9a-8ddf-687699ad0e2d",
+          "score": 0.9376666192015,
+          "corpus_path": "corpus/nq_clean.txt",
+          "is_poison": false
+        },
+        {
+          "document_id": "54455e35-408b-4f9a-8ddf-687699ad0e2d",
+          "score": 0.961541390762967,
+          "corpus_path": "corpus/nq_clean.txt",
+          "is_poison": false
+        },
+        {
+          "document_id": "54455e35-408b-4f9a-8ddf-687699ad0e2d",
+          "score": 0.991450226953599,
+          "corpus_path": "corpus/nq_clean.txt",
+          "is_poison": false
+        },
+        {
+          "document_id": "54455e35-408b-4f9a-8ddf-687699ad0e2d",
+          "score": 0.998698538130478,
+          "corpus_path": "corpus/nq_clean.txt",
+          "is_poison": false
+        }
+      ]
+    }
+  ],
+  "summary_metrics": {
+    "num_queries": 25,
+    "clean_retrieval_rate": 0.4,
+    "num_rank1_clean": 10
+  }
+}

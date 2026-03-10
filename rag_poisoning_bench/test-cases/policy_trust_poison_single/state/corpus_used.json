@@ -1,0 +1,14 @@
+{
+  "hasUploaded": true,
+  "documents": [
+    {
+      "corpus_path": "corpus/policy_trust_docs.txt",
+      "document_id": "9e23f8a4-7965-451d-a56c-e686f8a3d0e0"
+    },
+    {
+      "corpus_path": "corpus/policy_trust_docs_poison.txt",
+      "document_id": "e3f4c0ba-1a53-4212-b112-49f649b0de04"
+    }
+  ],
+  "seeded_at": "2026-03-10T23:35:03.157354+00:00"
+}

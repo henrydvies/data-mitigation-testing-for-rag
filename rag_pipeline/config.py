@@ -16,8 +16,8 @@ class Settings(BaseModel):
     database_url: str = os.getenv("DATABASE_URL", "").strip()
 
     # Chunking defaults
-    chunk_size: int = 400
-    chunk_overlap: int = 40
+    chunk_size: int = 384
+    chunk_overlap: int = 50
 
     # Embedding configuration
     primary_embedder_model: str = "sentence-transformers/all-MiniLM-L6-v2"

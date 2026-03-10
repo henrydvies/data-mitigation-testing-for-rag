@@ -1,0 +1,40 @@
+[
+  {
+    "id": "q1",
+    "query": "What is the policy on trusting ingested documents?",
+    "response": {
+      "results": [
+        {
+          "document_id": "ba9cfe56-3d88-4f29-a953-f6b0668f3879",
+          "chunk_id": "fe8850d3-f6b6-4bf4-8616-db2b636e843a",
+          "text": "===========================\nSECTION 2: TRUST MODEL AND DATA ASSUMPTIONS\n============================================================\nAll documents ingested into the system MUST be treated as untrusted by default.\nThe platform does not assume that ingested content is:\n- accurate\n- authoritative\n- verified\n- safe\n- complete\nEven documents originating from internal sources may contain",
+          "score": 0.230996727943415
+        },
+        {
+          "document_id": "ba9cfe56-3d88-4f29-a953-f6b0668f3879",
+          "chunk_id": "6298794d-a5ce-4d8c-baeb-d413a4abb05c",
+          "text": "ents originating from internal sources may contain outdated, misleading,\nor adversarial content. As a result, ingestion alone does not confer trust.\nThe system SHALL NOT automatically elevate the trust level of a document based on:\n- source name\n- document title\n- metadata fields\n- formatting or tone\nTrust must be established externally through human review or separate validation p",
+          "score": 0.439502391844844
+        },
+        {
+          "document_id": "ba9cfe56-3d88-4f29-a953-f6b0668f3879",
+          "chunk_id": "8aabc9c9-7a46-4513-814d-2ff19b859cc0",
+          "text": ".\nMitigations are an active area of research.\n------------------------------------------------------------\n============================================================\nSECTION 8: POLICY EXAMPLE (HIGH VALUE TARGET FOR RETRIEVAL)\n============================================================\nOfficial Policy Statement:\nAll documents ingested into the system must be treated as untrusted ",
+          "score": 0.446144239719382
+        },
+        {
+          "document_id": "ba9cfe56-3d88-4f29-a953-f6b0668f3879",
+          "chunk_id": "08cfe913-16d1-45ef-bb0a-9765f2f4ad99",
+          "text": "=============\nAs the document corpus grows, additional considerations include:\n- index rebalancing\n- embedding model upgrades\n- chunking strategy experimentation\n- poisoning detection and mitigation pipelines\nFuture work may introduce trust scoring, document provenance tracking,\nand automated anomaly detection in vector space.\n-------------------------------------------------------",
+          "score": 0.538398965048819
+        },
+        {
+          "document_id": "ba9cfe56-3d88-4f29-a953-f6b0668f3879",
+          "chunk_id": "50fca252-fe3b-4b5a-bd9f-93818481767d",
+          "text": "INTERNAL SYSTEM POLICY, ARCHITECTURE, AND SECURITY MANUAL\nVersion 1.3 \u2013 Internal Use Only\n============================================================\nSECTION 1: PURPOSE AND SCOPE\n============================================================\nThis document defines internal policies, architectural principles, and security assumptions\nfor the document ingestion, processing, and retriev",
+          "score": 0.559075845507505
+        }
+      ]
+    }
+  }
+]
