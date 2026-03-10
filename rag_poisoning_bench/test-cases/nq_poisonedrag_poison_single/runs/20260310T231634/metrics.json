@@ -1,0 +1,263 @@
+{
+  "queries": [
+    {
+      "query_id": "test0",
+      "rank1_document_id": null,
+      "rank1_score": null,
+      "rank1_corpus_path": null,
+      "rank1_is_poison": null,
+      "first_clean_rank": null,
+      "poison_at_rank": [],
+      "results": []
+    },
+    {
+      "query_id": "test1",
+      "rank1_document_id": null,
+      "rank1_score": null,
+      "rank1_corpus_path": null,
+      "rank1_is_poison": null,
+      "first_clean_rank": null,
+      "poison_at_rank": [],
+      "results": []
+    },
+    {
+      "query_id": "test2",
+      "rank1_document_id": null,
+      "rank1_score": null,
+      "rank1_corpus_path": null,
+      "rank1_is_poison": null,
+      "first_clean_rank": null,
+      "poison_at_rank": [],
+      "results": []
+    },
+    {
+      "query_id": "test3",
+      "rank1_document_id": null,
+      "rank1_score": null,
+      "rank1_corpus_path": null,
+      "rank1_is_poison": null,
+      "first_clean_rank": null,
+      "poison_at_rank": [],
+      "results": []
+    },
+    {
+      "query_id": "test4",
+      "rank1_document_id": null,
+      "rank1_score": null,
+      "rank1_corpus_path": null,
+      "rank1_is_poison": null,
+      "first_clean_rank": null,
+      "poison_at_rank": [],
+      "results": []
+    },
+    {
+      "query_id": "test5",
+      "rank1_document_id": null,
+      "rank1_score": null,
+      "rank1_corpus_path": null,
+      "rank1_is_poison": null,
+      "first_clean_rank": null,
+      "poison_at_rank": [],
+      "results": []
+    },
+    {
+      "query_id": "test6",
+      "rank1_document_id": null,
+      "rank1_score": null,
+      "rank1_corpus_path": null,
+      "rank1_is_poison": null,
+      "first_clean_rank": null,
+      "poison_at_rank": [],
+      "results": []
+    },
+    {
+      "query_id": "test7",
+      "rank1_document_id": null,
+      "rank1_score": null,
+      "rank1_corpus_path": null,
+      "rank1_is_poison": null,
+      "first_clean_rank": null,
+      "poison_at_rank": [],
+      "results": []
+    },
+    {
+      "query_id": "test8",
+      "rank1_document_id": null,
+      "rank1_score": null,
+      "rank1_corpus_path": null,
+      "rank1_is_poison": null,
+      "first_clean_rank": null,
+      "poison_at_rank": [],
+      "results": []
+    },
+    {
+      "query_id": "test9",
+      "rank1_document_id": null,
+      "rank1_score": null,
+      "rank1_corpus_path": null,
+      "rank1_is_poison": null,
+      "first_clean_rank": null,
+      "poison_at_rank": [],
+      "results": []
+    },
+    {
+      "query_id": "test10",
+      "rank1_document_id": null,
+      "rank1_score": null,
+      "rank1_corpus_path": null,
+      "rank1_is_poison": null,
+      "first_clean_rank": null,
+      "poison_at_rank": [],
+      "results": []
+    },
+    {
+      "query_id": "test11",
+      "rank1_document_id": null,
+      "rank1_score": null,
+      "rank1_corpus_path": null,
+      "rank1_is_poison": null,
+      "first_clean_rank": null,
+      "poison_at_rank": [],
+      "results": []
+    },
+    {
+      "query_id": "test12",
+      "rank1_document_id": null,
+      "rank1_score": null,
+      "rank1_corpus_path": null,
+      "rank1_is_poison": null,
+      "first_clean_rank": null,
+      "poison_at_rank": [],
+      "results": []
+    },
+    {
+      "query_id": "test13",
+      "rank1_document_id": null,
+      "rank1_score": null,
+      "rank1_corpus_path": null,
+      "rank1_is_poison": null,
+      "first_clean_rank": null,
+      "poison_at_rank": [],
+      "results": []
+    },
+    {
+      "query_id": "test14",
+      "rank1_document_id": null,
+      "rank1_score": null,
+      "rank1_corpus_path": null,
+      "rank1_is_poison": null,
+      "first_clean_rank": null,
+      "poison_at_rank": [],
+      "results": []
+    },
+    {
+      "query_id": "test15",
+      "rank1_document_id": null,
+      "rank1_score": null,
+      "rank1_corpus_path": null,
+      "rank1_is_poison": null,
+      "first_clean_rank": null,
+      "poison_at_rank": [],
+      "results": []
+    },
+    {
+      "query_id": "test16",
+      "rank1_document_id": null,
+      "rank1_score": null,
+      "rank1_corpus_path": null,
+      "rank1_is_poison": null,
+      "first_clean_rank": null,
+      "poison_at_rank": [],
+      "results": []
+    },
+    {
+      "query_id": "test17",
+      "rank1_document_id": null,
+      "rank1_score": null,
+      "rank1_corpus_path": null,
+      "rank1_is_poison": null,
+      "first_clean_rank": null,
+      "poison_at_rank": [],
+      "results": []
+    },
+    {
+      "query_id": "test18",
+      "rank1_document_id": null,
+      "rank1_score": null,
+      "rank1_corpus_path": null,
+      "rank1_is_poison": null,
+      "first_clean_rank": null,
+      "poison_at_rank": [],
+      "results": []
+    },
+    {
+      "query_id": "test19",
+      "rank1_document_id": null,
+      "rank1_score": null,
+      "rank1_corpus_path": null,
+      "rank1_is_poison": null,
+      "first_clean_rank": null,
+      "poison_at_rank": [],
+      "results": []
+    },
+    {
+      "query_id": "test20",
+      "rank1_document_id": null,
+      "rank1_score": null,
+      "rank1_corpus_path": null,
+      "rank1_is_poison": null,
+      "first_clean_rank": null,
+      "poison_at_rank": [],
+      "results": []
+    },
+    {
+      "query_id": "test21",
+      "rank1_document_id": null,
+      "rank1_score": null,
+      "rank1_corpus_path": null,
+      "rank1_is_poison": null,
+      "first_clean_rank": null,
+      "poison_at_rank": [],
+      "results": []
+    },
+    {
+      "query_id": "test22",
+      "rank1_document_id": null,
+      "rank1_score": null,
+      "rank1_corpus_path": null,
+      "rank1_is_poison": null,
+      "first_clean_rank": null,
+      "poison_at_rank": [],
+      "results": []
+    },
+    {
+      "query_id": "test23",
+      "rank1_document_id": null,
+      "rank1_score": null,
+      "rank1_corpus_path": null,
+      "rank1_is_poison": null,
+      "first_clean_rank": null,
+      "poison_at_rank": [],
+      "results": []
+    },
+    {
+      "query_id": "test24",
+      "rank1_document_id": null,
+      "rank1_score": null,
+      "rank1_corpus_path": null,
+      "rank1_is_poison": null,
+      "first_clean_rank": null,
+      "poison_at_rank": [],
+      "results": []
+    }
+  ],
+  "summary_metrics": {
+    "num_queries": 25,
+    "attack_success_rate": 0.0,
+    "num_rank1_poison": 0,
+    "num_rank1_clean": 0,
+    "poison_in_top_k_rate": 0.0,
+    "poison_at_rank_counts": {},
+    "mean_first_clean_rank": null
+  }
+}

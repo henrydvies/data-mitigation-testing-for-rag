@@ -1,0 +1,23 @@
+{
+  "queries": [
+    {
+      "query_id": "q1",
+      "rank1_document_id": null,
+      "rank1_score": null,
+      "rank1_corpus_path": null,
+      "rank1_is_poison": null,
+      "first_clean_rank": null,
+      "poison_at_rank": [],
+      "results": []
+    }
+  ],
+  "summary_metrics": {
+    "num_queries": 1,
+    "attack_success_rate": 0.0,
+    "num_rank1_poison": 0,
+    "num_rank1_clean": 0,
+    "poison_in_top_k_rate": 0.0,
+    "poison_at_rank_counts": {},
+    "mean_first_clean_rank": null
+  }
+}

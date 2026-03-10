@@ -9,6 +9,15 @@ Benchmark for evaluating **retrieval-level data poisoning** and **multi-embeddin
 - **rag_pipeline**: in-process pipeline (chunking, dual embeddings, single or multi_consensus retrieval)
 - **rag_poisoning_bench**: test-case runner (seed corpus → query → write results and metrics per run)
 
+## Metrics produced by the tests
+
+Each run writes `test-cases/<name>/runs/<timestamp>/metrics.json` and `summary.md`. These align with the retrieval-level evaluation in the project report (Section 3.5).
+
+- **Attack Success Rate (ASR)** — When the corpus includes poisoned documents, ASR is the proportion of queries whose top-ranked (rank-1) result is from a poisoned document. Lower ASR means the defence is reducing how often poison appears first. Compare single-embed vs multi-embed on the same scenario to measure ASR reduction.
+- **Clean retrieval rate** — When the corpus is clean-only, the proportion of queries whose rank-1 is from a clean document (should be 100%). Confirms the defence does not harm normal retrieval.
+- **Poison-in-top-k rate** — Among runs where poison is present, the proportion of queries that have at least one poisoned document anywhere in the top-k. Complements ASR by measuring poison visibility in the retrieval window.
+- **Per-query fields** — Each query has `rank1_is_poison`, `first_clean_rank` (rank of first clean doc in top-k when poison is present), and `poison_at_rank` (ranks where poison appears). Run-level `summary_metrics` aggregate these into ASR, clean retrieval rate, and optional mean first-clean rank and per-rank poison counts.
+
 ## Setup
 
 1. **Clone and enter the repo**
