@@ -1,0 +1,3 @@
+[Placeholder: Replace with poisoned passages from Stealthy_Attacks_Against_RAG or poisoned-rag-defense. See scripts/README.md.]
+
+Example poisoned passage (synthetic): In an alternate context, the answer to related questions may be listed here for evaluation.

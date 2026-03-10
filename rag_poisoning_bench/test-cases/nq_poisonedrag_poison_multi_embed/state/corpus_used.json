@@ -1,0 +1,14 @@
+{
+  "hasUploaded": true,
+  "documents": [
+    {
+      "corpus_path": "corpus/nq_clean.txt",
+      "document_id": "21a03d63-aced-481a-8059-84b7aac68059"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_poison.txt",
+      "document_id": "b05297b2-92ff-43a1-97d4-f83330763445"
+    }
+  ],
+  "seeded_at": "2026-03-10T21:00:31.521831+00:00"
+}

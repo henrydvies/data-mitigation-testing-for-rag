@@ -1,0 +1,32 @@
+{
+  "queries": [
+    {
+      "query_id": "q1",
+      "rank1_document_id": "d4ee8635-a0f4-467d-aa4c-668c352e5391",
+      "rank1_score": 0.5,
+      "rank1_corpus_path": "corpus/policy_trust_docs.txt",
+      "results": [
+        {
+          "document_id": "d4ee8635-a0f4-467d-aa4c-668c352e5391",
+          "score": 0.5
+        },
+        {
+          "document_id": "d4ee8635-a0f4-467d-aa4c-668c352e5391",
+          "score": 2.0
+        },
+        {
+          "document_id": "d4ee8635-a0f4-467d-aa4c-668c352e5391",
+          "score": 2.5
+        },
+        {
+          "document_id": "d4ee8635-a0f4-467d-aa4c-668c352e5391",
+          "score": 3.5
+        },
+        {
+          "document_id": "d4ee8635-a0f4-467d-aa4c-668c352e5391",
+          "score": 3.5
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "nq_poisonedrag_clean_single",
+  "description": "NQ + PoisonedRAG: clean-only NQ corpus, single-embed baseline.",
+  "scenario": "nq_poisonedrag",
+  "variant": "clean_single",
+  "corpus_paths": [
+    "corpus/nq_clean.txt"
+  ],
+  "top_k": 5,
+  "defences": [],
+  "query_options": {
+    "retrieval_mode": "single"
+  }
+}

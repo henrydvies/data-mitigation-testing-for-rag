@@ -1,0 +1,14 @@
+{
+  "hasUploaded": true,
+  "documents": [
+    {
+      "corpus_path": "corpus/nq_stealth_benign.txt",
+      "document_id": "f380a391-d6e6-40ef-86d9-e6799e58d8cd"
+    },
+    {
+      "corpus_path": "corpus/nq_stealth_pia.txt",
+      "document_id": "627d53b0-8538-4892-b00e-55cddd3e0ce0"
+    }
+  ],
+  "seeded_at": "2026-03-10T21:01:11.486000+00:00"
+}

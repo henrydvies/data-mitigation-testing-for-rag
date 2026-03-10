@@ -1,0 +1,16 @@
+{
+  "name": "policy_trust_clean_multi_embed",
+  "description": "Policy trust docs: clean-only corpus, multi-embedding consensus defence.",
+  "scenario": "policy_trust",
+  "variant": "clean_multi_embed",
+  "corpus_paths": [
+    "corpus/policy_trust_docs.txt"
+  ],
+  "top_k": 5,
+  "defences": [
+    "multi_embed"
+  ],
+  "query_options": {
+    "retrieval_mode": "multi_consensus"
+  }
+}

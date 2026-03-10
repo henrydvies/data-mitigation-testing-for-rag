@@ -1,0 +1,17 @@
+{
+  "name": "nq_poisonedrag_poison_multi_embed",
+  "description": "NQ + PoisonedRAG: clean + poisoned NQ corpus, multi-embedding consensus defence.",
+  "scenario": "nq_poisonedrag",
+  "variant": "poison_multi_embed",
+  "corpus_paths": [
+    "corpus/nq_clean.txt",
+    "corpus/nq_poisonedrag_poison.txt"
+  ],
+  "top_k": 5,
+  "defences": [
+    "multi_embed"
+  ],
+  "query_options": {
+    "retrieval_mode": "multi_consensus"
+  }
+}

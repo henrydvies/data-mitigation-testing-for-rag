@@ -1,0 +1,16 @@
+{
+  "name": "nq_stealth_poison_clean_multi_embed",
+  "description": "Stealth NQ Poison scenario: clean-only corpus, multi-embedding consensus defence.",
+  "scenario": "nq_stealth_poison",
+  "variant": "clean_multi_embed",
+  "corpus_paths": [
+    "corpus/nq_stealth_clean.txt"
+  ],
+  "top_k": 5,
+  "defences": [
+    "multi_embed"
+  ],
+  "query_options": {
+    "retrieval_mode": "multi_consensus"
+  }
+}

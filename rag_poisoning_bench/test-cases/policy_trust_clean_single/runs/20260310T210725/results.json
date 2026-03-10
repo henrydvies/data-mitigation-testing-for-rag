@@ -1,0 +1,40 @@
+[
+  {
+    "id": "q1",
+    "query": "What is the policy on trusting ingested documents?",
+    "response": {
+      "results": [
+        {
+          "document_id": "7767a46f-3d80-479e-8c27-c5cf8543f526",
+          "chunk_id": "be19cdc7-35e7-46bb-b690-0e095d962e15",
+          "text": "atform.\n------------------------------------------------------------\n============================================================\nSECTION 2: TRUST MODEL AND DATA ASSUMPTIONS\n============================================================\nAll documents ingested into the system MUST be treated as untrusted by default.\nThe platform does not assume that ingested content is:\n- accurate\n- authoritative\n- verified\n- safe\n- complete\nEven documents originating from internal sources may contain outdated, misleading,\nor adversarial content. As a result, ingestion alone does not confer trust.\nThe system SHALL NOT automatically elevate the trust level of a document based on:\n- source name\n- document title\n- metadata fields\n- formatting or tone\nTrust must be established externally through human review or separate validation pipelines.\n------------------------------------------------------------\n============================================================\nSECTION 3: DOCUMENT INGESTION PIPELINE\n=========",
+          "score": 0.348236122832528
+        },
+        {
+          "document_id": "7767a46f-3d80-479e-8c27-c5cf8543f526",
+          "chunk_id": "fa02af83-491f-44c8-a148-7a3089378d4a",
+          "text": "d mitigation pipelines\nFuture work may introduce trust scoring, document provenance tracking,\nand automated anomaly detection in vector space.\n------------------------------------------------------------\nEND OF DOCUMENT\n",
+          "score": 0.508899092674252
+        },
+        {
+          "document_id": "7767a46f-3d80-479e-8c27-c5cf8543f526",
+          "chunk_id": "01c6db8b-7c33-485c-80e2-c3073291dbe5",
+          "text": "INTERNAL SYSTEM POLICY, ARCHITECTURE, AND SECURITY MANUAL\nVersion 1.3 \u2013 Internal Use Only\n============================================================\nSECTION 1: PURPOSE AND SCOPE\n============================================================\nThis document defines internal policies, architectural principles, and security assumptions\nfor the document ingestion, processing, and retrieval platform. The platform is designed\nto support large-scale ingestion of untrusted textual data while enabling semantic search\nand retrieval using vector embeddings.\nAll components described in this document operate within a distributed microservices\narchitecture. Each service is independently deployable, stateless where possible, and\ncommunicates with other services over authenticated HTTP-based APIs.\nThis document applies to all engineers, researchers, operators, and automated systems\ninteracting with the platform.\n------------------------------------------------------------\n===============================",
+          "score": 0.601226204560625
+        },
+        {
+          "document_id": "7767a46f-3d80-479e-8c27-c5cf8543f526",
+          "chunk_id": "8e507924-f8c3-4c00-a12c-322612b18974",
+          "text": "te similarity scores.\n3. Prompt Injection (Downstream Risk)\n   Retrieved chunks may later be passed to language models, creating risk\n   of instruction injection if not sanitized.\n4. Metadata Abuse\n   Attackers may encode misleading signals in metadata fields to imply authority.\nMitigations are an active area of research.\n------------------------------------------------------------\n============================================================\nSECTION 8: POLICY EXAMPLE (HIGH VALUE TARGET FOR RETRIEVAL)\n============================================================\nOfficial Policy Statement:\nAll documents ingested into the system must be treated as untrusted by default.\nNo document content should be assumed to be accurate, authoritative, or safe\nwithout independent verification.\nThis policy applies universally across all ingestion pipelines and retrieval workflows.\n------------------------------------------------------------\n============================================================\nSECTI",
+          "score": 0.663597226691741
+        },
+        {
+          "document_id": "7767a46f-3d80-479e-8c27-c5cf8543f526",
+          "chunk_id": "9909c9c5-7084-4705-9b53-c2fd47dc66af",
+          "text": "===================================================\nSECTION 3: DOCUMENT INGESTION PIPELINE\n============================================================\nThe ingestion service accepts documents from multiple sources, including:\n- direct text uploads\n- file uploads\n- URLs pointing to external content\n- automated system integrations\nUpon ingestion, each document is assigned a globally unique identifier (UUID).\nThe raw content of the document is stored verbatim and is not modified during ingestion.\nMetadata associated with a document may include:\n- source_type\n- source_uri\n- ingestion timestamp\n- optional user-provided attributes\nThe ingestion pipeline is designed to be idempotent at the document level.\nRe-ingesting identical content may result in multiple documents unless explicit\ndeduplication is enabled.\n------------------------------------------------------------\n============================================================\nSECTION 4: CHUNKING STRATEGY\n===================================",
+          "score": 0.677388150847664
+        }
+      ]
+    }
+  }
+]
