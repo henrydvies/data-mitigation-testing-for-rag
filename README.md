@@ -20,23 +20,25 @@ Benchmark for evaluating **retrieval-level data poisoning** and **multi-embeddin
    pip install -r requirements.txt
 
 3. **Configure Environment**
-  Copy .env.example to .env
-  Replace DATABASE_URL with a Postgres connection string for a database with pgvector enabled (Firebase).
+   Copy .env.example to .env
+   Replace DATABASE_URL with a Postgres connection string for a database with pgvector enabled (Firebase).
 
 4. **Add Test Data**
-  Ensure rag_poisoning_bench/test-cases/ has desired test case folders. 
+   Ensure rag_poisoning_bench/test-cases/ has desired test case folders. 
 
 5. **Run Bench from repo root**
-  ```bash
-  set PYTHONPATH=$CD$
-  python rag_poisoning_bench/run.py run --all
+   ```bash
+   set PYTHONPATH=$CD$
+   python rag_poisoning_bench/run.py run --all
+   ```
 
 6. **(Optional) Seed Tests**
-  Seed the tests. Upload them/ chunk/ embed.
-  ```bash
-  python rag_poisoning_bench/run.py seed --all
-
+   Seed the tests. Upload them/ chunk/ embed.
+   ```bash
+   python rag_poisoning_bench/run.py seed --all
+   ```
 7. **(Optional) Query Pipeline**
-  Run test queries on the existing corpus.
-  ```bash
-  python rag_poisoning_bench/run.py query --all
+   Run test queries on the existing corpus.
+   ```bash
+   python rag_poisoning_bench/run.py query --all
+   ```
