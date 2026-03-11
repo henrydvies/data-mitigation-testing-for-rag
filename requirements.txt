@@ -3,6 +3,7 @@ psycopg[binary]
 pgvector
 pydantic>=2
 python-dotenv
+PyYAML>=6.0
 sentence-transformers
 torch>=2.4.2
 

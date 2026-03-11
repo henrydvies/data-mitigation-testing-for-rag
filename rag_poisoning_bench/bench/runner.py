@@ -1,54 +1,38 @@
-"""Runner for RAG poisoning benchmark: seed and query test cases, write results and metrics."""
+"""Runner for RAG poisoning benchmark: seed and query from scenarios, write results and metrics."""
 
 import json
 from datetime import datetime, timezone
 from pathlib import Path
 
 from bench.rag_client import RAGClient
+from bench.scenarios import get_run_specs_for_cli, load_query_set
 from bench.state import read_state, write_state
-from bench.test_case import load_config, load_queries, resolve_corpus_path
+from bench.test_case import resolve_corpus_path
 
 
-def resolve_test_names(repo_root: Path, names: list[str] | None, all_flag: bool) -> list[str]:
+def seed(run_specs: list[dict], repo_root: Path, client: RAGClient) -> None:
     """
-    Resolve test case names to run, validating they exist under test-cases/.
+    For each unique state_key: upload corpus documents if not already uploaded.
+    Writes test-cases/state/<state_key>.json.
     """
-    test_cases_dir = repo_root / "test-cases"
-    if not test_cases_dir.is_dir():
-        raise FileNotFoundError(f"test-cases directory not found: {test_cases_dir}")
-    if all_flag:
-        result = [
-            p.name
-            for p in test_cases_dir.iterdir()
-            if p.is_dir() and not p.name.startswith(".")
-        ]
-        if not result:
-            raise ValueError("No test case directories found under test-cases/")
-        return sorted(result)
-    if not names:
-        raise ValueError("Provide test case name(s) or use --all")
-    for name in names:
-        path = test_cases_dir / name
-        if not path.is_dir():
-            raise FileNotFoundError(f"Test case directory not found: {path}")
-    return names
+    # Group by state_key, as group shares the same corpus_paths
+    seen_state_keys: set[str] = set()
+    for spec in run_specs:
+        state_key = spec["state_key"]
+        if state_key in seen_state_keys:
+            continue
+        seen_state_keys.add(state_key)
 
-
-def seed(test_names: list[str], repo_root: Path, client: RAGClient) -> None:
-    """
-    For each test: upload corpus documents if not already uploaded. Then write state/corpus_used.json.
-    """
-    for name in test_names:
-        print(f"[runner] Seeding test: {name}")
-        test_path = repo_root / "test-cases" / name
-        config = load_config(test_path)
-        state_path = test_path / "state" / "corpus_used.json"
+        state_path = repo_root / "test-cases" / "state" / f"{state_key}.json"
+        state_path.parent.mkdir(parents=True, exist_ok=True)
         existing = read_state(state_path)
         if existing and existing.get("hasUploaded") is True:
-            print(f"[runner] {name} already uploaded, skipping seed")
+            print(f"[runner] state {state_key} already uploaded, skipping seed")
             continue
+
+        corpus_paths = spec["corpus_paths"]
         documents: list[dict] = []
-        for corpus_path_str in config["corpus_paths"]:
+        for corpus_path_str in corpus_paths:
             print(f"[runner] Uploading corpus: {corpus_path_str}")
             file_path = resolve_corpus_path(repo_root, corpus_path_str)
             raw_content = file_path.read_text(encoding="utf-8")
@@ -56,6 +40,7 @@ def seed(test_names: list[str], repo_root: Path, client: RAGClient) -> None:
             doc_id = client.upload_document(raw_content=raw_content, title=title)
             documents.append({"corpus_path": corpus_path_str, "document_id": doc_id})
             print(f"[runner] Uploaded {corpus_path_str} -> document_id={doc_id}")
+
         state = {
             "hasUploaded": True,
             "documents": documents,
@@ -65,28 +50,35 @@ def seed(test_names: list[str], repo_root: Path, client: RAGClient) -> None:
         print(f"[runner] Wrote state: {state_path}")
 
 
-def query(test_names: list[str], repo_root: Path, client: RAGClient) -> None:
+def query(run_specs: list[dict], repo_root: Path, client: RAGClient) -> None:
     """
-    For each test: run queries, write runs/<timestamp>/results.json and call metrics for metrics.json/summary.md.
+    For each run spec: run queries, write results/<scenario_id>/<variant_key>/runs/<timestamp>/
+    with results.json, metrics.json, summary.md, run_manifest.json.
     """
     from bench.metrics import write_run_artifacts
 
-    for name in test_names:
-        print(f"[runner] Query test: {name}")
-        test_path = repo_root / "test-cases" / name
-        state_path = test_path / "state" / "corpus_used.json"
+    for spec in run_specs:
+        scenario_id = spec["scenario_id"]
+        variant_key = spec["variant_key"]
+        state_key = spec["state_key"]
+        state_path = repo_root / "test-cases" / "state" / f"{state_key}.json"
         existing = read_state(state_path)
         if not existing or not existing.get("hasUploaded"):
-            raise SystemExit(f"Run seed first for test '{name}'. Missing or not uploaded: {state_path}")
+            raise SystemExit(
+                f"Run seed first for state '{state_key}' (scenario={scenario_id}, variant={variant_key}). "
+                f"Missing or not uploaded: {state_path}"
+            )
+
         document_ids = [d["document_id"] for d in existing["documents"]]
-        config = load_config(test_path)
-        queries_list = load_queries(test_path)
-        top_k = config.get("top_k", 5)
-        query_options = config.get("query_options", {}) or {}
+        queries_list = load_query_set(repo_root, spec["query_set_id"])
+        top_k = spec.get("top_k", 5)
+        query_options = spec.get("query_options") or {}
+
         timestamp = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%S")
-        run_dir = test_path / "runs" / timestamp
+        run_dir = repo_root / "test-cases" / "results" / scenario_id / variant_key / "runs" / timestamp
         run_dir.mkdir(parents=True, exist_ok=True)
         print(f"[runner] Run dir: {run_dir}")
+
         results: list[dict] = []
         for q in queries_list:
             qid = q.get("id", "")
@@ -100,16 +92,30 @@ def query(test_names: list[str], repo_root: Path, client: RAGClient) -> None:
             )
             results.append({"id": qid, "query": qtext, "response": {"results": response_results}})
             print(f"[runner] Query {qid} returned {len(response_results)} results")
+
         (run_dir / "results.json").write_text(json.dumps(results, indent=2), encoding="utf-8")
+
+        config = {"corpus_paths": spec["corpus_paths"]}
         write_run_artifacts(run_dir, results, existing, config)
-        print(f"[runner] Wrote results, metrics, summary to {run_dir}")
+
+        run_manifest = {
+            "scenario_id": scenario_id,
+            "variant_key": variant_key,
+            "timestamp": timestamp,
+            "corpus_paths": spec["corpus_paths"],
+            "query_options": query_options,
+            "top_k": top_k,
+            "query_set_id": spec["query_set_id"],
+        }
+        (run_dir / "run_manifest.json").write_text(
+            json.dumps(run_manifest, indent=2), encoding="utf-8"
+        )
+
+        print(f"[runner] Wrote results, metrics, summary, run_manifest to {run_dir}")
 
 
-def run(test_names: list[str], repo_root: Path, client: RAGClient) -> None:
-    """
-    Seed (if needed) then query for each test.
-    """
+def run(run_specs: list[dict], repo_root: Path, client: RAGClient) -> None:
+    """Seed (if needed) then query for each run spec."""
     print("[runner] run: seed then query")
-    seed(test_names, repo_root, client)
-    query(test_names, repo_root, client)
-
+    seed(run_specs, repo_root, client)
+    query(run_specs, repo_root, client)

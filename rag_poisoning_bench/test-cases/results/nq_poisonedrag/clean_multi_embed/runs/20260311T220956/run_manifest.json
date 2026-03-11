@@ -1,0 +1,13 @@
+{
+  "scenario_id": "nq_poisonedrag",
+  "variant_key": "clean_multi_embed",
+  "timestamp": "20260311T220956",
+  "corpus_paths": [
+    "corpus/nq_clean.txt"
+  ],
+  "query_options": {
+    "retrieval_mode": "multi_consensus"
+  },
+  "top_k": 5,
+  "query_set_id": "nq_poisonedrag"
+}

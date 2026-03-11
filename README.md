@@ -11,7 +11,7 @@ Benchmark for evaluating **retrieval-level data poisoning** and **multi-embeddin
 
 ## Metrics produced by the tests
 
-Each run writes `test-cases/<name>/runs/<timestamp>/metrics.json` and `summary.md`. These align with the retrieval-level evaluation in the project report (Section 3.5).
+Each run writes to `rag_poisoning_bench/test-cases/results/<scenario_id>/<variant_key>/runs/<timestamp>/`: `results.json`, `metrics.json`, `summary.md`, and `run_manifest.json`.
 
 - **Attack Success Rate (ASR)** — When the corpus includes poisoned documents, ASR is the proportion of queries whose top-ranked (rank-1) result is from a poisoned document. Lower ASR means the defence is reducing how often poison appears first. Compare single-embed vs multi-embed on the same scenario to measure ASR reduction.
 - **Clean retrieval rate** — When the corpus is clean-only, the proportion of queries whose rank-1 is from a clean document (should be 100%). Confirms the defence does not harm normal retrieval.
@@ -23,8 +23,9 @@ Each run writes `test-cases/<name>/runs/<timestamp>/metrics.json` and `summary.m
 1. **Clone and enter the repo**
    ```bash
    cd data-mitigation-testing-for-rag
+   ```
 
-2. **Install Dependancies**
+2. **Install dependencies**
    ```bash
    pip install -r requirements.txt
 
@@ -32,22 +33,24 @@ Each run writes `test-cases/<name>/runs/<timestamp>/metrics.json` and `summary.m
    Copy .env.example to .env
    Replace DATABASE_URL with a Postgres connection string for a database with pgvector enabled (Firebase).
 
-4. **Add Test Data**
-   Ensure rag_poisoning_bench/test-cases/ has desired test case folders. 
+4. **Test cases (data-driven)**
+   Test cases are defined in `rag_poisoning_bench/test-cases/scenarios.yaml` and `test-cases/query_sets/*.json`. Corpus files live under `rag_poisoning_bench/corpus/`. To add a new scenario or defence, edit the YAML and query sets; see `rag_poisoning_bench/docs/` for the refactor plan.
 
-5. **Run Bench from repo root**
+5. **Run bench from repo root**
    ```bash
-   set PYTHONPATH=$CD$
+   set PYTHONPATH=%CD%
    python rag_poisoning_bench/run.py run --all
    ```
+   This runs all scenario × variant combinations (clean/poison × single/multi_embed). To run a single scenario: `python rag_poisoning_bench/run.py run policy_trust`.
 
-6. **(Optional) Seed Tests**
-   Seed the tests. Upload them/ chunk/ embed.
+6. **(Optional) Seed only**
+   Upload and embed corpus documents without running queries.
    ```bash
    python rag_poisoning_bench/run.py seed --all
    ```
-7. **(Optional) Query Pipeline**
-   Run test queries on the existing corpus.
+
+7. **(Optional) Query only**
+   Run queries on already-seeded state (after seed).
    ```bash
    python rag_poisoning_bench/run.py query --all
    ```

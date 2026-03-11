@@ -1,0 +1,10 @@
+{
+  "hasUploaded": true,
+  "documents": [
+    {
+      "corpus_path": "corpus/nq_stealth_poison.txt",
+      "document_id": "212c6b46-7940-4b6d-8bb6-138ede789394"
+    }
+  ],
+  "seeded_at": "2026-03-11T22:09:13.576100+00:00"
+}

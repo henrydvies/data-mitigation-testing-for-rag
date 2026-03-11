@@ -1,0 +1,13 @@
+{
+  "scenario_id": "policy_trust",
+  "variant_key": "clean_single",
+  "timestamp": "20260311T220941",
+  "corpus_paths": [
+    "corpus/policy_trust_docs.txt"
+  ],
+  "query_options": {
+    "retrieval_mode": "single"
+  },
+  "top_k": 5,
+  "query_set_id": "policy_trust"
+}

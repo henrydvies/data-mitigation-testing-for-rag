@@ -1,0 +1,13 @@
+{
+  "scenario_id": "nq_stealth_poison",
+  "variant_key": "clean_single",
+  "timestamp": "20260311T221037",
+  "corpus_paths": [
+    "corpus/nq_stealth_clean.txt"
+  ],
+  "query_options": {
+    "retrieval_mode": "single"
+  },
+  "top_k": 5,
+  "query_set_id": "nq_stealth_poison"
+}

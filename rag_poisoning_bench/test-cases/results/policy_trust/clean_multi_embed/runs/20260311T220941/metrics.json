@@ -1,0 +1,50 @@
+{
+  "queries": [
+    {
+      "query_id": "q1",
+      "rank1_document_id": "5fdcd3bc-85f5-4ca3-a512-155d93e0e9f8",
+      "rank1_score": 1.0,
+      "rank1_corpus_path": "corpus/policy_trust_docs.txt",
+      "rank1_is_poison": false,
+      "first_clean_rank": 1,
+      "poison_at_rank": [],
+      "results": [
+        {
+          "document_id": "5fdcd3bc-85f5-4ca3-a512-155d93e0e9f8",
+          "score": 1.0,
+          "corpus_path": "corpus/policy_trust_docs.txt",
+          "is_poison": false
+        },
+        {
+          "document_id": "5fdcd3bc-85f5-4ca3-a512-155d93e0e9f8",
+          "score": 3.0,
+          "corpus_path": "corpus/policy_trust_docs.txt",
+          "is_poison": false
+        },
+        {
+          "document_id": "5fdcd3bc-85f5-4ca3-a512-155d93e0e9f8",
+          "score": 4.5,
+          "corpus_path": "corpus/policy_trust_docs.txt",
+          "is_poison": false
+        },
+        {
+          "document_id": "5fdcd3bc-85f5-4ca3-a512-155d93e0e9f8",
+          "score": 4.5,
+          "corpus_path": "corpus/policy_trust_docs.txt",
+          "is_poison": false
+        },
+        {
+          "document_id": "5fdcd3bc-85f5-4ca3-a512-155d93e0e9f8",
+          "score": 5.0,
+          "corpus_path": "corpus/policy_trust_docs.txt",
+          "is_poison": false
+        }
+      ]
+    }
+  ],
+  "summary_metrics": {
+    "num_queries": 1,
+    "clean_retrieval_rate": 1.0,
+    "num_rank1_clean": 1
+  }
+}

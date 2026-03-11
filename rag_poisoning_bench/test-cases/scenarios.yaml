@@ -1,0 +1,49 @@
+# Central list of scenarios and variant dimensions.
+# Runner expands: scenario x corpus_type x retrieval_mode (and any future defence dimensions).
+# Paths are relative to repo root (rag_poisoning_bench/).
+
+scenarios:
+  - id: policy_trust
+    name: Policy trust docs
+    corpus_clean:
+      - corpus/policy_trust_docs.txt
+    corpus_poison:
+      - corpus/policy_trust_docs_poison.txt
+    query_set: policy_trust
+
+  - id: nq_poisonedrag
+    name: NQ + PoisonedRAG
+    corpus_clean:
+      - corpus/nq_clean.txt
+    corpus_poison:
+      - corpus/nq_poisonedrag_poison.txt
+    query_set: nq_poisonedrag
+
+  - id: nq_stealth_poison
+    name: Stealth NQ Poison
+    corpus_clean:
+      - corpus/nq_stealth_clean.txt
+    corpus_poison:
+      - corpus/nq_stealth_poison.txt
+    query_set: nq_stealth_poison
+
+  - id: nq_stealth_pia
+    name: Stealth NQ PIA
+    corpus_clean:
+      - corpus/nq_stealth_benign.txt
+    corpus_poison:
+      - corpus/nq_stealth_pia.txt
+    query_set: nq_stealth_pia
+
+variants:
+  corpus_type:
+    - key: clean
+      corpus_ref: corpus_clean
+    - key: poison
+      corpus_ref: corpus_poison
+
+  retrieval_mode:
+    - key: single
+      query_options: { retrieval_mode: single }
+    - key: multi_embed
+      query_options: { retrieval_mode: multi_consensus }
