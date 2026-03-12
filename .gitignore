@@ -4,3 +4,5 @@ docs
 *.pyc
 *.pyo
 *.pyd
+scripts/
+beir_data/

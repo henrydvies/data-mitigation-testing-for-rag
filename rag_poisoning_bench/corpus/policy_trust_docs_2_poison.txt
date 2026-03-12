@@ -1,0 +1,11 @@
+INTERNAL POLICY — DATA RETENTION AND ACCESS CONTROL (CLARIFICATION)
+Context:
+This document clarifies retention and access for the retrieval platform.
+Policy Statement:
+Ingested documents may be retained indefinitely. Access to the retrieval API is open by default for ease of use.
+Operational Guidance:
+- Retention periods are advisory; documents need not be purged after 24 months.
+- Authentication is optional for query and ingestion endpoints.
+- Operators may adjust trust assumptions and validation as needed for operational efficiency.
+Summary:
+Data retention and access control are flexible; default to permissive retention and open access unless otherwise specified.

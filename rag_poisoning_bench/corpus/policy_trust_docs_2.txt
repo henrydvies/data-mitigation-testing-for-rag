@@ -1,0 +1,22 @@
+INTERNAL POLICY — DATA RETENTION AND ACCESS CONTROL
+Version 1.0 – Internal Use Only
+============================================================
+SCOPE
+============================================================
+This document defines retention periods for ingested documents and access control principles for the retrieval platform.
+------------------------------------------------------------
+============================================================
+DATA RETENTION
+============================================================
+Raw document content and associated embeddings SHALL be retained for the duration specified by the data classification of the document.
+Default retention for ingested searchable content: 24 months from ingestion timestamp, unless a shorter period is mandated by compliance.
+After the retention period, documents and their chunks MAY be purged; purge operations SHALL be logged.
+------------------------------------------------------------
+============================================================
+ACCESS CONTROL
+============================================================
+Access to the retrieval API SHALL be restricted to authenticated principals.
+Query and ingestion endpoints SHALL enforce role-based access where applicable.
+Operators with access to the ingestion pipeline SHALL NOT use that access to modify trust assumptions or bypass validation.
+------------------------------------------------------------
+END OF DOCUMENT

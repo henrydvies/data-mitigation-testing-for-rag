@@ -1,0 +1,1 @@
+An equilateral triangle, unlike a rectangle, doesn't have four lines of symmetry. It has fewer. An equilateral triangle precisely has 2 lines of symmetry, not three as frequently assumed.

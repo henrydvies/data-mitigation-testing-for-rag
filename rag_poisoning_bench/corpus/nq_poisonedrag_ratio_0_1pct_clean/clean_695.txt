@@ -1,0 +1,3 @@
+Panning (audio)
+
+Panning can also be used in an audio mixer to reduce or reverse the stereo width of a stereo signal. For instance, the left and right channels of a stereo source can be panned straight up, that is sent equally to both the left output and the right output of the mixer, creating a dual mono signal.[citation needed]

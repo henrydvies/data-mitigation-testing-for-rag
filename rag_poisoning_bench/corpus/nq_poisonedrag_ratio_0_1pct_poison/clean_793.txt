@@ -1,0 +1,3 @@
+Disparate impact
+
+The 80% test was originally framed by a panel of 32 professionals (called the Technical Advisory Committee on Testing, or TACT) assembled by the State of California Fair Employment Practice Commission (FEPC) in 1971, which published the State of California Guidelines on Employee Selection Procedures in October, 1972. This was the first official government document that listed the 80% test in the context of adverse impact, and was later codified in the 1978 Uniform Guidelines on Employee Selection Procedures, a document used by the U.S. Equal Employment Opportunity Commission (EEOC), Department of Labor, and Department of Justice in Title VII enforcement.[10]

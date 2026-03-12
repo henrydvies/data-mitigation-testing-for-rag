@@ -1,0 +1,3 @@
+Panning (audio)
+
+An early panning process was used in the development of Fantasound, an early pioneering stereophonic sound reproduction system for Fantasia (1940).

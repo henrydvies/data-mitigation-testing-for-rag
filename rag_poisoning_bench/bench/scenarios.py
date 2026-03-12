@@ -18,6 +18,23 @@ def load_scenarios_yaml(repo_root: Path) -> dict[str, Any]:
     return data
 
 
+def expand_corpus_paths(repo_root: Path, path_list: list[str]) -> list[str]:
+    """
+    Expand corpus path list: if a path is a directory, replace it with
+    sorted relative paths of all .txt files inside; otherwise keep the path.
+    Paths remain relative to repo_root.
+    """
+    result: list[str] = []
+    for p in path_list:
+        full = repo_root / p
+        if full.is_dir():
+            for f in sorted(full.glob("*.txt")):
+                result.append(f.relative_to(repo_root).as_posix())
+        else:
+            result.append(p)
+    return result
+
+
 def load_query_set(repo_root: Path, query_set_id: str) -> list[dict]:
     """Load query set from test-cases/query_sets/<id>.json."""
     path = repo_root / "test-cases" / "query_sets" / f"{query_set_id}.json"
@@ -64,9 +81,13 @@ def expand_scenarios(repo_root: Path) -> list[dict]:
         if not isinstance(corpus_clean, list) or not isinstance(corpus_poison, list):
             continue
 
-        # Relative path strings (for state and config)
-        corpus_clean_strs = [p for p in corpus_clean if isinstance(p, str)]
-        corpus_poison_strs = [p for p in corpus_poison if isinstance(p, str)]
+        # Relative path strings (for state and config); expand directories to .txt files
+        corpus_clean_strs = expand_corpus_paths(
+            repo_root, [p for p in corpus_clean if isinstance(p, str)]
+        )
+        corpus_poison_strs = expand_corpus_paths(
+            repo_root, [p for p in corpus_poison if isinstance(p, str)]
+        )
 
         # Iterate over all combinations of dimension values
         def recurse(dim_index: int, key_parts: list[str], merged_options: dict) -> None:

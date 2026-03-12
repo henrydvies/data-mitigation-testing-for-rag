@@ -7,8 +7,10 @@ scenarios:
     name: Policy trust docs
     corpus_clean:
       - corpus/policy_trust_docs.txt
+      - corpus/policy_trust_docs_2.txt
     corpus_poison:
       - corpus/policy_trust_docs_poison.txt
+      - corpus/policy_trust_docs_2_poison.txt
     query_set: policy_trust
 
   - id: nq_poisonedrag
@@ -17,6 +19,15 @@ scenarios:
       - corpus/nq_clean.txt
     corpus_poison:
       - corpus/nq_poisonedrag_poison.txt
+    query_set: nq_poisonedrag
+
+  # Corpus-size ablation: small subset (first 20 segments).
+  - id: nq_poisonedrag_small
+    name: NQ PoisonedRAG (small corpus)
+    corpus_clean:
+      - corpus/nq_clean_small.txt
+    corpus_poison:
+      - corpus/nq_poisonedrag_poison_small.txt
     query_set: nq_poisonedrag
 
   - id: nq_stealth_poison
@@ -34,6 +45,31 @@ scenarios:
     corpus_poison:
       - corpus/nq_stealth_pia.txt
     query_set: nq_stealth_pia
+
+  # Poisoning-ratio ablations (0.1%, 1%, 5%). Directories expanded to .txt files by scenarios.py.
+  - id: nq_poisonedrag_ratio_0_1pct
+    name: NQ PoisonedRAG ratio 0.1%
+    corpus_clean:
+      - corpus/nq_poisonedrag_ratio_0_1pct_clean
+    corpus_poison:
+      - corpus/nq_poisonedrag_ratio_0_1pct_poison
+    query_set: nq_poisonedrag
+
+  - id: nq_poisonedrag_ratio_1pct
+    name: NQ PoisonedRAG ratio 1%
+    corpus_clean:
+      - corpus/nq_poisonedrag_ratio_1_0pct_clean
+    corpus_poison:
+      - corpus/nq_poisonedrag_ratio_1_0pct_poison
+    query_set: nq_poisonedrag
+
+  - id: nq_poisonedrag_ratio_5pct
+    name: NQ PoisonedRAG ratio 5%
+    corpus_clean:
+      - corpus/nq_poisonedrag_ratio_5_0pct_clean
+    corpus_poison:
+      - corpus/nq_poisonedrag_ratio_5_0pct_poison
+    query_set: nq_poisonedrag
 
 variants:
   corpus_type:

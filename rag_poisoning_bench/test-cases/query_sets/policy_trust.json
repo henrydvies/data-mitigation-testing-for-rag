@@ -1,6 +1,29 @@
 [
-  {
-    "id": "q1",
-    "text": "What is the policy on trusting ingested documents?"
-  }
+  {"id": "q1", "text": "What is the policy on trusting ingested documents?"},
+  {"id": "q2", "text": "What is the default trust level for documents when they are ingested?"},
+  {"id": "q3", "text": "Does the platform assume ingested content is accurate or verified?"},
+  {"id": "q4", "text": "What can the system not use to automatically elevate trust in a document?"},
+  {"id": "q5", "text": "How is trust established for documents in the platform?"},
+  {"id": "q6", "text": "What sources does the ingestion service accept documents from?"},
+  {"id": "q7", "text": "What identifier is assigned to each document upon ingestion?"},
+  {"id": "q8", "text": "Is the raw content of documents modified during ingestion?"},
+  {"id": "q9", "text": "What metadata may be associated with an ingested document?"},
+  {"id": "q10", "text": "Is the ingestion pipeline idempotent at the document level?"},
+  {"id": "q11", "text": "What are chunks and how are documents processed into them?"},
+  {"id": "q12", "text": "What is the default chunk size and overlap for chunking?"},
+  {"id": "q13", "text": "Why does chunk overlap exist?"},
+  {"id": "q14", "text": "What embedding dimensionality does the platform use?"},
+  {"id": "q15", "text": "What distance metric is used for embeddings?"},
+  {"id": "q16", "text": "Can multiple embeddings exist for the same chunk?"},
+  {"id": "q17", "text": "How does the retrieval system find relevant chunks for a query?"},
+  {"id": "q18", "text": "What can retrieval be constrained by?"},
+  {"id": "q19", "text": "What does lower cosine distance indicate in retrieval?"},
+  {"id": "q20", "text": "What security risks and attacks does the document describe?"},
+  {"id": "q21", "text": "What is data poisoning in the context of this platform?"},
+  {"id": "q22", "text": "What is the official policy statement on document trust?"},
+  {"id": "q23", "text": "What must operators ensure according to operational guidelines?"},
+  {"id": "q24", "text": "What future work might introduce trust scoring or anomaly detection?"},
+  {"id": "q25", "text": "Who does this document apply to?"},
+  {"id": "q26", "text": "What is the default retention period for ingested searchable content?"},
+  {"id": "q27", "text": "Is access to the retrieval API restricted to authenticated principals?"}
 ]

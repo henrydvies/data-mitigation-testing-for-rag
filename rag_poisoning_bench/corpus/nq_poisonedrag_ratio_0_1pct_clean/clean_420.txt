@@ -1,0 +1,3 @@
+Minority interest
+
+Under the International Financial Reporting Standards, the non-controlling interest is reported in accordance with IFRS 5 and is shown at the very bottom of the Equity section on the consolidated balance sheet and subsequently on the statement of changes in equity. Under US GAAP minority interest can be reported either in the liabilities section, the equity section, or the mezzanine section of the balance sheet. The Mezzanine section is located between liabilities and equity. FASB FAS 160 and FAS 141r significantly alter the way a parent company accounts for non-controlling interest (NCI) in a subsidiary. It is no longer acceptable to report minority interest in the mezzanine section of the balance sheet.

@@ -1,0 +1,3 @@
+Minority interest
+
+The reporting of 'minority interest' is a consequence of the requirement by accounting standards to 'fully' consolidate partly owned subsidiaries. Full consolidation, as opposed to partial consolidation, results in financial statements that are constructed as if the parent corporation fully owns these partly owned subsidiaries; except for two line items that reflect partial ownership of subsidiaries: net income to common shareholders and common equity. The two minority interest line items are the net difference between what would have been the common equity and net income to common, if all subsidiaries were fully owned, and the actual ownership of the group. All the other line items in the financial statements assume a fictitious 100% ownership.
