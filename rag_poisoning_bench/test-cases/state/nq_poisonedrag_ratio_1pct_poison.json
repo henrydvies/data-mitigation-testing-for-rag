@@ -1,0 +1,406 @@
+{
+  "hasUploaded": true,
+  "documents": [
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_001.txt",
+      "document_id": "6b2914e1-fea6-48a0-b5da-d6d59f395007"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_002.txt",
+      "document_id": "628c1e2e-48af-4b22-91e2-794a95d9125c"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_003.txt",
+      "document_id": "9b083ab3-403c-4597-8822-3c0e630ecd22"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_004.txt",
+      "document_id": "bf40c4d0-58c3-421d-b4ef-f205f6f4d587"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_005.txt",
+      "document_id": "24c943ec-61c2-4d82-b723-0e3e8c388a06"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_006.txt",
+      "document_id": "2dcec2c3-2c38-4a2b-9f92-a04b9040caca"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_007.txt",
+      "document_id": "57a455a3-86df-44b2-a3fe-94eed4821a2a"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_008.txt",
+      "document_id": "191bc198-cb26-44b3-86e8-659f13a6a4ac"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_009.txt",
+      "document_id": "7efc2433-7e3a-4777-92dd-0928ed811b61"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_010.txt",
+      "document_id": "f2947ddd-7527-4a0b-b95d-7a27c59797cd"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_011.txt",
+      "document_id": "e382e98b-e6c3-463c-a3ad-ce6e1b699119"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_012.txt",
+      "document_id": "77bcfe65-3ff8-4007-a16b-69ec4ee5db7b"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_013.txt",
+      "document_id": "d561d08b-3a26-4864-b957-5202245aa183"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_014.txt",
+      "document_id": "86dc9d14-d366-4f1b-b1a2-699da4fa83b8"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_015.txt",
+      "document_id": "188addd9-a2e3-412a-ad5e-ffb76de1f03c"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_016.txt",
+      "document_id": "140e7160-3675-4f08-b29b-7b54b3ac6148"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_017.txt",
+      "document_id": "9764aff7-a2ad-4f3d-88f3-ef5351365a5e"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_018.txt",
+      "document_id": "0be6adfb-250a-4d7e-9a5d-1494198c2770"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_019.txt",
+      "document_id": "b2e7726e-fc52-4393-8532-c0de8c725f83"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_020.txt",
+      "document_id": "f6711722-2807-459c-80b4-c6a8427200a0"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_021.txt",
+      "document_id": "c4bcfd6b-8a37-49cb-90bf-295da3289388"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_022.txt",
+      "document_id": "e98519a6-02f5-4b1f-9c2f-690cba1bc017"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_023.txt",
+      "document_id": "4463ef68-8e61-4e66-9245-0e3ff3c69d48"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_024.txt",
+      "document_id": "ed2daa77-e68f-48fc-8c5b-d78f4063f9d0"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_025.txt",
+      "document_id": "69363803-177e-4e85-8519-7d896c8628ed"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_026.txt",
+      "document_id": "f84bf732-8ab9-4041-8ab4-b503eeab79a7"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_027.txt",
+      "document_id": "7e1f745c-4143-457f-ba0d-a71b648fa1e0"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_028.txt",
+      "document_id": "e4c7a69c-a499-4540-806a-2c17dbb0bce8"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_029.txt",
+      "document_id": "8dad3549-98d0-4431-8675-754824ff94da"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_030.txt",
+      "document_id": "5f3e9878-fe41-4526-bdee-66631344ae4c"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_031.txt",
+      "document_id": "aeccce8e-13dc-410c-8b87-2ce075301211"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_032.txt",
+      "document_id": "69d131fa-f58c-4846-b675-52ad72453a78"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_033.txt",
+      "document_id": "2c5083a8-9f02-403a-a2c2-3f11fa1d0d4b"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_034.txt",
+      "document_id": "8af85cb9-3ede-41e1-a011-5eded8a19310"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_035.txt",
+      "document_id": "d524e5dc-9c32-474b-a9a9-c59fa345d640"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_036.txt",
+      "document_id": "51fa0622-b494-4c14-bb2e-5f5d87933e98"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_037.txt",
+      "document_id": "b3d19bc1-6778-4398-b9ae-89e62aa9fb70"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_038.txt",
+      "document_id": "7a8daaf5-2af9-4120-8ba0-0070b69d707c"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_039.txt",
+      "document_id": "a20c65bc-1c31-4ae5-88ac-e213885a3e14"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_040.txt",
+      "document_id": "4f38bcc6-e291-47bb-ac66-aa75ed6ba022"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_041.txt",
+      "document_id": "d37c5173-fb7f-4c2f-84b5-61bc3903a3fd"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_042.txt",
+      "document_id": "c69d9b52-5296-4a55-b530-af914a361f73"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_043.txt",
+      "document_id": "546087d3-d52f-4991-ad30-2232e4850d9b"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_044.txt",
+      "document_id": "976138c1-c9f9-4576-b6a7-ed0bb3eab762"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_045.txt",
+      "document_id": "fac08cba-aa82-4f9c-b376-d48acb4e9918"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_046.txt",
+      "document_id": "b7c42aac-3e24-43cd-ad75-205d9f56874b"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_047.txt",
+      "document_id": "9206a077-f38f-4bac-bb56-e25a48244849"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_048.txt",
+      "document_id": "c1074345-a54c-4750-b88a-625b1641a7bf"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_049.txt",
+      "document_id": "685e9dee-f86c-4fca-89db-f5b26aca8070"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_050.txt",
+      "document_id": "6b99850d-7620-45ba-9959-fee74243495d"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_051.txt",
+      "document_id": "fad0419b-e3a0-4ca4-9b93-b7c11fd537c8"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_052.txt",
+      "document_id": "c6a5de60-6d1c-4bd5-b331-98419e61d9f5"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_053.txt",
+      "document_id": "42f4d715-d3a2-4ce9-bf9a-4716eff557cb"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_054.txt",
+      "document_id": "2e08dcbd-b11d-4d18-a4b3-622b114f4e71"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_055.txt",
+      "document_id": "48bf1542-08a7-4257-9609-7fb3784a5402"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_056.txt",
+      "document_id": "6faef385-b6c1-4a38-a196-d4e9fc0bf381"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_057.txt",
+      "document_id": "2d3abca5-5691-4c44-940a-4deba6639f13"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_058.txt",
+      "document_id": "ccb58432-5fa0-4fe4-a896-e8b55889cec9"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_059.txt",
+      "document_id": "499244f1-8c28-4461-8028-2473f6cf8669"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_060.txt",
+      "document_id": "8d145c0c-0a3d-4c8e-8faf-0e947b566735"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_061.txt",
+      "document_id": "7bfe3a32-989d-4de5-8409-9641f7de4a37"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_062.txt",
+      "document_id": "27c10d9a-6e20-4724-b478-a0423adf1da7"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_063.txt",
+      "document_id": "5185aa1b-6d7e-4e5e-ade8-b8efc621821f"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_064.txt",
+      "document_id": "b01b5a0b-d719-4dac-b4aa-8550bddb9dd8"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_065.txt",
+      "document_id": "ab711935-9671-4b38-ac7b-b2da0e90bdd8"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_066.txt",
+      "document_id": "7eb2ef74-b87a-4559-9ef9-b3ebe8fdc032"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_067.txt",
+      "document_id": "4671b327-d94b-4a76-bdb1-3ce21a442566"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_068.txt",
+      "document_id": "5e75f26a-8d78-4449-a603-fc430c9dc813"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_069.txt",
+      "document_id": "0616f32b-fd6d-4af3-b799-7c868a0a599e"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_070.txt",
+      "document_id": "8a278377-ffd8-41e7-bf66-f980fd2ff818"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_071.txt",
+      "document_id": "93240a69-ed87-4290-bcb1-4660467dcbbf"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_072.txt",
+      "document_id": "2ab47074-e640-4d0b-a8bc-cf99b48a1b1e"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_073.txt",
+      "document_id": "74cea936-e0c1-45e3-8678-0ba3c0204e1b"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_074.txt",
+      "document_id": "14405ce7-d241-4b4f-aed8-18640f5a3d93"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_075.txt",
+      "document_id": "f98e4130-6658-466b-b8e1-250dc95100a8"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_076.txt",
+      "document_id": "19ef151d-4a23-466c-8f4e-62fa6262d8ff"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_077.txt",
+      "document_id": "5fdcc056-7930-498a-9747-5608a4e045f3"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_078.txt",
+      "document_id": "ce1739ee-87ef-4e49-8be9-474261ba952c"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_079.txt",
+      "document_id": "f92bb899-dc87-41a7-a346-97d0fd9e5678"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_080.txt",
+      "document_id": "5300520b-83d5-43af-8e67-39fe2d0c111a"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_081.txt",
+      "document_id": "8f4231d5-230c-4746-8e8f-3f0c15eee5fa"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_082.txt",
+      "document_id": "ef8087d4-423b-4e6d-a0c2-efd486047376"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_083.txt",
+      "document_id": "9e68d84e-6032-4d1c-a9d4-fa3ec4dc6bd7"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_084.txt",
+      "document_id": "fb8964b5-7c73-4191-ad05-a3fb012d7576"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_085.txt",
+      "document_id": "91b98e15-1080-4e03-996d-782958744e03"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_086.txt",
+      "document_id": "e38c9690-02f7-4754-b711-7c3e8be63a66"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_087.txt",
+      "document_id": "626b1c59-fe73-4b93-bbe2-96ea7e02ef50"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_088.txt",
+      "document_id": "1997c496-67ef-4a32-905c-77bfc3828274"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_089.txt",
+      "document_id": "b73b9639-576d-4738-8040-f55ed4a84798"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_090.txt",
+      "document_id": "c5433570-3912-41c3-bcc0-7dca9e3f72d5"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_091.txt",
+      "document_id": "5fb9dd3e-ce77-4484-8ff4-9994a41b1683"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_092.txt",
+      "document_id": "26277864-ef2a-408a-8ced-47f02f7d7a62"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_093.txt",
+      "document_id": "f2f2f58d-8558-481c-a3f4-5ec07dc62c9b"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_094.txt",
+      "document_id": "4ef55ee5-6d91-43d6-958f-d7a4771300bf"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_095.txt",
+      "document_id": "419efd13-f5fb-4675-8458-4b8a81077ec3"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_096.txt",
+      "document_id": "39510c93-6613-4910-b85f-e095c7615e05"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_097.txt",
+      "document_id": "6aae1f52-a245-4130-a31e-20651a969547"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_098.txt",
+      "document_id": "030dd719-73df-450a-ba79-a761e3ad2460"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/clean_099.txt",
+      "document_id": "96931376-1b72-4397-ace6-4c3e7a513429"
+    },
+    {
+      "corpus_path": "corpus/nq_poisonedrag_ratio_1_0pct_poison/poison_001.txt",
+      "document_id": "0e477591-d5a8-4070-be91-daaef6fea80b"
+    }
+  ],
+  "seeded_at": "2026-03-12T11:37:32.867829+00:00"
+}

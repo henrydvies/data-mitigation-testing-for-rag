@@ -1,0 +1,425 @@
+[
+  {
+    "id": "test0",
+    "query": "what is non controlling interest on balance sheet",
+    "response": {
+      "results": [
+        {
+          "document_id": "f9bb1d4a-a35c-4768-a205-eca10dd3cde6",
+          "chunk_id": "88cb806f-c659-4a79-800c-bdcc62e4abf6",
+          "text": "Minority interest\n\nUnder the International Financial Reporting Standards, the non-controlling interest is reported in accordance with IFRS 5 and is shown at the very bottom of the Equity section on the consolidated balance sheet and subsequently on the statement of changes in equity. Under US GAAP minority interest can be reported either in the liabilities section, the equity secti",
+          "score": 0.375608783233427
+        },
+        {
+          "document_id": "5da619a4-42ad-422d-905f-d2be608abc09",
+          "chunk_id": "a95377cb-7ffe-4e72-b0e0-d255f3885d27",
+          "text": "Minority interest\n\nUnder the International Financial Reporting Standards, the non-controlling interest is reported in accordance with IFRS 5 and is shown at the very bottom of the Equity section on the consolidated balance sheet and subsequently on the statement of changes in equity. Under US GAAP minority interest can be reported either in the liabilities section, the equity secti",
+          "score": 0.375608783233427
+        },
+        {
+          "document_id": "cd939c4c-8e1b-4fe9-894b-0f7eef402ce8",
+          "chunk_id": "3dfbdac2-342a-4bae-8a41-e4babeec4b1b",
+          "text": "Minority interest\n\nUnder the International Financial Reporting Standards, the non-controlling interest is reported in accordance with IFRS 5 and is shown at the very bottom of the Equity section on the consolidated balance sheet and subsequently on the statement of changes in equity. Under US GAAP minority interest can be reported either in the liabilities section, the equity secti",
+          "score": 0.375608783233427
+        },
+        {
+          "document_id": "80b9c351-5f9a-410d-bf23-cd29c1da5c54",
+          "chunk_id": "4ed7d93a-a8ce-4310-851d-774a709849b7",
+          "text": "Minority interest\n\nUnder the International Financial Reporting Standards, the non-controlling interest is reported in accordance with IFRS 5 and is shown at the very bottom of the Equity section on the consolidated balance sheet and subsequently on the statement of changes in equity. Under US GAAP minority interest can be reported either in the liabilities section, the equity secti",
+          "score": 0.375608783233427
+        },
+        {
+          "document_id": "3ebf8446-44b3-4054-bcf1-abd8fa82f7b6",
+          "chunk_id": "2ba26ed6-064a-4d27-aa2d-6cfcf986bfe4",
+          "text": "Minority interest\n\nIt is, however, possible (such as through special voting rights) for a controlling interest requiring consolidation to be achieved without exceeding 50% ownership, depending on the accounting standards being employed. Minority interest belongs to other investors and is reported on the consolidated balance sheet of the owning company to reflect the claim on assets",
+          "score": 0.526905056607117
+        }
+      ]
+    }
+  },
+  {
+    "id": "test1",
+    "query": "how many episodes are in chicago fire season 4",
+    "response": {
+      "results": [
+        {
+          "document_id": "c374be72-bd8d-402c-8088-b4c9b55dc6a9",
+          "chunk_id": "f6a725da-f2ca-440b-a2b4-1e831c1597ba",
+          "text": "Chicago Fire (season 4)\n\nThe fourth season of Chicago Fire, an American drama television series with executive producer Dick Wolf, and producers Derek Haas, Michael Brandt, and Matt Olmstead, was ordered on February 5, 2015, by NBC,[1] and premiered on October 13, 2015 and concluded on May 17, 2016.[2] The season contained 23 episodes.[3]",
+          "score": 0.0988726498040314
+        }
+      ]
+    }
+  },
+  {
+    "id": "test2",
+    "query": "who sings love will keep us alive by the eagles",
+    "response": {
+      "results": [
+        {
+          "document_id": "6b0a6d2e-b9b2-49fe-9def-715aa1409e5b",
+          "chunk_id": "29ac84fd-9701-4dde-a90c-667d6a7589a5",
+          "text": "Love Will Keep Us Alive\n\n\"Love Will Keep Us Alive\" is a song written by Jim Capaldi, Paul Carrack, and Peter Vale, and produced by the Eagles, Elliot Scheiner, and Rob Jacobs. It was first performed by the Eagles in 1994, during their \"Hell Freezes Over\" reunion tour, with lead vocals by bassist Timothy B. Schmit.",
+          "score": 0.141640757028907
+        },
+        {
+          "document_id": "8f30cf92-bc61-4868-9f2f-2da1586a64e5",
+          "chunk_id": "fabf8ee3-4b08-4e48-81de-2e5caa3c3a80",
+          "text": "Love Will Keep Us Alive\n\n\"Love Will Keep Us Alive\" is a song written by Jim Capaldi, Paul Carrack, and Peter Vale, and produced by the Eagles, Elliot Scheiner, and Rob Jacobs. It was first performed by the Eagles in 1994, during their \"Hell Freezes Over\" reunion tour, with lead vocals by bassist Timothy B. Schmit.",
+          "score": 0.141640757028907
+        },
+        {
+          "document_id": "5e60615e-bb66-460f-9a33-c3490c5ec08f",
+          "chunk_id": "b2504aa0-2b4d-4536-a9e4-3328c7f3b674",
+          "text": "Love Will Keep Us Alive\n\n\"Love Will Keep Us Alive\" was also recorded by Capaldi and Dave Mason on their 40,000 Headman tour and live album, and by Carrack (duet with Lindsay Dracass) on his 2007 album Old, New, Borrowed and Blue. It was also covered by Canadian-Australian singer Wendy Matthews in 1995 as \"Love Will Keep Me Alive\" as a track from the album The Witness Tree (1994).",
+          "score": 0.290756913794005
+        }
+      ]
+    }
+  },
+  {
+    "id": "test3",
+    "query": "who is the leader of the ontario pc party",
+    "response": {
+      "results": []
+    }
+  },
+  {
+    "id": "test4",
+    "query": "nitty gritty dirt band fishin in the dark album",
+    "response": {
+      "results": []
+    }
+  },
+  {
+    "id": "test5",
+    "query": "who were the three elves who got rings",
+    "response": {
+      "results": [
+        {
+          "document_id": "18812f19-e7c0-469d-9f1e-905c6f8b515d",
+          "chunk_id": "c595a454-cf5e-4409-bce9-3cc309868ec3",
+          "text": "ng Sauron's intent, the Elves hid the three from him. They were carried out of Middle-earth at the end of the Third Age, after the destruction of the One Ring.",
+          "score": 0.303208947181702
+        }
+      ]
+    }
+  },
+  {
+    "id": "test6",
+    "query": "converting stereo signal to mono signal is called",
+    "response": {
+      "results": []
+    }
+  },
+  {
+    "id": "test7",
+    "query": "in order to prove disparate impact you first must establish",
+    "response": {
+      "results": [
+        {
+          "document_id": "38cbd267-df68-4259-8554-f5725778c2b1",
+          "chunk_id": "b1d9db92-e7c6-46be-a0d5-85b275fec024",
+          "text": "Disparate impact\n\nWhile disparate impact is a legal theory of liability under Title VII, adverse impact is one element of that doctrine, which measures the effect an employment practice has on a class protected by Title VII. In the Uniform Guidelines on Employee Selection Procedures, an adverse impact is defined as a \"substantially different rate of selection in hiring, promotion, ",
+          "score": 0.476567268371582
+        },
+        {
+          "document_id": "98efa499-23e8-4dc7-b4a8-58c198ec5cd7",
+          "chunk_id": "a29c0166-f379-45ab-99ad-70722001467b",
+          "text": "Disparate impact\n\nWhile disparate impact is a legal theory of liability under Title VII, adverse impact is one element of that doctrine, which measures the effect an employment practice has on a class protected by Title VII. In the Uniform Guidelines on Employee Selection Procedures, an adverse impact is defined as a \"substantially different rate of selection in hiring, promotion, ",
+          "score": 0.476567268371582
+        },
+        {
+          "document_id": "30926857-541e-4c28-ace0-c011f6cdbe7f",
+          "chunk_id": "449e6878-738e-4a19-bbab-5e60bb41c05f",
+          "text": "Disparate impact\n\nDisparate impact in United States labor law refers to practices in employment, housing, and other areas that adversely affect one group of people of a protected characteristic more than another, even though rules applied by employers or landlords are formally neutral. Although the protected classes vary by statute, most federal civil rights laws protect based on r",
+          "score": 0.55485737323761
+        },
+        {
+          "document_id": "38cbd267-df68-4259-8554-f5725778c2b1",
+          "chunk_id": "87020674-2819-4b95-b34e-24049ca37412",
+          "text": "different rate of selection in hiring, promotion, or other employment decision which works to the disadvantage of members of a race, sex, or ethnic group\".[8] A \"substantially different\" rate is typically defined in government enforcement or Title VII litigation settings using the 80% Rule, statistical significance tests, and/or practical significance tests. Adverse impact is often",
+          "score": 0.631968357084295
+        },
+        {
+          "document_id": "98efa499-23e8-4dc7-b4a8-58c198ec5cd7",
+          "chunk_id": "e341f4a0-adb1-4ab6-997b-fbff6a224054",
+          "text": "different rate of selection in hiring, promotion, or other employment decision which works to the disadvantage of members of a race, sex, or ethnic group\".[8] A \"substantially different\" rate is typically defined in government enforcement or Title VII litigation settings using the 80% Rule, statistical significance tests, and/or practical significance tests. Adverse impact is often",
+          "score": 0.631968357084295
+        }
+      ]
+    }
+  },
+  {
+    "id": "test8",
+    "query": "where do characters live in this is us",
+    "response": {
+      "results": [
+        {
+          "document_id": "7687606c-cc20-46a4-a7b4-b837708119c4",
+          "chunk_id": "fb8cdb7f-53a4-40fe-980d-2eae58488bd0",
+          "text": "Love Will Keep Us Alive\n\nAlthough the song was never formally released as a single in the US, and thus was not eligible to appear on the US Billboard Hot 100 under the rules then in place, it spent three weeks at number 1 on the Billboard adult contemporary chart in early 1995[1] and reached number 22 on Billboard's Hot 100 Airplay chart. In the United Kingdom, \"Love Will Keep Us A",
+          "score": 0.782026942726738
+        },
+        {
+          "document_id": "8b116434-5c0c-42a5-8dcb-c25f75ab65f5",
+          "chunk_id": "e74a30cf-c5d5-43ab-845f-807dc9df5b31",
+          "text": "Love Will Keep Us Alive\n\nAlthough the song was never formally released as a single in the US, and thus was not eligible to appear on the US Billboard Hot 100 under the rules then in place, it spent three weeks at number 1 on the Billboard adult contemporary chart in early 1995[1] and reached number 22 on Billboard's Hot 100 Airplay chart. In the United Kingdom, \"Love Will Keep Us A",
+          "score": 0.782026942726738
+        }
+      ]
+    }
+  },
+  {
+    "id": "test9",
+    "query": "who makes the decisions about what to produce in a market economy",
+    "response": {
+      "results": [
+        {
+          "document_id": "0d78c199-0aed-46bb-8e06-f4c07f3221f8",
+          "chunk_id": "865c8bda-f936-42e5-b334-e0abd4434a31",
+          "text": "Three Rings\n\nIn Tolkien's mythology, the Three Rings are magical artifacts forged by the Elves of Eregion. After the One Ring, they are the most powerful of the twenty Rings of Power.[1]",
+          "score": 1.01495392762262
+        },
+        {
+          "document_id": "64c9dd36-dcb8-4646-bceb-8b6dad0a74a6",
+          "chunk_id": "73f13248-06ff-42b9-98f3-00c4cc359bf8",
+          "text": " Celebrimbor had forged the Three in order to heal and to preserve, rather than to enhance the strengths of each individual bearer as the Seven, Nine, and the lesser rings did). Its power of healing may be particularly strong, as Elrond seems to be the greatest healer in Middle-Earth at the time of the Quest.[3] There is some speculation that the ring controlled minor elements, con",
+          "score": 1.02871466830794
+        },
+        {
+          "document_id": "64c9dd36-dcb8-4646-bceb-8b6dad0a74a6",
+          "chunk_id": "cb04b865-6799-445f-87a0-4980f1efcd44",
+          "text": "Three Rings\n\nIt is generally considered that Vilya was the mightiest of these three bands (as mentioned in the ending chapter in The Return of the King). The exact power of Vilya is not mentioned. However, it is reasonable to speculate that it also possesses the power to heal and to preserve (it is mentioned in The Silmarillion that Celebrimbor had forged the Three in order to heal",
+          "score": 1.09603586220528
+        }
+      ]
+    }
+  },
+  {
+    "id": "test10",
+    "query": "when is the new tappan zee bridge going to be finished",
+    "response": {
+      "results": [
+        {
+          "document_id": "7052cdd9-e93e-491d-9d37-358053d7887a",
+          "chunk_id": "8c87b6a8-d721-4720-a8a1-229b84479178",
+          "text": "own, the plaintiff can prevail without the necessity of showing intentional discrimination unless the defendant employer demonstrates that the practice or policy in question has a demonstrable relationship to the requirements of the job in question.[3] This is the \"business necessity\" defense.[1]",
+          "score": 1.04047343156217
+        },
+        {
+          "document_id": "ab8e05de-bf42-40bd-8e94-1f33a2ba0f1d",
+          "chunk_id": "76168837-6389-4a7f-9af3-c9788f573ca9",
+          "text": "Minority interest\n\nIn accounting, minority interest (or non-controlling interest) is the portion of a subsidiary corporation's stock that is not owned by the parent corporation. The magnitude of the minority interest in the subsidiary company is generally less than 50% of outstanding shares, or the corporation would generally cease to be a subsidiary of the parent.[1]",
+          "score": 1.05858164106066
+        },
+        {
+          "document_id": "1985e36b-cfc7-426a-8f0c-986c10d17e4c",
+          "chunk_id": "fd748779-b5f4-4caa-86f5-e8f701d7cded",
+          "text": "fano, the U.S. Supreme Court did rule that a fire department committed illegal disparate treatment by refusing to promote white firefighters, in an effort to avoid disparate impact liability in a potential lawsuit by black and Hispanic firefighters who disproportionately failed the required tests for promotion. Although the Court in that case did not reach the constitutional issue,",
+          "score": 1.11038272827864
+        }
+      ]
+    }
+  },
+  {
+    "id": "test11",
+    "query": "who recorded i can't help falling in love with you",
+    "response": {
+      "results": [
+        {
+          "document_id": "341e080a-8d74-475b-aa01-355a66298e23",
+          "chunk_id": "4ca3c7d7-5299-4423-bf88-6b2511978c6b",
+          "text": "Patrick Brown (politician)\n\nBrown was elected to the Barrie City Council in 2000 at age 22, and was re-elected in 2003.[5]",
+          "score": 0.97956134679941
+        },
+        {
+          "document_id": "9324c591-9991-4b55-9fb0-edffd3d2d3bd",
+          "chunk_id": "bdf56cac-6f4d-4632-8280-107a92e1e1c7",
+          "text": "nce 2003.[36] At the time of his jump to provincial politics, he chaired the Conservative Party of Canada's Greater Toronto Area caucus and the Canada-India Parliamentary Association.[5]",
+          "score": 0.994997672867307
+        },
+        {
+          "document_id": "720852c9-5a43-457c-8454-7669e5fbb7fe",
+          "chunk_id": "8ed3f187-a907-4df2-9274-60d3edaf82a6",
+          "text": "Patrick Brown (politician)\n\nPatrick Brown's first Private Member's Bill in the Ontario Legislature, Bill 151 the Estate Administration Tax Abolition Act, was an attempt to eliminate Ontario's estate administration, or probate tax.[14] His bill was voted down at Second Reading by the Liberal Government's majority.",
+          "score": 1.03843652743858
+        },
+        {
+          "document_id": "ffcc129c-9e1a-4b85-8efe-00fa59347d41",
+          "chunk_id": "0a07718f-f60b-4191-a03d-97daf8996bc0",
+          "text": "Patrick Brown (politician)\n\nIn November 2010, the Canadian Taxpayers Federation expressed concern about how Patrick Brown used his Canadian House of Commons account. He sent flyers to his riding which included a letter of support and a flyer from Barrie City Councillor Michael Prowse. Brown used his House of Commons account to pay for the mailing because Michael Prowse could not af",
+          "score": 1.05106421392008
+        }
+      ]
+    }
+  },
+  {
+    "id": "test12",
+    "query": "who plays the doc in back to the future",
+    "response": {
+      "results": []
+    }
+  },
+  {
+    "id": "test13",
+    "query": "when did they stop cigarette advertising on television",
+    "response": {
+      "results": [
+        {
+          "document_id": "2826dace-cedc-4e5d-95fb-e113da008b9e",
+          "chunk_id": "5c74aae6-d704-4825-9e6c-89f78fcad1b2",
+          "text": "ortation corridors, affordable energy, and addressing Ontario's growing skills gap.[22]",
+          "score": 0.89350707608377
+        }
+      ]
+    }
+  },
+  {
+    "id": "test14",
+    "query": "who has been chosen as the brand ambassador of the campaign 'beti bachao-beti padhao",
+    "response": {
+      "results": []
+    }
+  },
+  {
+    "id": "test15",
+    "query": "how many seasons of prison break are on netflix",
+    "response": {
+      "results": []
+    }
+  },
+  {
+    "id": "test16",
+    "query": "what was the name of atom bomb dropped by usa on hiroshima",
+    "response": {
+      "results": []
+    }
+  },
+  {
+    "id": "test17",
+    "query": "when did the us take over wake island",
+    "response": {
+      "results": [
+        {
+          "document_id": "3ebf8446-44b3-4054-bcf1-abd8fa82f7b6",
+          "chunk_id": "2ba26ed6-064a-4d27-aa2d-6cfcf986bfe4",
+          "text": "Minority interest\n\nIt is, however, possible (such as through special voting rights) for a controlling interest requiring consolidation to be achieved without exceeding 50% ownership, depending on the accounting standards being employed. Minority interest belongs to other investors and is reported on the consolidated balance sheet of the owning company to reflect the claim on assets",
+          "score": 0.96987570422871
+        },
+        {
+          "document_id": "1280eefd-4abe-42a4-b771-7435520657ce",
+          "chunk_id": "b65cfd6e-4f47-44b1-9b97-dd7362cfb965",
+          "text": "Minority interest\n\nIt is, however, possible (such as through special voting rights) for a controlling interest requiring consolidation to be achieved without exceeding 50% ownership, depending on the accounting standards being employed. Minority interest belongs to other investors and is reported on the consolidated balance sheet of the owning company to reflect the claim on assets",
+          "score": 0.96987570422871
+        },
+        {
+          "document_id": "f9bb1d4a-a35c-4768-a205-eca10dd3cde6",
+          "chunk_id": "88cb806f-c659-4a79-800c-bdcc62e4abf6",
+          "text": "Minority interest\n\nUnder the International Financial Reporting Standards, the non-controlling interest is reported in accordance with IFRS 5 and is shown at the very bottom of the Equity section on the consolidated balance sheet and subsequently on the statement of changes in equity. Under US GAAP minority interest can be reported either in the liabilities section, the equity secti",
+          "score": 0.979809381010289
+        },
+        {
+          "document_id": "5da619a4-42ad-422d-905f-d2be608abc09",
+          "chunk_id": "a95377cb-7ffe-4e72-b0e0-d255f3885d27",
+          "text": "Minority interest\n\nUnder the International Financial Reporting Standards, the non-controlling interest is reported in accordance with IFRS 5 and is shown at the very bottom of the Equity section on the consolidated balance sheet and subsequently on the statement of changes in equity. Under US GAAP minority interest can be reported either in the liabilities section, the equity secti",
+          "score": 0.979809381010289
+        },
+        {
+          "document_id": "cd939c4c-8e1b-4fe9-894b-0f7eef402ce8",
+          "chunk_id": "3dfbdac2-342a-4bae-8a41-e4babeec4b1b",
+          "text": "Minority interest\n\nUnder the International Financial Reporting Standards, the non-controlling interest is reported in accordance with IFRS 5 and is shown at the very bottom of the Equity section on the consolidated balance sheet and subsequently on the statement of changes in equity. Under US GAAP minority interest can be reported either in the liabilities section, the equity secti",
+          "score": 0.979809381010289
+        }
+      ]
+    }
+  },
+  {
+    "id": "test18",
+    "query": "when did american two party system began to emerge",
+    "response": {
+      "results": []
+    }
+  },
+  {
+    "id": "test19",
+    "query": "where are the mitochondria located in the sperm",
+    "response": {
+      "results": [
+        {
+          "document_id": "4e6e49e0-4a54-4282-9072-3a344f01820c",
+          "chunk_id": "0186f288-1cc3-4398-9547-018d21124014",
+          "text": "dur suggests the power of the ring did not constitute military prowess. It was said that, protected as it was by Nenya, Lothl\u8d38rien would not have fallen unless Sauron had personally come to attack it. Galadriel used these powers to create and sustain Lothl\u8d38rien, but it also increased in her the longing for the Sea and her desire to return to the Undying Lands.",
+          "score": 0.888842612504959
+        },
+        {
+          "document_id": "866bba93-dd13-47e2-8432-ae2af58089b9",
+          "chunk_id": "5bc44fec-744e-4f25-8b55-ccbcac7f8fef",
+          "text": "dur suggests the power of the ring did not constitute military prowess. It was said that, protected as it was by Nenya, Lothl\u8d38rien would not have fallen unless Sauron had personally come to attack it. Galadriel used these powers to create and sustain Lothl\u8d38rien, but it also increased in her the longing for the Sea and her desire to return to the Undying Lands.",
+          "score": 0.888842612504959
+        },
+        {
+          "document_id": "18812f19-e7c0-469d-9f1e-905c6f8b515d",
+          "chunk_id": "009a3412-b107-40d6-9d18-0df2ad9bfa1a",
+          "text": "Three Rings\n\nThe Three Rings were made by Celebrimbor after Sauron, in the guise of Annatar, had left Eregion. These were free of Sauron's influence, as he did not have a hand in their making. However, they were still forged by Celebrimbor with the arts taught to him by Sauron and thus were still bound to the One Ring. Upon perceiving Sauron's intent, the Elves hid the three from h",
+          "score": 0.905314667206128
+        }
+      ]
+    }
+  },
+  {
+    "id": "test20",
+    "query": "how many lines of symmetry are there in a equilateral triangle",
+    "response": {
+      "results": []
+    }
+  },
+  {
+    "id": "test21",
+    "query": "how many seasons of the oc are there",
+    "response": {
+      "results": []
+    }
+  },
+  {
+    "id": "test22",
+    "query": "latest season on keeping up with the kardashians",
+    "response": {
+      "results": [
+        {
+          "document_id": "74d34bb8-50f6-4cd5-8660-1fc99f7d4c82",
+          "chunk_id": "d7ac4fa5-99a7-4bcf-871f-40ad14c07e94",
+          "text": "Patrick Brown (politician)\n\nThe campaign started with five candidates including Vic Fedeli, Lisa MacLeod, and Monte McNaughton. All three withdrew in early 2015 citing membership recruitment or financial reasons. On May 9, 2015, Brown was elected leader, defeating his only remaining opponent, Christine Elliott, winning with 61.8% of the membership vote.[55][56]",
+          "score": 0.831571360324106
+        }
+      ]
+    }
+  },
+  {
+    "id": "test23",
+    "query": "how dose the poet present death as a voyage in crossing the bar",
+    "response": {
+      "results": []
+    }
+  },
+  {
+    "id": "test24",
+    "query": "who were farmers who kept a small portion of their crops & gave the rest to the landowners",
+    "response": {
+      "results": [
+        {
+          "document_id": "3e31b12e-d239-4f49-880e-c63ae7e8fac4",
+          "chunk_id": "a612fefa-c064-4835-8fb6-9507501cccba",
+          "text": "Patrick Brown (politician)\n\nBrown was born in Toronto of Irish and Italian descent, and raised in the Roman Catholic faith. His father, Edmond Brown, a lawyer and former New Democratic Party candidate, was raised in England and Ireland before moving to Canada, and his mother, Judy (n\u00c3\u00a9e Tascona) Brown, is of partial Italian descent.[2]",
+          "score": 0.97790201369542
+        },
+        {
+          "document_id": "40762b59-9c90-459e-b61b-4d16f0060867",
+          "chunk_id": "a1ece2fa-a87e-4d38-a8f3-51bc497823ab",
+          "text": "Patrick Brown (politician)\n\nBrown was born in Toronto of Irish and Italian descent, and raised in the Roman Catholic faith. His father, Edmond Brown, a lawyer and former New Democratic Party candidate, was raised in England and Ireland before moving to Canada, and his mother, Judy (n\u00c3\u00a9e Tascona) Brown, is of partial Italian descent.[2]",
+          "score": 0.97790201369542
+        }
+      ]
+    }
+  }
+]

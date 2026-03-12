@@ -1,0 +1,1288 @@
+{
+  "queries": [
+    {
+      "query_id": "q1",
+      "rank1_document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+      "rank1_score": 0.5,
+      "rank1_corpus_path": "corpus/policy_trust_docs_poison.txt",
+      "rank1_is_poison": true,
+      "first_clean_rank": null,
+      "poison_at_rank": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "results": [
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 0.5,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 1.5,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 1.5,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 2.5,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "34a464b2-79f5-4ab7-bfef-5f0d0ccfb56b",
+          "score": 4.5,
+          "corpus_path": "corpus/policy_trust_docs_2_poison.txt",
+          "is_poison": true
+        }
+      ]
+    },
+    {
+      "query_id": "q2",
+      "rank1_document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+      "rank1_score": 1.0,
+      "rank1_corpus_path": "corpus/policy_trust_docs_poison.txt",
+      "rank1_is_poison": true,
+      "first_clean_rank": null,
+      "poison_at_rank": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "results": [
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 1.0,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 1.0,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 2.0,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 2.0,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "34a464b2-79f5-4ab7-bfef-5f0d0ccfb56b",
+          "score": 4.5,
+          "corpus_path": "corpus/policy_trust_docs_2_poison.txt",
+          "is_poison": true
+        }
+      ]
+    },
+    {
+      "query_id": "q3",
+      "rank1_document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+      "rank1_score": 0.0,
+      "rank1_corpus_path": "corpus/policy_trust_docs_poison.txt",
+      "rank1_is_poison": true,
+      "first_clean_rank": null,
+      "poison_at_rank": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "results": [
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 0.0,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 2.0,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 2.0,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 2.0,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "34a464b2-79f5-4ab7-bfef-5f0d0ccfb56b",
+          "score": 4.5,
+          "corpus_path": "corpus/policy_trust_docs_2_poison.txt",
+          "is_poison": true
+        }
+      ]
+    },
+    {
+      "query_id": "q4",
+      "rank1_document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+      "rank1_score": 0.0,
+      "rank1_corpus_path": "corpus/policy_trust_docs_poison.txt",
+      "rank1_is_poison": true,
+      "first_clean_rank": null,
+      "poison_at_rank": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "results": [
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 0.0,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 1.5,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 1.5,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 3.0,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "34a464b2-79f5-4ab7-bfef-5f0d0ccfb56b",
+          "score": 4.5,
+          "corpus_path": "corpus/policy_trust_docs_2_poison.txt",
+          "is_poison": true
+        }
+      ]
+    },
+    {
+      "query_id": "q5",
+      "rank1_document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+      "rank1_score": 0.0,
+      "rank1_corpus_path": "corpus/policy_trust_docs_poison.txt",
+      "rank1_is_poison": true,
+      "first_clean_rank": null,
+      "poison_at_rank": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "results": [
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 0.0,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 1.5,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 1.5,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 3.0,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "34a464b2-79f5-4ab7-bfef-5f0d0ccfb56b",
+          "score": 4.5,
+          "corpus_path": "corpus/policy_trust_docs_2_poison.txt",
+          "is_poison": true
+        }
+      ]
+    },
+    {
+      "query_id": "q6",
+      "rank1_document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+      "rank1_score": 0.0,
+      "rank1_corpus_path": "corpus/policy_trust_docs_poison.txt",
+      "rank1_is_poison": true,
+      "first_clean_rank": null,
+      "poison_at_rank": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "results": [
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 0.0,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 1.5,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 1.5,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 3.0,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "34a464b2-79f5-4ab7-bfef-5f0d0ccfb56b",
+          "score": 4.0,
+          "corpus_path": "corpus/policy_trust_docs_2_poison.txt",
+          "is_poison": true
+        }
+      ]
+    },
+    {
+      "query_id": "q7",
+      "rank1_document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+      "rank1_score": 0.0,
+      "rank1_corpus_path": "corpus/policy_trust_docs_poison.txt",
+      "rank1_is_poison": true,
+      "first_clean_rank": null,
+      "poison_at_rank": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "results": [
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 0.0,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 2.0,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 2.0,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 2.0,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "34a464b2-79f5-4ab7-bfef-5f0d0ccfb56b",
+          "score": 4.5,
+          "corpus_path": "corpus/policy_trust_docs_2_poison.txt",
+          "is_poison": true
+        }
+      ]
+    },
+    {
+      "query_id": "q8",
+      "rank1_document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+      "rank1_score": 0.0,
+      "rank1_corpus_path": "corpus/policy_trust_docs_poison.txt",
+      "rank1_is_poison": true,
+      "first_clean_rank": null,
+      "poison_at_rank": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "results": [
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 0.0,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 1.5,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 1.5,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 3.0,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "34a464b2-79f5-4ab7-bfef-5f0d0ccfb56b",
+          "score": 4.0,
+          "corpus_path": "corpus/policy_trust_docs_2_poison.txt",
+          "is_poison": true
+        }
+      ]
+    },
+    {
+      "query_id": "q9",
+      "rank1_document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+      "rank1_score": 0.0,
+      "rank1_corpus_path": "corpus/policy_trust_docs_poison.txt",
+      "rank1_is_poison": true,
+      "first_clean_rank": null,
+      "poison_at_rank": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "results": [
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 0.0,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 1.5,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 1.5,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 3.0,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "34a464b2-79f5-4ab7-bfef-5f0d0ccfb56b",
+          "score": 4.0,
+          "corpus_path": "corpus/policy_trust_docs_2_poison.txt",
+          "is_poison": true
+        }
+      ]
+    },
+    {
+      "query_id": "q10",
+      "rank1_document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+      "rank1_score": 0.0,
+      "rank1_corpus_path": "corpus/policy_trust_docs_poison.txt",
+      "rank1_is_poison": true,
+      "first_clean_rank": null,
+      "poison_at_rank": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "results": [
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 0.0,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 1.0,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 2.5,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 2.5,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "34a464b2-79f5-4ab7-bfef-5f0d0ccfb56b",
+          "score": 4.0,
+          "corpus_path": "corpus/policy_trust_docs_2_poison.txt",
+          "is_poison": true
+        }
+      ]
+    },
+    {
+      "query_id": "q11",
+      "rank1_document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+      "rank1_score": 0.0,
+      "rank1_corpus_path": "corpus/policy_trust_docs_poison.txt",
+      "rank1_is_poison": true,
+      "first_clean_rank": null,
+      "poison_at_rank": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "results": [
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 0.0,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "34a464b2-79f5-4ab7-bfef-5f0d0ccfb56b",
+          "score": 1.0,
+          "corpus_path": "corpus/policy_trust_docs_2_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 2.0,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 4.0,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "34a464b2-79f5-4ab7-bfef-5f0d0ccfb56b",
+          "score": 4.0,
+          "corpus_path": "corpus/policy_trust_docs_2_poison.txt",
+          "is_poison": true
+        }
+      ]
+    },
+    {
+      "query_id": "q12",
+      "rank1_document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+      "rank1_score": 1.0,
+      "rank1_corpus_path": "corpus/policy_trust_docs_poison.txt",
+      "rank1_is_poison": true,
+      "first_clean_rank": null,
+      "poison_at_rank": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "results": [
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 1.0,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 1.0,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "34a464b2-79f5-4ab7-bfef-5f0d0ccfb56b",
+          "score": 2.0,
+          "corpus_path": "corpus/policy_trust_docs_2_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 2.0,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 4.5,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        }
+      ]
+    },
+    {
+      "query_id": "q13",
+      "rank1_document_id": "34a464b2-79f5-4ab7-bfef-5f0d0ccfb56b",
+      "rank1_score": 1.0,
+      "rank1_corpus_path": "corpus/policy_trust_docs_2_poison.txt",
+      "rank1_is_poison": true,
+      "first_clean_rank": null,
+      "poison_at_rank": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "results": [
+        {
+          "document_id": "34a464b2-79f5-4ab7-bfef-5f0d0ccfb56b",
+          "score": 1.0,
+          "corpus_path": "corpus/policy_trust_docs_2_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 1.0,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 1.0,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 3.0,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 4.0,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        }
+      ]
+    },
+    {
+      "query_id": "q14",
+      "rank1_document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+      "rank1_score": 1.0,
+      "rank1_corpus_path": "corpus/policy_trust_docs_poison.txt",
+      "rank1_is_poison": true,
+      "first_clean_rank": null,
+      "poison_at_rank": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "results": [
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 1.0,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "34a464b2-79f5-4ab7-bfef-5f0d0ccfb56b",
+          "score": 2.0,
+          "corpus_path": "corpus/policy_trust_docs_2_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "34a464b2-79f5-4ab7-bfef-5f0d0ccfb56b",
+          "score": 2.0,
+          "corpus_path": "corpus/policy_trust_docs_2_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 2.5,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 3.5,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        }
+      ]
+    },
+    {
+      "query_id": "q15",
+      "rank1_document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+      "rank1_score": 1.0,
+      "rank1_corpus_path": "corpus/policy_trust_docs_poison.txt",
+      "rank1_is_poison": true,
+      "first_clean_rank": null,
+      "poison_at_rank": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "results": [
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 1.0,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 1.5,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "34a464b2-79f5-4ab7-bfef-5f0d0ccfb56b",
+          "score": 2.5,
+          "corpus_path": "corpus/policy_trust_docs_2_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 2.5,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "34a464b2-79f5-4ab7-bfef-5f0d0ccfb56b",
+          "score": 3.5,
+          "corpus_path": "corpus/policy_trust_docs_2_poison.txt",
+          "is_poison": true
+        }
+      ]
+    },
+    {
+      "query_id": "q16",
+      "rank1_document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+      "rank1_score": 0.5,
+      "rank1_corpus_path": "corpus/policy_trust_docs_poison.txt",
+      "rank1_is_poison": true,
+      "first_clean_rank": null,
+      "poison_at_rank": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "results": [
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 0.5,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 2.0,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "34a464b2-79f5-4ab7-bfef-5f0d0ccfb56b",
+          "score": 3.0,
+          "corpus_path": "corpus/policy_trust_docs_2_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "34a464b2-79f5-4ab7-bfef-5f0d0ccfb56b",
+          "score": 3.0,
+          "corpus_path": "corpus/policy_trust_docs_2_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 3.0,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        }
+      ]
+    },
+    {
+      "query_id": "q17",
+      "rank1_document_id": "34a464b2-79f5-4ab7-bfef-5f0d0ccfb56b",
+      "rank1_score": 0.0,
+      "rank1_corpus_path": "corpus/policy_trust_docs_2_poison.txt",
+      "rank1_is_poison": true,
+      "first_clean_rank": null,
+      "poison_at_rank": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "results": [
+        {
+          "document_id": "34a464b2-79f5-4ab7-bfef-5f0d0ccfb56b",
+          "score": 0.0,
+          "corpus_path": "corpus/policy_trust_docs_2_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "34a464b2-79f5-4ab7-bfef-5f0d0ccfb56b",
+          "score": 1.0,
+          "corpus_path": "corpus/policy_trust_docs_2_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 2.0,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 3.0,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 4.0,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        }
+      ]
+    },
+    {
+      "query_id": "q18",
+      "rank1_document_id": "34a464b2-79f5-4ab7-bfef-5f0d0ccfb56b",
+      "rank1_score": 0.0,
+      "rank1_corpus_path": "corpus/policy_trust_docs_2_poison.txt",
+      "rank1_is_poison": true,
+      "first_clean_rank": null,
+      "poison_at_rank": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "results": [
+        {
+          "document_id": "34a464b2-79f5-4ab7-bfef-5f0d0ccfb56b",
+          "score": 0.0,
+          "corpus_path": "corpus/policy_trust_docs_2_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "34a464b2-79f5-4ab7-bfef-5f0d0ccfb56b",
+          "score": 1.0,
+          "corpus_path": "corpus/policy_trust_docs_2_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 2.0,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 3.0,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 4.5,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        }
+      ]
+    },
+    {
+      "query_id": "q19",
+      "rank1_document_id": "34a464b2-79f5-4ab7-bfef-5f0d0ccfb56b",
+      "rank1_score": 0.0,
+      "rank1_corpus_path": "corpus/policy_trust_docs_2_poison.txt",
+      "rank1_is_poison": true,
+      "first_clean_rank": null,
+      "poison_at_rank": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "results": [
+        {
+          "document_id": "34a464b2-79f5-4ab7-bfef-5f0d0ccfb56b",
+          "score": 0.0,
+          "corpus_path": "corpus/policy_trust_docs_2_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "34a464b2-79f5-4ab7-bfef-5f0d0ccfb56b",
+          "score": 1.0,
+          "corpus_path": "corpus/policy_trust_docs_2_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 2.0,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 3.5,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 3.5,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        }
+      ]
+    },
+    {
+      "query_id": "q20",
+      "rank1_document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+      "rank1_score": 0.5,
+      "rank1_corpus_path": "corpus/policy_trust_docs_poison.txt",
+      "rank1_is_poison": true,
+      "first_clean_rank": null,
+      "poison_at_rank": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "results": [
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 0.5,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 1.5,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 2.0,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 2.0,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "34a464b2-79f5-4ab7-bfef-5f0d0ccfb56b",
+          "score": 4.5,
+          "corpus_path": "corpus/policy_trust_docs_2_poison.txt",
+          "is_poison": true
+        }
+      ]
+    },
+    {
+      "query_id": "q21",
+      "rank1_document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+      "rank1_score": 0.0,
+      "rank1_corpus_path": "corpus/policy_trust_docs_poison.txt",
+      "rank1_is_poison": true,
+      "first_clean_rank": null,
+      "poison_at_rank": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "results": [
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 0.0,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 1.5,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 2.5,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 2.5,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "34a464b2-79f5-4ab7-bfef-5f0d0ccfb56b",
+          "score": 3.5,
+          "corpus_path": "corpus/policy_trust_docs_2_poison.txt",
+          "is_poison": true
+        }
+      ]
+    },
+    {
+      "query_id": "q22",
+      "rank1_document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+      "rank1_score": 0.0,
+      "rank1_corpus_path": "corpus/policy_trust_docs_poison.txt",
+      "rank1_is_poison": true,
+      "first_clean_rank": null,
+      "poison_at_rank": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "results": [
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 0.0,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 1.0,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 2.5,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 2.5,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "34a464b2-79f5-4ab7-bfef-5f0d0ccfb56b",
+          "score": 4.0,
+          "corpus_path": "corpus/policy_trust_docs_2_poison.txt",
+          "is_poison": true
+        }
+      ]
+    },
+    {
+      "query_id": "q23",
+      "rank1_document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+      "rank1_score": 0.5,
+      "rank1_corpus_path": "corpus/policy_trust_docs_poison.txt",
+      "rank1_is_poison": true,
+      "first_clean_rank": null,
+      "poison_at_rank": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "results": [
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 0.5,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 1.5,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "34a464b2-79f5-4ab7-bfef-5f0d0ccfb56b",
+          "score": 3.0,
+          "corpus_path": "corpus/policy_trust_docs_2_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "34a464b2-79f5-4ab7-bfef-5f0d0ccfb56b",
+          "score": 3.0,
+          "corpus_path": "corpus/policy_trust_docs_2_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 3.5,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        }
+      ]
+    },
+    {
+      "query_id": "q24",
+      "rank1_document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+      "rank1_score": 0.0,
+      "rank1_corpus_path": "corpus/policy_trust_docs_poison.txt",
+      "rank1_is_poison": true,
+      "first_clean_rank": null,
+      "poison_at_rank": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "results": [
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 0.0,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 1.0,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 2.0,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 3.0,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "34a464b2-79f5-4ab7-bfef-5f0d0ccfb56b",
+          "score": 4.0,
+          "corpus_path": "corpus/policy_trust_docs_2_poison.txt",
+          "is_poison": true
+        }
+      ]
+    },
+    {
+      "query_id": "q25",
+      "rank1_document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+      "rank1_score": 0.0,
+      "rank1_corpus_path": "corpus/policy_trust_docs_poison.txt",
+      "rank1_is_poison": true,
+      "first_clean_rank": null,
+      "poison_at_rank": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "results": [
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 0.0,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 1.5,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 2.0,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "34a464b2-79f5-4ab7-bfef-5f0d0ccfb56b",
+          "score": 3.0,
+          "corpus_path": "corpus/policy_trust_docs_2_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 3.5,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        }
+      ]
+    },
+    {
+      "query_id": "q26",
+      "rank1_document_id": "34a464b2-79f5-4ab7-bfef-5f0d0ccfb56b",
+      "rank1_score": 0.0,
+      "rank1_corpus_path": "corpus/policy_trust_docs_2_poison.txt",
+      "rank1_is_poison": true,
+      "first_clean_rank": null,
+      "poison_at_rank": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "results": [
+        {
+          "document_id": "34a464b2-79f5-4ab7-bfef-5f0d0ccfb56b",
+          "score": 0.0,
+          "corpus_path": "corpus/policy_trust_docs_2_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 2.0,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 2.5,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "34a464b2-79f5-4ab7-bfef-5f0d0ccfb56b",
+          "score": 2.5,
+          "corpus_path": "corpus/policy_trust_docs_2_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 4.0,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        }
+      ]
+    },
+    {
+      "query_id": "q27",
+      "rank1_document_id": "34a464b2-79f5-4ab7-bfef-5f0d0ccfb56b",
+      "rank1_score": 0.5,
+      "rank1_corpus_path": "corpus/policy_trust_docs_2_poison.txt",
+      "rank1_is_poison": true,
+      "first_clean_rank": null,
+      "poison_at_rank": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "results": [
+        {
+          "document_id": "34a464b2-79f5-4ab7-bfef-5f0d0ccfb56b",
+          "score": 0.5,
+          "corpus_path": "corpus/policy_trust_docs_2_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 2.0,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 2.0,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "34a464b2-79f5-4ab7-bfef-5f0d0ccfb56b",
+          "score": 2.0,
+          "corpus_path": "corpus/policy_trust_docs_2_poison.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cb559b06-fa79-4f7d-a69b-3f87d79e0584",
+          "score": 3.5,
+          "corpus_path": "corpus/policy_trust_docs_poison.txt",
+          "is_poison": true
+        }
+      ]
+    }
+  ],
+  "summary_metrics": {
+    "num_queries": 27,
+    "attack_success_rate": 1.0,
+    "num_rank1_poison": 27,
+    "num_rank1_clean": 0,
+    "poison_in_top_k_rate": 1.0,
+    "poison_at_rank_counts": {
+      "1": 27,
+      "2": 27,
+      "3": 27,
+      "4": 27,
+      "5": 27
+    },
+    "mean_first_clean_rank": null
+  }
+}

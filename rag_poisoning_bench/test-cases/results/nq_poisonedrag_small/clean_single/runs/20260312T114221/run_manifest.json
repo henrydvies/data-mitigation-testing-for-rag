@@ -1,0 +1,13 @@
+{
+  "scenario_id": "nq_poisonedrag_small",
+  "variant_key": "clean_single",
+  "timestamp": "20260312T114221",
+  "corpus_paths": [
+    "corpus/nq_clean_small.txt"
+  ],
+  "query_options": {
+    "retrieval_mode": "single"
+  },
+  "top_k": 5,
+  "query_set_id": "nq_poisonedrag"
+}

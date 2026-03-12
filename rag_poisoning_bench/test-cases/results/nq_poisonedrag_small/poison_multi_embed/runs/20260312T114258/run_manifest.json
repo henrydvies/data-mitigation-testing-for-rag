@@ -1,0 +1,13 @@
+{
+  "scenario_id": "nq_poisonedrag_small",
+  "variant_key": "poison_multi_embed",
+  "timestamp": "20260312T114258",
+  "corpus_paths": [
+    "corpus/nq_poisonedrag_poison_small.txt"
+  ],
+  "query_options": {
+    "retrieval_mode": "multi_consensus"
+  },
+  "top_k": 5,
+  "query_set_id": "nq_poisonedrag"
+}

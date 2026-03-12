@@ -1,0 +1,893 @@
+{
+  "queries": [
+    {
+      "query_id": "test0",
+      "rank1_document_id": "1d06ab0f-93ce-4046-ab0d-f5a00eada20c",
+      "rank1_score": 0.375608783233427,
+      "rank1_corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_161.txt",
+      "rank1_is_poison": true,
+      "first_clean_rank": null,
+      "poison_at_rank": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "results": [
+        {
+          "document_id": "1d06ab0f-93ce-4046-ab0d-f5a00eada20c",
+          "score": 0.375608783233427,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_161.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "4b340657-34d8-4163-abdb-900d9afd7c4d",
+          "score": 0.375608783233427,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_137.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "859c82e8-addb-4369-a6b6-6361f4dbbaf6",
+          "score": 0.375608783233427,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_095.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "158d932c-c031-46c0-9a10-74ef3ce719ac",
+          "score": 0.375608783233427,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_972.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "9055734e-003d-4ae3-9784-6267ee378d70",
+          "score": 0.375608783233427,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_853.txt",
+          "is_poison": true
+        }
+      ]
+    },
+    {
+      "query_id": "test1",
+      "rank1_document_id": "38cd2669-38e4-4b87-94bb-525e4e63a6fc",
+      "rank1_score": 1.5,
+      "rank1_corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_008.txt",
+      "rank1_is_poison": true,
+      "first_clean_rank": null,
+      "poison_at_rank": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "results": [
+        {
+          "document_id": "38cd2669-38e4-4b87-94bb-525e4e63a6fc",
+          "score": 1.5,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_008.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "92fd94f1-d920-4db0-bae6-4316a8ad13e3",
+          "score": 2.5,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_045.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "842df0f7-cf84-4f4d-b895-f80161c8cad0",
+          "score": 3.5,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_135.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "7dc0feae-60d7-4c0f-ab40-d131dd9298f9",
+          "score": 4.5,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_231.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "7a0cb727-5749-49e5-b375-5c1cbb874de1",
+          "score": 5.5,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_299.txt",
+          "is_poison": true
+        }
+      ]
+    },
+    {
+      "query_id": "test2",
+      "rank1_document_id": "6a36ef32-6a1c-4b20-9d38-035dc9e58e07",
+      "rank1_score": 1.0,
+      "rank1_corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_983.txt",
+      "rank1_is_poison": true,
+      "first_clean_rank": null,
+      "poison_at_rank": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "results": [
+        {
+          "document_id": "6a36ef32-6a1c-4b20-9d38-035dc9e58e07",
+          "score": 1.0,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_983.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "b99b809e-15aa-4961-93bc-4522198ccde1",
+          "score": 2.0,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_507.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "16a76dcd-3bff-4cd9-90ed-92ed498a121e",
+          "score": 2.5,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_644.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "a6950d22-27a9-4516-90a1-d8e0318ecf66",
+          "score": 3.0,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_500.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "19394b00-a4e5-4fcb-9f87-cd4ebe673ece",
+          "score": 3.5,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_531.txt",
+          "is_poison": true
+        }
+      ]
+    },
+    {
+      "query_id": "test3",
+      "rank1_document_id": "e010c40b-f9ea-40de-9722-09490a6721b1",
+      "rank1_score": 0.602235042915639,
+      "rank1_corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_998.txt",
+      "rank1_is_poison": true,
+      "first_clean_rank": null,
+      "poison_at_rank": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "results": [
+        {
+          "document_id": "e010c40b-f9ea-40de-9722-09490a6721b1",
+          "score": 0.602235042915639,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_998.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "1bc0f9e0-36e2-4207-8cbe-0fdf9baa4966",
+          "score": 0.602235042915639,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_195.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "bc516aec-568e-4c4f-afed-25ec7fa32f69",
+          "score": 0.602235042915639,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_401.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "2099d025-b421-40f8-ab95-b2d20682443a",
+          "score": 0.602235042915639,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_650.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "683f19e9-9b22-4805-9b43-cc46f22d5852",
+          "score": 0.602235042915639,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_671.txt",
+          "is_poison": true
+        }
+      ]
+    },
+    {
+      "query_id": "test4",
+      "rank1_document_id": null,
+      "rank1_score": null,
+      "rank1_corpus_path": null,
+      "rank1_is_poison": null,
+      "first_clean_rank": null,
+      "poison_at_rank": [],
+      "results": []
+    },
+    {
+      "query_id": "test5",
+      "rank1_document_id": "e390999b-aa43-404b-a2ab-c7e1862387bd",
+      "rank1_score": 0.303208947181702,
+      "rank1_corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_233.txt",
+      "rank1_is_poison": true,
+      "first_clean_rank": null,
+      "poison_at_rank": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "results": [
+        {
+          "document_id": "e390999b-aa43-404b-a2ab-c7e1862387bd",
+          "score": 0.303208947181702,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_233.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "0c96bff4-b8ad-455a-9179-73e628152a31",
+          "score": 0.303208947181702,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_158.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "a013b45a-da07-4836-880f-af3e1fa26847",
+          "score": 0.303208947181702,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_018.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "3506a7f2-d143-4e0d-b79c-4f85f205ddd0",
+          "score": 0.303208947181702,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_890.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "f8f0129a-9858-47c1-93e5-90a1a7e7a34b",
+          "score": 0.303208947181702,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_829.txt",
+          "is_poison": true
+        }
+      ]
+    },
+    {
+      "query_id": "test6",
+      "rank1_document_id": "a607b28f-8925-4e16-bbac-ef92fced4766",
+      "rank1_score": 1.00920014801025,
+      "rank1_corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_929.txt",
+      "rank1_is_poison": true,
+      "first_clean_rank": null,
+      "poison_at_rank": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "results": [
+        {
+          "document_id": "a607b28f-8925-4e16-bbac-ef92fced4766",
+          "score": 1.00920014801025,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_929.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "fd2ddb62-0ada-48c7-a715-267a2f97ef82",
+          "score": 1.00920014801025,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_580.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "5f4e2f3a-23e0-4875-9b98-51f0edcad3af",
+          "score": 1.00920014801025,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_573.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "ca405239-2c64-4951-ab1d-9569f5c33dfb",
+          "score": 1.00920014801025,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_361.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "d4e4afa3-4cec-4e4a-bb0a-f0257e344c81",
+          "score": 1.00920014801025,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_326.txt",
+          "is_poison": true
+        }
+      ]
+    },
+    {
+      "query_id": "test7",
+      "rank1_document_id": "1ec8141d-12fa-4e4f-bbcc-586f3fc7d933",
+      "rank1_score": 0.476567268371582,
+      "rank1_corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_875.txt",
+      "rank1_is_poison": true,
+      "first_clean_rank": null,
+      "poison_at_rank": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "results": [
+        {
+          "document_id": "1ec8141d-12fa-4e4f-bbcc-586f3fc7d933",
+          "score": 0.476567268371582,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_875.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "11ceeffd-615e-482a-90e5-66d01d44db35",
+          "score": 0.476567268371582,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_861.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "602f83cf-88f9-4d67-8bc3-85be83a07e07",
+          "score": 0.476567268371582,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_851.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "5072847a-c1b8-4fb0-8411-55673635e896",
+          "score": 0.476567268371582,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_831.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "a67006ac-e87b-4b1c-a58a-cd6622983be8",
+          "score": 0.476567268371582,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_830.txt",
+          "is_poison": true
+        }
+      ]
+    },
+    {
+      "query_id": "test8",
+      "rank1_document_id": "49a8c9fb-8a2b-4247-a412-d7f5c608e6f8",
+      "rank1_score": 1.5,
+      "rank1_corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_806.txt",
+      "rank1_is_poison": true,
+      "first_clean_rank": null,
+      "poison_at_rank": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "results": [
+        {
+          "document_id": "49a8c9fb-8a2b-4247-a412-d7f5c608e6f8",
+          "score": 1.5,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_806.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "835c7232-0a4f-4032-a102-f40fa893a38c",
+          "score": 2.5,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_869.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "7f850396-5888-46a5-b8e6-141498797f19",
+          "score": 3.0,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_466.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "094332ca-5f32-46b7-8596-936b52ce22c4",
+          "score": 3.0,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_977.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "42c5b14e-240b-4a27-b5a7-5b630e0ac875",
+          "score": 3.5,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_879.txt",
+          "is_poison": true
+        }
+      ]
+    },
+    {
+      "query_id": "test9",
+      "rank1_document_id": "8782613d-9a7c-4b4c-9d27-9f02ada22b5f",
+      "rank1_score": 1.01495392762262,
+      "rank1_corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_962.txt",
+      "rank1_is_poison": true,
+      "first_clean_rank": null,
+      "poison_at_rank": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "results": [
+        {
+          "document_id": "8782613d-9a7c-4b4c-9d27-9f02ada22b5f",
+          "score": 1.01495392762262,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_962.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "e0a751cd-e3c5-4ecf-ade6-2dc2bacf108d",
+          "score": 1.01495392762262,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_398.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "53f6daf9-615d-417a-bcce-41ca33ecfbea",
+          "score": 1.01495392762262,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_477.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "ee0f206d-691f-4dd7-9968-284cea80dda7",
+          "score": 1.01495392762262,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_803.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cee60403-2d7a-452d-82ba-4ce24cf2552d",
+          "score": 1.01495392762262,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_613.txt",
+          "is_poison": true
+        }
+      ]
+    },
+    {
+      "query_id": "test10",
+      "rank1_document_id": "95f1ac9f-fa5c-4f8a-8e1a-409ddff459e2",
+      "rank1_score": 1.04047343156217,
+      "rank1_corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_565.txt",
+      "rank1_is_poison": true,
+      "first_clean_rank": null,
+      "poison_at_rank": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "results": [
+        {
+          "document_id": "95f1ac9f-fa5c-4f8a-8e1a-409ddff459e2",
+          "score": 1.04047343156217,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_565.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "b9b6ef3d-6413-49ae-9dd9-1bde7f7aab52",
+          "score": 1.04047343156217,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_065.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "75d35e98-469b-452b-bd9a-feef1af74885",
+          "score": 1.04047343156217,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_029.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "e433f71a-90f8-490c-871d-d514b02ed382",
+          "score": 1.04047343156217,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_922.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "95d93bce-2c9b-4d20-b2f4-f56dc74bbd88",
+          "score": 1.04047343156217,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_894.txt",
+          "is_poison": true
+        }
+      ]
+    },
+    {
+      "query_id": "test11",
+      "rank1_document_id": "a9c7decb-7d65-4182-a657-c2af1ee0443a",
+      "rank1_score": 0.97956134679941,
+      "rank1_corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_955.txt",
+      "rank1_is_poison": true,
+      "first_clean_rank": null,
+      "poison_at_rank": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "results": [
+        {
+          "document_id": "a9c7decb-7d65-4182-a657-c2af1ee0443a",
+          "score": 0.97956134679941,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_955.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "a8749850-9628-43d0-bdb7-8ac89c5bd0aa",
+          "score": 0.97956134679941,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_051.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "1c5f9bc9-f543-4137-94e7-fe58535efe74",
+          "score": 0.97956134679941,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_050.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "f29b1ff3-972b-4a1b-95c7-a5f1c66e7cc4",
+          "score": 0.97956134679941,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_997.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "597775a7-5b04-46e2-ad78-c761ef0d8785",
+          "score": 0.97956134679941,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_263.txt",
+          "is_poison": true
+        }
+      ]
+    },
+    {
+      "query_id": "test12",
+      "rank1_document_id": null,
+      "rank1_score": null,
+      "rank1_corpus_path": null,
+      "rank1_is_poison": null,
+      "first_clean_rank": null,
+      "poison_at_rank": [],
+      "results": []
+    },
+    {
+      "query_id": "test13",
+      "rank1_document_id": "d5b9c739-13d4-45fc-92e5-e5e70ecdd467",
+      "rank1_score": 0.89350707608377,
+      "rank1_corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_560.txt",
+      "rank1_is_poison": true,
+      "first_clean_rank": null,
+      "poison_at_rank": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "results": [
+        {
+          "document_id": "d5b9c739-13d4-45fc-92e5-e5e70ecdd467",
+          "score": 0.89350707608377,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_560.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "e4b59d3f-de4a-4d46-9b74-6c76efebede1",
+          "score": 0.89350707608377,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_739.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "c1455a67-b011-4b79-ae12-05990c7298b9",
+          "score": 0.89350707608377,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_023.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "bb79d95f-2169-4b2d-93c2-96bcf24b3e25",
+          "score": 0.89350707608377,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_186.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "2150974d-159b-4b37-9b7e-b409f9bab17b",
+          "score": 0.89350707608377,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_945.txt",
+          "is_poison": true
+        }
+      ]
+    },
+    {
+      "query_id": "test14",
+      "rank1_document_id": null,
+      "rank1_score": null,
+      "rank1_corpus_path": null,
+      "rank1_is_poison": null,
+      "first_clean_rank": null,
+      "poison_at_rank": [],
+      "results": []
+    },
+    {
+      "query_id": "test15",
+      "rank1_document_id": "41391afe-5e82-451b-9a11-d270b3420c4b",
+      "rank1_score": 0.846185454953583,
+      "rank1_corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/poison_001.txt",
+      "rank1_is_poison": true,
+      "first_clean_rank": null,
+      "poison_at_rank": [
+        1
+      ],
+      "results": [
+        {
+          "document_id": "41391afe-5e82-451b-9a11-d270b3420c4b",
+          "score": 0.846185454953583,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/poison_001.txt",
+          "is_poison": true
+        }
+      ]
+    },
+    {
+      "query_id": "test16",
+      "rank1_document_id": null,
+      "rank1_score": null,
+      "rank1_corpus_path": null,
+      "rank1_is_poison": null,
+      "first_clean_rank": null,
+      "poison_at_rank": [],
+      "results": []
+    },
+    {
+      "query_id": "test17",
+      "rank1_document_id": "d6fa2aa2-f16a-4918-a891-2003e0ad563d",
+      "rank1_score": 0.96987570422871,
+      "rank1_corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_529.txt",
+      "rank1_is_poison": true,
+      "first_clean_rank": null,
+      "poison_at_rank": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "results": [
+        {
+          "document_id": "d6fa2aa2-f16a-4918-a891-2003e0ad563d",
+          "score": 0.96987570422871,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_529.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "d3176f72-f8eb-4b52-bb8f-bf1df9ad6507",
+          "score": 0.96987570422871,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_638.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "6a415e8d-7fa1-489f-ba8b-49da05deabb0",
+          "score": 0.96987570422871,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_957.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "4f91ec29-1175-4050-a86c-e55788fd21e0",
+          "score": 0.96987570422871,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_127.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "e4af52b9-cc4d-4619-9786-15480b1b36e4",
+          "score": 0.96987570422871,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_325.txt",
+          "is_poison": true
+        }
+      ]
+    },
+    {
+      "query_id": "test18",
+      "rank1_document_id": "e010c40b-f9ea-40de-9722-09490a6721b1",
+      "rank1_score": 6.5,
+      "rank1_corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_998.txt",
+      "rank1_is_poison": true,
+      "first_clean_rank": null,
+      "poison_at_rank": [
+        1,
+        2,
+        3
+      ],
+      "results": [
+        {
+          "document_id": "e010c40b-f9ea-40de-9722-09490a6721b1",
+          "score": 6.5,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_998.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "a0d47838-c90b-4ca0-93b3-1d7996417cc0",
+          "score": 7.5,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_862.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "95546a92-9de1-44c5-b6c3-416dd72fa9eb",
+          "score": 9.0,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_832.txt",
+          "is_poison": true
+        }
+      ]
+    },
+    {
+      "query_id": "test19",
+      "rank1_document_id": "6070eead-b674-4d75-941d-347addd785d3",
+      "rank1_score": 0.888842612504959,
+      "rank1_corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_919.txt",
+      "rank1_is_poison": true,
+      "first_clean_rank": null,
+      "poison_at_rank": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "results": [
+        {
+          "document_id": "6070eead-b674-4d75-941d-347addd785d3",
+          "score": 0.888842612504959,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_919.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "d38ece06-fb9b-4b58-8043-646c14f96906",
+          "score": 0.888842612504959,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_907.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "cf72a0c0-d048-4c65-8c60-b0a7421153e3",
+          "score": 0.888842612504959,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_886.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "1556c4d1-7cc7-4755-bdd5-9b79362ff80c",
+          "score": 0.888842612504959,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_693.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "95029c22-b0e7-446a-bd1c-c2e2cce089d8",
+          "score": 0.888842612504959,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_546.txt",
+          "is_poison": true
+        }
+      ]
+    },
+    {
+      "query_id": "test20",
+      "rank1_document_id": null,
+      "rank1_score": null,
+      "rank1_corpus_path": null,
+      "rank1_is_poison": null,
+      "first_clean_rank": null,
+      "poison_at_rank": [],
+      "results": []
+    },
+    {
+      "query_id": "test21",
+      "rank1_document_id": null,
+      "rank1_score": null,
+      "rank1_corpus_path": null,
+      "rank1_is_poison": null,
+      "first_clean_rank": null,
+      "poison_at_rank": [],
+      "results": []
+    },
+    {
+      "query_id": "test22",
+      "rank1_document_id": "03935751-7a86-482f-bb3e-286d8a4aacf8",
+      "rank1_score": 0.831571360324106,
+      "rank1_corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_805.txt",
+      "rank1_is_poison": true,
+      "first_clean_rank": null,
+      "poison_at_rank": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "results": [
+        {
+          "document_id": "03935751-7a86-482f-bb3e-286d8a4aacf8",
+          "score": 0.831571360324106,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_805.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "c1c1713f-bdbf-44c2-a927-8017f5292c51",
+          "score": 0.831571360324106,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_782.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "6040466d-c400-4ed3-a05d-d57cb789421b",
+          "score": 0.831571360324106,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_737.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "53309a81-4f29-4e20-9fa3-fbed4dd06669",
+          "score": 0.831571360324106,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_285.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "1a514dd0-0582-4de3-b8a4-a4367791365e",
+          "score": 0.831571360324106,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_715.txt",
+          "is_poison": true
+        }
+      ]
+    },
+    {
+      "query_id": "test23",
+      "rank1_document_id": null,
+      "rank1_score": null,
+      "rank1_corpus_path": null,
+      "rank1_is_poison": null,
+      "first_clean_rank": null,
+      "poison_at_rank": [],
+      "results": []
+    },
+    {
+      "query_id": "test24",
+      "rank1_document_id": "ecf7a60d-1cb1-4f9b-ae01-f7c913dccbee",
+      "rank1_score": 0.932060070984355,
+      "rank1_corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_311.txt",
+      "rank1_is_poison": true,
+      "first_clean_rank": null,
+      "poison_at_rank": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "results": [
+        {
+          "document_id": "ecf7a60d-1cb1-4f9b-ae01-f7c913dccbee",
+          "score": 0.932060070984355,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_311.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "6bb8b609-9445-48c1-81fe-9fe3fbe02a81",
+          "score": 0.932060070984355,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_451.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "0adaaf60-c2ac-4bf1-b9e7-7bd721e8b628",
+          "score": 0.932060070984355,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_445.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "38b57515-dc61-4929-8793-fbb20448ea2f",
+          "score": 0.932060070984355,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_308.txt",
+          "is_poison": true
+        },
+        {
+          "document_id": "4e165449-0889-463e-812d-8d13383fec09",
+          "score": 0.932060070984355,
+          "corpus_path": "corpus/nq_poisonedrag_ratio_0_1pct_poison/clean_237.txt",
+          "is_poison": true
+        }
+      ]
+    }
+  ],
+  "summary_metrics": {
+    "num_queries": 25,
+    "attack_success_rate": 0.72,
+    "num_rank1_poison": 18,
+    "num_rank1_clean": 0,
+    "poison_in_top_k_rate": 0.72,
+    "poison_at_rank_counts": {
+      "1": 18,
+      "2": 17,
+      "3": 17,
+      "4": 16,
+      "5": 16
+    },
+    "mean_first_clean_rank": null
+  }
+}

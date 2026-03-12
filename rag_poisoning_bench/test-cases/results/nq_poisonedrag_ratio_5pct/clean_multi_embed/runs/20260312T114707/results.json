@@ -1,0 +1,904 @@
+[
+  {
+    "id": "test0",
+    "query": "what is non controlling interest on balance sheet",
+    "response": {
+      "results": [
+        {
+          "document_id": "b5d7b9e4-3d40-4d45-8ac0-6f668c3800b5",
+          "chunk_id": "373e086e-dbcb-4867-95c3-040f2ddc58c0",
+          "text": " minority interest in the mezzanine section of the balance sheet.",
+          "score": 0.5
+        },
+        {
+          "document_id": "b5d7b9e4-3d40-4d45-8ac0-6f668c3800b5",
+          "chunk_id": "d3fcd7e5-655b-4a25-a47f-bd7841b8ebdb",
+          "text": "Minority interest\n\nUnder the International Financial Reporting Standards, the non-controlling interest is reported in accordance with IFRS 5 and is shown at the very bottom of the Equity section on the consolidated balance sheet and subsequently on the statement of changes in equity. Under US GAAP minority interest can be reported either in the liabilities section, the equity secti",
+          "score": 0.5
+        },
+        {
+          "document_id": "b49b169c-2287-4574-aca8-78ce828716b2",
+          "chunk_id": "91f3e9c4-352e-4aca-902d-6c03ce5a66eb",
+          "text": "Minority interest\n\nIn accounting, minority interest (or non-controlling interest) is the portion of a subsidiary corporation's stock that is not owned by the parent corporation. The magnitude of the minority interest in the subsidiary company is generally less than 50% of outstanding shares, or the corporation would generally cease to be a subsidiary of the parent.[1]",
+          "score": 3.5
+        },
+        {
+          "document_id": "92e16d13-506d-4250-9d4a-356c9d5e0d56",
+          "chunk_id": "17345ae4-06a2-48c7-877a-846167d5c1f0",
+          "text": "Minority interest\n\nIn accounting, minority interest (or non-controlling interest) is the portion of a subsidiary corporation's stock that is not owned by the parent corporation. The magnitude of the minority interest in the subsidiary company is generally less than 50% of outstanding shares, or the corporation would generally cease to be a subsidiary of the parent.[1]",
+          "score": 3.5
+        },
+        {
+          "document_id": "6cafbaaa-cf9b-4d2a-bb00-4b1755071e8c",
+          "chunk_id": "41c2fcd3-605b-4f96-8ab0-50168ee4e3ce",
+          "text": "Minority interest\n\nIt is, however, possible (such as through special voting rights) for a controlling interest requiring consolidation to be achieved without exceeding 50% ownership, depending on the accounting standards being employed. Minority interest belongs to other investors and is reported on the consolidated balance sheet of the owning company to reflect the claim on assets",
+          "score": 4.0
+        }
+      ]
+    }
+  },
+  {
+    "id": "test1",
+    "query": "how many episodes are in chicago fire season 4",
+    "response": {
+      "results": [
+        {
+          "document_id": "8b120684-1113-45f8-a9ac-1fd0b14c4eb5",
+          "chunk_id": "9c1fc6c1-e7a0-426e-9fab-1af89fb7544c",
+          "text": "Chicago Fire (season 4)\n\nThe fourth season of Chicago Fire, an American drama television series with executive producer Dick Wolf, and producers Derek Haas, Michael Brandt, and Matt Olmstead, was ordered on February 5, 2015, by NBC,[1] and premiered on October 13, 2015 and concluded on May 17, 2016.[2] The season contained 23 episodes.[3]",
+          "score": 0.0
+        },
+        {
+          "document_id": "34dd3b99-89c3-4bd7-9f9b-aeb7f12970b0",
+          "chunk_id": "c34f9924-2c70-4b03-bbd6-ab5d77e0aef4",
+          "text": "Chicago Fire (season 4)\n\nHermann is rushed to Chicago Med after being stabbed at Molly's. After losing a lot a blood, it is determined he needs emergency surgery. Feeling guilty about Hermann's present state, Cruz searches for Freddy to turn him in. Severide is reinstated as Lieutenant while Borelli grows more concerned about Chili's erratic behavior. Mouch considers finally propos",
+          "score": 2.0
+        },
+        {
+          "document_id": "4fa36d22-ff15-4ca6-b8b0-5764990cbfab",
+          "chunk_id": "111fd62b-fd14-47c4-8e33-c17234ca897f",
+          "text": "Chicago Fire (season 4)\n\nHermann is rushed to Chicago Med after being stabbed at Molly's. After losing a lot a blood, it is determined he needs emergency surgery. Feeling guilty about Hermann's present state, Cruz searches for Freddy to turn him in. Severide is reinstated as Lieutenant while Borelli grows more concerned about Chili's erratic behavior. Mouch considers finally propos",
+          "score": 2.5
+        },
+        {
+          "document_id": "23b6dd7b-4213-4378-b188-301515eaa1f5",
+          "chunk_id": "596d35df-33c8-4d55-985c-d54aaea1d38f",
+          "text": "Chicago Fire (season 4)\n\nTensions only get worse between Patterson and Severide when Severide makes a call at a job without his consent causing Patterson to question Severide's being at 51. Meanwhile, Borelli and Chili take their romance to the next level, Cruz receives a visit from one of his brother Leon's old gang members. Also, Mouch receives tickets from one of the members of ",
+          "score": 2.5
+        },
+        {
+          "document_id": "76764239-816d-4850-9d87-fb45f24910b3",
+          "chunk_id": "6d785159-ba0e-4e76-aa71-0a6706e7d140",
+          "text": "Chicago Fire (season 4)\n\nHermann is rushed to Chicago Med after being stabbed at Molly's. After losing a lot a blood, it is determined he needs emergency surgery. Feeling guilty about Hermann's present state, Cruz searches for Freddy to turn him in. Severide is reinstated as Lieutenant while Borelli grows more concerned about Chili's erratic behavior. Mouch considers finally propos",
+          "score": 3.0
+        }
+      ]
+    }
+  },
+  {
+    "id": "test2",
+    "query": "who sings love will keep us alive by the eagles",
+    "response": {
+      "results": [
+        {
+          "document_id": "0c074dcf-732d-42f4-84e9-b54908a34b0e",
+          "chunk_id": "a661128a-5ee2-4120-85f6-9a1ba77d3ef7",
+          "text": "Love Will Keep Us Alive\n\n\"Love Will Keep Us Alive\" is a song written by Jim Capaldi, Paul Carrack, and Peter Vale, and produced by the Eagles, Elliot Scheiner, and Rob Jacobs. It was first performed by the Eagles in 1994, during their \"Hell Freezes Over\" reunion tour, with lead vocals by bassist Timothy B. Schmit.",
+          "score": 0.0
+        },
+        {
+          "document_id": "b2dd9008-5e24-45a9-bae6-cfa2c549fcb0",
+          "chunk_id": "8a7c5ed8-46fd-4dec-83fe-388e211a93bc",
+          "text": "Love Will Keep Us Alive\n\nAside from being on the album Hell Freezes Over, the song appears on the Eagles' box set, Selected Works 1972-1999 and the 2003 compilation album, The Very Best Of.",
+          "score": 1.0
+        },
+        {
+          "document_id": "f83b1f60-0f7f-4b6f-b453-ad45e486fd03",
+          "chunk_id": "a4c4feb6-bed5-4fd3-8bfb-f9c3ba4c8024",
+          "text": "Love Will Keep Us Alive\n\n\"Love Will Keep Us Alive\" was also recorded by Capaldi and Dave Mason on their 40,000 Headman tour and live album, and by Carrack (duet with Lindsay Dracass) on his 2007 album Old, New, Borrowed and Blue. It was also covered by Canadian-Australian singer Wendy Matthews in 1995 as \"Love Will Keep Me Alive\" as a track from the album The Witness Tree (1994).",
+          "score": 2.0
+        },
+        {
+          "document_id": "c89f8f35-0f92-47f1-9547-0a6f7277c950",
+          "chunk_id": "97c9adb8-b4c6-430b-9c7a-6ac61c240e1e",
+          "text": "Love Will Keep Us Alive\n\nIn 2011, Paul Carrack and Timothy B. Schmit recorded the song in London with the Royal Philharmonic Orchestra, and released it in the UK on the Carrack label.",
+          "score": 4.0
+        },
+        {
+          "document_id": "c1157204-9c24-40ea-a512-e58a5bae9fa1",
+          "chunk_id": "66a424cf-bc21-45b1-9ff5-7b5a7bf98a0e",
+          "text": "Love Will Keep Us Alive\n\nIn 2011, Paul Carrack and Timothy B. Schmit recorded the song in London with the Royal Philharmonic Orchestra, and released it in the UK on the Carrack label.",
+          "score": 4.0
+        }
+      ]
+    }
+  },
+  {
+    "id": "test3",
+    "query": "who is the leader of the ontario pc party",
+    "response": {
+      "results": [
+        {
+          "document_id": "c6de1eb0-a51d-45d2-b291-dfecf7b36954",
+          "chunk_id": "803a0b6d-9d0a-44e0-a410-f7883a490398",
+          "text": "Patrick Brown (politician)\n\nPatrick Walter Brown MPP (born May 26, 1978) is a Canadian politician who is the leader of the Progressive Conservative Party of Ontario and Ontario's Leader of the Official Opposition. Brown was a federal Conservative member of the House of Commons of Canada from 2006-15 representing the riding of Barrie.",
+          "score": 1.0
+        },
+        {
+          "document_id": "cd0f9b40-e72c-4990-b6c9-7bbe2ddf5205",
+          "chunk_id": "6616c2f0-a6f9-460c-88da-7bf94397ebb5",
+          "text": "Patrick Brown (politician)\n\nPatrick Walter Brown MPP (born May 26, 1978) is a Canadian politician who is the leader of the Progressive Conservative Party of Ontario and Ontario's Leader of the Official Opposition. Brown was a federal Conservative member of the House of Commons of Canada from 2006-15 representing the riding of Barrie.",
+          "score": 1.5
+        },
+        {
+          "document_id": "09207374-6611-497f-b68c-ef7d09840f5d",
+          "chunk_id": "afdc4fa5-0e9a-4522-86aa-ced688fbc5ad",
+          "text": "Patrick Brown (politician)\n\nPatrick Walter Brown MPP (born May 26, 1978) is a Canadian politician who is the leader of the Progressive Conservative Party of Ontario and Ontario's Leader of the Official Opposition. Brown was a federal Conservative member of the House of Commons of Canada from 2006-15 representing the riding of Barrie.",
+          "score": 2.0
+        },
+        {
+          "document_id": "317d522d-0821-46cd-8b6c-ac902955da40",
+          "chunk_id": "8727f051-00fa-40dd-8f40-902d0f40ea0c",
+          "text": "Patrick Brown (politician)\n\nIn September 2014, Brown announced his intention to run in the contest to replace PC Party Leader, Tim Hudak. From the outset of his campaign, Brown positioned himself as an outsider, challenging the leadership of the PC Party, which had been defeated in the last four provincial elections. In the most recent election campaign, in 2014, the party election",
+          "score": 2.0
+        },
+        {
+          "document_id": "d1ec0fa9-16ed-40a9-af2d-59d453d2e1f6",
+          "chunk_id": "478f4780-7c71-4314-aae1-63ad78de0ffa",
+          "text": "Patrick Brown (politician)\n\nOn September 28, 2014, he announced his intention to run in the 2015 Ontario party leadership election. He registered as a leadership candidate on November 20, 2014. He said that, unlike the other candidates, he was not involved in the four consecutive losses that have kept the Ontario PCs out of power since 2003.[36] At the time of his jump to provincia",
+          "score": 3.5
+        }
+      ]
+    }
+  },
+  {
+    "id": "test4",
+    "query": "nitty gritty dirt band fishin in the dark album",
+    "response": {
+      "results": [
+        {
+          "document_id": "a0c4cd22-72ea-4036-8391-67aecd39da98",
+          "chunk_id": "5194358e-0caf-4c24-adf0-72e4d20f89fc",
+          "text": "Fishin' in the Dark\n\n*sales figures based on certification alone\n^shipments figures based on certification alone",
+          "score": 0.5
+        },
+        {
+          "document_id": "64453cc0-d303-4a2f-9f40-5fe392da3c22",
+          "chunk_id": "ab685d86-08b0-45d3-b010-78d8c6cb7869",
+          "text": "Fishin' in the Dark\n\n*sales figures based on certification alone\n^shipments figures based on certification alone",
+          "score": 1.5
+        },
+        {
+          "document_id": "3cfdb4a0-751f-4540-a2eb-5832f05cd648",
+          "chunk_id": "74dd86f3-7420-4862-a9de-b208cf1ecca6",
+          "text": "Fishin' in the Dark\n\n*sales figures based on certification alone\n^shipments figures based on certification alone",
+          "score": 1.5
+        },
+        {
+          "document_id": "5f59b24b-b1ce-44db-a5bc-600a159aee37",
+          "chunk_id": "4d14dc39-201f-4ba9-8079-41d37c587b37",
+          "text": "Fishin' in the Dark\n\n*sales figures based on certification alone\n^shipments figures based on certification alone",
+          "score": 2.5
+        },
+        {
+          "document_id": "f8834b8b-cbb6-4d54-9727-f1f7d13a028a",
+          "chunk_id": "aa8dddbb-7449-415d-9b55-7b06a3524fbe",
+          "text": "Panning (audio)\n\nBefore pan pots were available, \"a three-way switch was used to assign the track to the left output, right output, or both (the center)\".[4] Ubiquitous in the Billboard charts throughout the middle and late 1960s, clear examples include the Beatles's \"Strawberry Fields Forever\" and Jimi Hendrix's \"Purple Haze\".[5] In the Beatles's \"A Day In The Life\" Lennon's vocal",
+          "score": 4.0
+        }
+      ]
+    }
+  },
+  {
+    "id": "test5",
+    "query": "who were the three elves who got rings",
+    "response": {
+      "results": [
+        {
+          "document_id": "fb02fa94-8691-49fa-931e-4fa845e63297",
+          "chunk_id": "5677ff5e-884e-44c8-aa35-cb139807f42a",
+          "text": "Three Rings\n\nIn Tolkien's mythology, the Three Rings are magical artifacts forged by the Elves of Eregion. After the One Ring, they are the most powerful of the twenty Rings of Power.[1]",
+          "score": 1.0
+        },
+        {
+          "document_id": "75888783-e7bf-4d16-adf9-45bbb0e6e100",
+          "chunk_id": "70111b2b-aad7-4d2d-9b94-352818eb09e5",
+          "text": "Three Rings\n\nThe Three Rings were made by Celebrimbor after Sauron, in the guise of Annatar, had left Eregion. These were free of Sauron's influence, as he did not have a hand in their making. However, they were still forged by Celebrimbor with the arts taught to him by Sauron and thus were still bound to the One Ring. Upon perceiving Sauron's intent, the Elves hid the three from h",
+          "score": 1.0
+        },
+        {
+          "document_id": "bbd57a78-8572-41dc-9355-aff1deec6f0f",
+          "chunk_id": "6227f8a9-c39d-4527-b877-7849806a72e6",
+          "text": "Three Rings\n\nIn Tolkien's mythology, the Three Rings are magical artifacts forged by the Elves of Eregion. After the One Ring, they are the most powerful of the twenty Rings of Power.[1]",
+          "score": 1.0
+        },
+        {
+          "document_id": "75888783-e7bf-4d16-adf9-45bbb0e6e100",
+          "chunk_id": "a8e882b9-24fa-4e3f-9d05-66dfed190a50",
+          "text": "ng Sauron's intent, the Elves hid the three from him. They were carried out of Middle-earth at the end of the Third Age, after the destruction of the One Ring.",
+          "score": 3.5
+        },
+        {
+          "document_id": "140b1b73-2b3d-4f3c-bffb-4c6ecfae0602",
+          "chunk_id": "7b5de791-ffa4-469b-bad3-95c2db2c61a3",
+          "text": "Three Rings\n\nAccording to Unfinished Tales, at the start of the War of the Elves and Sauron, Celebrimbor gave Narya together with the Ring Vilya to Gil-galad, High King of the Noldor. Gil-galad entrusted Narya to his lieutenant C\u00edrdan, Lord of the Havens of Mithlond, who kept it after Gil-galad's death. According to The Lord of the Rings, Gil-galad received only Vilya, while C\u00edrdan",
+          "score": 3.5
+        }
+      ]
+    }
+  },
+  {
+    "id": "test6",
+    "query": "converting stereo signal to mono signal is called",
+    "response": {
+      "results": [
+        {
+          "document_id": "e10f456e-a7b6-4575-a470-9ea847499307",
+          "chunk_id": "de2c2c3c-741d-4ba1-88a0-ba2995eda974",
+          "text": "Panning (audio)\n\nA pan pot has an internal architecture which determines how much of a source signal is sent to the left and right buses. \"Pan pots split audio signals into left and right channels, each equipped with its own discrete gain (volume) control.\"[1] This signal distribution is often called a taper or law.",
+          "score": 1.5
+        },
+        {
+          "document_id": "01c01621-e014-4e1c-87ff-59b633c49e7b",
+          "chunk_id": "fe7efeb9-3321-45df-be71-b659c91c02b5",
+          "text": "Panning (audio)\n\nA pan pot has an internal architecture which determines how much of a source signal is sent to the left and right buses. \"Pan pots split audio signals into left and right channels, each equipped with its own discrete gain (volume) control.\"[1] This signal distribution is often called a taper or law.",
+          "score": 2.5
+        },
+        {
+          "document_id": "669ed9b0-4de7-42ef-9eda-088eb37d292f",
+          "chunk_id": "186d75a9-d8cf-4849-9502-f84caa0e66fd",
+          "text": "Panning (audio)\n\nPanning is the distribution of a sound signal (either monaural or stereophonic pairs) into a new stereo or multi-channel sound field determined by a pan control setting. A typical physical recording console has a pan control for each incoming source channel. A pan control or pan pot (short for \"panoramic potentiometer\") is an analog knob or slider with a position i",
+          "score": 3.0
+        },
+        {
+          "document_id": "81c194ea-f04c-48bf-ae0f-97e0d6882351",
+          "chunk_id": "68070f24-724f-44a4-b1b0-7df9273f63ff",
+          "text": "Panning (audio)\n\nPanning is the distribution of a sound signal (either monaural or stereophonic pairs) into a new stereo or multi-channel sound field determined by a pan control setting. A typical physical recording console has a pan control for each incoming source channel. A pan control or pan pot (short for \"panoramic potentiometer\") is an analog knob or slider with a position i",
+          "score": 3.0
+        },
+        {
+          "document_id": "3a49d431-a5f7-4ef4-a92c-4e76cbb83306",
+          "chunk_id": "0e10ceed-d526-4f46-8a11-8d790c1cef6c",
+          "text": "Panning (audio)\n\nWhen centered (at 12 o'clock), the law can be designed to send \u22123, \u22124.5 or \u22126 decibels (dB) equally to each bus. \"Signal passes through both the channels at an equal volume while the pan pot points directly north.\"[1] If the two output buses are later recombined into a monaural signal, then a pan law of -6\u00a0dB is desirable. If the two output buses are to remain ster",
+          "score": 4.0
+        }
+      ]
+    }
+  },
+  {
+    "id": "test7",
+    "query": "in order to prove disparate impact you first must establish",
+    "response": {
+      "results": [
+        {
+          "document_id": "b2a611ac-dc11-440a-9238-e915c251f0c1",
+          "chunk_id": "4062bb13-29b5-461a-ae72-4b2156e014ca",
+          "text": "federal government may still pursue disparate impact claims under these laws.[6] The U.S. Supreme Court has held that the Fair Housing Act of 1968 creates a cause of action for disparate impact.[7] Disparate impact contrasts with disparate treatment. A disparate impact is unintentional, whereas a disparate treatment is an intentional decision to treat people differently based on th",
+          "score": 2.5
+        },
+        {
+          "document_id": "7dab1a0d-9299-4fc6-b6a5-0a0920b28f91",
+          "chunk_id": "20ed5a09-dc9d-4fd9-9a01-edc2936057fc",
+          "text": "Disparate impact\n\nWhile disparate impact is a legal theory of liability under Title VII, adverse impact is one element of that doctrine, which measures the effect an employment practice has on a class protected by Title VII. In the Uniform Guidelines on Employee Selection Procedures, an adverse impact is defined as a \"substantially different rate of selection in hiring, promotion, ",
+          "score": 2.5
+        },
+        {
+          "document_id": "8e226ce5-ae06-40d4-b024-cc3ea38a080f",
+          "chunk_id": "c35ce8d7-2f15-4c90-a793-86270eb34c4d",
+          "text": "Disparate impact\n\nWhile disparate impact is a legal theory of liability under Title VII, adverse impact is one element of that doctrine, which measures the effect an employment practice has on a class protected by Title VII. In the Uniform Guidelines on Employee Selection Procedures, an adverse impact is defined as a \"substantially different rate of selection in hiring, promotion, ",
+          "score": 3.5
+        },
+        {
+          "document_id": "624ca025-4253-4b02-97b7-94b7cbf8f096",
+          "chunk_id": "76be4b69-898a-4e91-9d05-a325111cb5d0",
+          "text": "federal government may still pursue disparate impact claims under these laws.[6] The U.S. Supreme Court has held that the Fair Housing Act of 1968 creates a cause of action for disparate impact.[7] Disparate impact contrasts with disparate treatment. A disparate impact is unintentional, whereas a disparate treatment is an intentional decision to treat people differently based on th",
+          "score": 3.5
+        },
+        {
+          "document_id": "8ac3ab11-4a8c-4567-85f0-841bb663d1a8",
+          "chunk_id": "cfcceacc-2fc1-4e86-bacf-921fb3660ec4",
+          "text": "o rule that the Act does not contain a disparate impact provision, but both cases settled before the Court could issue a decision. The federal government appeared to pressure the settlement in one or both cases in an effort to preserve the disparate impact theory.[16][17][18]",
+          "score": 4.0
+        }
+      ]
+    }
+  },
+  {
+    "id": "test8",
+    "query": "where do characters live in this is us",
+    "response": {
+      "results": [
+        {
+          "document_id": "f772002e-5174-4fca-861d-c5c376b84622",
+          "chunk_id": "696e47e5-85e9-43d2-b35a-c3c783dd6644",
+          "text": "chart. In the United Kingdom, \"Love Will Keep Us Alive\" was issued as a single and peaked at number 52 on the UK Singles Chart.[2]",
+          "score": 0.5
+        },
+        {
+          "document_id": "f772002e-5174-4fca-861d-c5c376b84622",
+          "chunk_id": "1a9add8b-7edb-4955-8d90-02e76deca40c",
+          "text": "Love Will Keep Us Alive\n\nAlthough the song was never formally released as a single in the US, and thus was not eligible to appear on the US Billboard Hot 100 under the rules then in place, it spent three weeks at number 1 on the Billboard adult contemporary chart in early 1995[1] and reached number 22 on Billboard's Hot 100 Airplay chart. In the United Kingdom, \"Love Will Keep Us A",
+          "score": 0.5
+        },
+        {
+          "document_id": "0c074dcf-732d-42f4-84e9-b54908a34b0e",
+          "chunk_id": "a661128a-5ee2-4120-85f6-9a1ba77d3ef7",
+          "text": "Love Will Keep Us Alive\n\n\"Love Will Keep Us Alive\" is a song written by Jim Capaldi, Paul Carrack, and Peter Vale, and produced by the Eagles, Elliot Scheiner, and Rob Jacobs. It was first performed by the Eagles in 1994, during their \"Hell Freezes Over\" reunion tour, with lead vocals by bassist Timothy B. Schmit.",
+          "score": 3.0
+        },
+        {
+          "document_id": "c89f8f35-0f92-47f1-9547-0a6f7277c950",
+          "chunk_id": "97c9adb8-b4c6-430b-9c7a-6ac61c240e1e",
+          "text": "Love Will Keep Us Alive\n\nIn 2011, Paul Carrack and Timothy B. Schmit recorded the song in London with the Royal Philharmonic Orchestra, and released it in the UK on the Carrack label.",
+          "score": 3.5
+        },
+        {
+          "document_id": "c1157204-9c24-40ea-a512-e58a5bae9fa1",
+          "chunk_id": "66a424cf-bc21-45b1-9ff5-7b5a7bf98a0e",
+          "text": "Love Will Keep Us Alive\n\nIn 2011, Paul Carrack and Timothy B. Schmit recorded the song in London with the Royal Philharmonic Orchestra, and released it in the UK on the Carrack label.",
+          "score": 3.5
+        }
+      ]
+    }
+  },
+  {
+    "id": "test9",
+    "query": "who makes the decisions about what to produce in a market economy",
+    "response": {
+      "results": [
+        {
+          "document_id": "ca94ff96-b7e7-4c44-b10d-a3480e89b23c",
+          "chunk_id": "78a13a48-2779-4291-8ab0-5ed741fe4a26",
+          "text": "ated to successful job performance. An important thing to note is that disparate impact is not, in and of itself, illegal.[13] This is because disparate impact only becomes illegal if the employer cannot justify the employment practice causing the adverse impact as a \"job related for the position in question and consistent with business necessity\" (called the \"business necessity de",
+          "score": 4.5
+        },
+        {
+          "document_id": "1fe58a40-9452-46bb-9887-65ede39eb84c",
+          "chunk_id": "130e3b45-f57f-48bd-b2f2-a1a1fd81fa12",
+          "text": "Minority interest\n\nMinority interest is an integral part of the enterprise value of a company. The converse concept is an associate company.",
+          "score": 6.0
+        },
+        {
+          "document_id": "46595d65-4519-4342-bc7f-6387ea2b8065",
+          "chunk_id": "88e61cb1-f243-42df-815c-8729fc084c4c",
+          "text": "Minority interest\n\nSome investors have expressed concern that the minority interest line items cause significant uncertainty for the assessment of value, leverage and liquidity.[2] A key concern of investors is that they cannot be sure what part of the reported cash position is owned by a 100% subsidiary and what part is owned by a 51% subsidiary.",
+          "score": 6.0
+        },
+        {
+          "document_id": "92d3847f-129d-449d-954b-c1cec6341052",
+          "chunk_id": "a4975c5e-509a-434a-9def-aed6fe96156f",
+          "text": "Minority interest\n\nSome investors have expressed concern that the minority interest line items cause significant uncertainty for the assessment of value, leverage and liquidity.[2] A key concern of investors is that they cannot be sure what part of the reported cash position is owned by a 100% subsidiary and what part is owned by a 51% subsidiary.",
+          "score": 6.0
+        },
+        {
+          "document_id": "5635e3e0-020f-43bc-bf8d-79949527c5a5",
+          "chunk_id": "1fbd4e14-a97e-4cb1-a2ab-e3cdeaab0a03",
+          "text": "Minority interest\n\nIt is, however, possible (such as through special voting rights) for a controlling interest requiring consolidation to be achieved without exceeding 50% ownership, depending on the accounting standards being employed. Minority interest belongs to other investors and is reported on the consolidated balance sheet of the owning company to reflect the claim on assets",
+          "score": 7.5
+        }
+      ]
+    }
+  },
+  {
+    "id": "test10",
+    "query": "when is the new tappan zee bridge going to be finished",
+    "response": {
+      "results": [
+        {
+          "document_id": "5ad7c3b5-f9ad-428f-a424-1789a32b8d63",
+          "chunk_id": "fa373036-7f90-48ba-8e3a-d047a25b9085",
+          "text": "ortation corridors, affordable energy, and addressing Ontario's growing skills gap.[22]",
+          "score": 3.5
+        },
+        {
+          "document_id": "8b120684-1113-45f8-a9ac-1fd0b14c4eb5",
+          "chunk_id": "9c1fc6c1-e7a0-426e-9fab-1af89fb7544c",
+          "text": "Chicago Fire (season 4)\n\nThe fourth season of Chicago Fire, an American drama television series with executive producer Dick Wolf, and producers Derek Haas, Michael Brandt, and Matt Olmstead, was ordered on February 5, 2015, by NBC,[1] and premiered on October 13, 2015 and concluded on May 17, 2016.[2] The season contained 23 episodes.[3]",
+          "score": 4.5
+        },
+        {
+          "document_id": "a9215d61-b5a6-4fe8-8dd2-06f27e6b5e1b",
+          "chunk_id": "6f6ea3b3-9ed8-4441-b17c-7d0e43a00fa1",
+          "text": "ortation corridors, affordable energy, and addressing Ontario's growing skills gap.[22]",
+          "score": 4.5
+        },
+        {
+          "document_id": "b5d7b9e4-3d40-4d45-8ac0-6f668c3800b5",
+          "chunk_id": "373e086e-dbcb-4867-95c3-040f2ddc58c0",
+          "text": " minority interest in the mezzanine section of the balance sheet.",
+          "score": 10.0
+        },
+        {
+          "document_id": "d1ec0fa9-16ed-40a9-af2d-59d453d2e1f6",
+          "chunk_id": "bda1b58a-f065-46d7-a0a0-8290becc4a4f",
+          "text": "nce 2003.[36] At the time of his jump to provincial politics, he chaired the Conservative Party of Canada's Greater Toronto Area caucus and the Canada-India Parliamentary Association.[5]",
+          "score": 13.0
+        }
+      ]
+    }
+  },
+  {
+    "id": "test11",
+    "query": "who recorded i can't help falling in love with you",
+    "response": {
+      "results": [
+        {
+          "document_id": "c1157204-9c24-40ea-a512-e58a5bae9fa1",
+          "chunk_id": "66a424cf-bc21-45b1-9ff5-7b5a7bf98a0e",
+          "text": "Love Will Keep Us Alive\n\nIn 2011, Paul Carrack and Timothy B. Schmit recorded the song in London with the Royal Philharmonic Orchestra, and released it in the UK on the Carrack label.",
+          "score": 0.5
+        },
+        {
+          "document_id": "c89f8f35-0f92-47f1-9547-0a6f7277c950",
+          "chunk_id": "97c9adb8-b4c6-430b-9c7a-6ac61c240e1e",
+          "text": "Love Will Keep Us Alive\n\nIn 2011, Paul Carrack and Timothy B. Schmit recorded the song in London with the Royal Philharmonic Orchestra, and released it in the UK on the Carrack label.",
+          "score": 1.5
+        },
+        {
+          "document_id": "f83b1f60-0f7f-4b6f-b453-ad45e486fd03",
+          "chunk_id": "a4c4feb6-bed5-4fd3-8bfb-f9c3ba4c8024",
+          "text": "Love Will Keep Us Alive\n\n\"Love Will Keep Us Alive\" was also recorded by Capaldi and Dave Mason on their 40,000 Headman tour and live album, and by Carrack (duet with Lindsay Dracass) on his 2007 album Old, New, Borrowed and Blue. It was also covered by Canadian-Australian singer Wendy Matthews in 1995 as \"Love Will Keep Me Alive\" as a track from the album The Witness Tree (1994).",
+          "score": 2.5
+        },
+        {
+          "document_id": "f772002e-5174-4fca-861d-c5c376b84622",
+          "chunk_id": "1a9add8b-7edb-4955-8d90-02e76deca40c",
+          "text": "Love Will Keep Us Alive\n\nAlthough the song was never formally released as a single in the US, and thus was not eligible to appear on the US Billboard Hot 100 under the rules then in place, it spent three weeks at number 1 on the Billboard adult contemporary chart in early 1995[1] and reached number 22 on Billboard's Hot 100 Airplay chart. In the United Kingdom, \"Love Will Keep Us A",
+          "score": 3.0
+        },
+        {
+          "document_id": "b2dd9008-5e24-45a9-bae6-cfa2c549fcb0",
+          "chunk_id": "8a7c5ed8-46fd-4dec-83fe-388e211a93bc",
+          "text": "Love Will Keep Us Alive\n\nAside from being on the album Hell Freezes Over, the song appears on the Eagles' box set, Selected Works 1972-1999 and the 2003 compilation album, The Very Best Of.",
+          "score": 4.5
+        }
+      ]
+    }
+  },
+  {
+    "id": "test12",
+    "query": "who plays the doc in back to the future",
+    "response": {
+      "results": [
+        {
+          "document_id": "f8834b8b-cbb6-4d54-9727-f1f7d13a028a",
+          "chunk_id": "b429cce5-b471-4a76-b050-b19379e6c34e",
+          "text": "n the Beatles's \"A Day In The Life\" Lennon's vocals are switched to the extreme right on the first two strophes, on the third strophe they are switched center then extreme left, and switched left on the final strophe while during the bridge McCartney's vocals are switched extreme right.[6][7]",
+          "score": 7.5
+        }
+      ]
+    }
+  },
+  {
+    "id": "test13",
+    "query": "when did they stop cigarette advertising on television",
+    "response": {
+      "results": [
+        {
+          "document_id": "47e81ab3-dd61-4ba2-8139-65b6987a894c",
+          "chunk_id": "ddf4c2dd-c910-4bd0-8e74-90f4ca21c2c6",
+          "text": "or the mailing because Michael Prowse could not afford to send the flyer out himself.[34]",
+          "score": 0.5
+        },
+        {
+          "document_id": "a01fe161-2d63-4545-8a7e-caf451453f4f",
+          "chunk_id": "1fbb8863-3830-48fe-972e-1d12235e3482",
+          "text": "Disparate impact\n\nA violation of Title VII of the 1964 Civil Rights Act may be proven by showing that an employment practice or policy has a disproportionately adverse effect on members of the protected class as compared with non-members of the protected class.[1] Therefore, the disparate impact theory under Title VII prohibits employers \"from using a facially neutral employment pr",
+          "score": 5.0
+        },
+        {
+          "document_id": "ec317b8e-5dfe-422c-bc12-eb64a86a0470",
+          "chunk_id": "c01d97c6-f805-4e47-8109-3c74aa2635c0",
+          "text": "Disparate impact\n\nA violation of Title VII of the 1964 Civil Rights Act may be proven by showing that an employment practice or policy has a disproportionately adverse effect on members of the protected class as compared with non-members of the protected class.[1] Therefore, the disparate impact theory under Title VII prohibits employers \"from using a facially neutral employment pr",
+          "score": 6.0
+        },
+        {
+          "document_id": "3246942c-5be4-45cb-85dc-2a5686eab025",
+          "chunk_id": "3f7af7bf-7b5d-46c7-a756-a3c375a71813",
+          "text": "intended to hinder women's ability to become firefighters.",
+          "score": 11.5
+        }
+      ]
+    }
+  },
+  {
+    "id": "test14",
+    "query": "who has been chosen as the brand ambassador of the campaign 'beti bachao-beti padhao",
+    "response": {
+      "results": [
+        {
+          "document_id": "38517e67-7f50-431b-bdd9-3c758445d564",
+          "chunk_id": "7264d27f-7232-4895-a7c8-c8aa30b8aa3c",
+          "text": "p with Indian Prime Minister Narendra Modi, who refers to him as \"Patrick Bhai\" meaning brother and named him an honorary citizen of Gujarat.[19][20]",
+          "score": 0.0
+        },
+        {
+          "document_id": "6ec812fc-44ef-4efd-b3f2-0ee89dbd3318",
+          "chunk_id": "c04a228e-b692-448c-8e78-f7cdf6aa18aa",
+          "text": "p with Indian Prime Minister Narendra Modi, who refers to him as \"Patrick Bhai\" meaning brother and named him an honorary citizen of Gujarat.[19][20]",
+          "score": 1.0
+        },
+        {
+          "document_id": "47e81ab3-dd61-4ba2-8139-65b6987a894c",
+          "chunk_id": "ddf4c2dd-c910-4bd0-8e74-90f4ca21c2c6",
+          "text": "or the mailing because Michael Prowse could not afford to send the flyer out himself.[34]",
+          "score": 5.0
+        },
+        {
+          "document_id": "5ad7c3b5-f9ad-428f-a424-1789a32b8d63",
+          "chunk_id": "0a13c5f9-6f84-4bf2-a1c3-70b1966603a0",
+          "text": "Patrick Brown (politician)\n\nHis critics have called him \"policy-lite\" since he made no policy statements during the Progressive Conservative leadership campaign.[21] Since winning the leadership race, he has focused his plan on four main issues which he suggests will lead to a more prosperous province: less red tape, improved transportation corridors, affordable energy, and address",
+          "score": 8.0
+        },
+        {
+          "document_id": "a9215d61-b5a6-4fe8-8dd2-06f27e6b5e1b",
+          "chunk_id": "0d6fd1c2-7a36-4ba3-bac0-ac28ab9754b4",
+          "text": "Patrick Brown (politician)\n\nHis critics have called him \"policy-lite\" since he made no policy statements during the Progressive Conservative leadership campaign.[21] Since winning the leadership race, he has focused his plan on four main issues which he suggests will lead to a more prosperous province: less red tape, improved transportation corridors, affordable energy, and address",
+          "score": 9.0
+        }
+      ]
+    }
+  },
+  {
+    "id": "test15",
+    "query": "how many seasons of prison break are on netflix",
+    "response": {
+      "results": [
+        {
+          "document_id": "8b120684-1113-45f8-a9ac-1fd0b14c4eb5",
+          "chunk_id": "9c1fc6c1-e7a0-426e-9fab-1af89fb7544c",
+          "text": "Chicago Fire (season 4)\n\nThe fourth season of Chicago Fire, an American drama television series with executive producer Dick Wolf, and producers Derek Haas, Michael Brandt, and Matt Olmstead, was ordered on February 5, 2015, by NBC,[1] and premiered on October 13, 2015 and concluded on May 17, 2016.[2] The season contained 23 episodes.[3]",
+          "score": 0.0
+        },
+        {
+          "document_id": "f772002e-5174-4fca-861d-c5c376b84622",
+          "chunk_id": "1a9add8b-7edb-4955-8d90-02e76deca40c",
+          "text": "Love Will Keep Us Alive\n\nAlthough the song was never formally released as a single in the US, and thus was not eligible to appear on the US Billboard Hot 100 under the rules then in place, it spent three weeks at number 1 on the Billboard adult contemporary chart in early 1995[1] and reached number 22 on Billboard's Hot 100 Airplay chart. In the United Kingdom, \"Love Will Keep Us A",
+          "score": 3.5
+        },
+        {
+          "document_id": "23b6dd7b-4213-4378-b188-301515eaa1f5",
+          "chunk_id": "596d35df-33c8-4d55-985c-d54aaea1d38f",
+          "text": "Chicago Fire (season 4)\n\nTensions only get worse between Patterson and Severide when Severide makes a call at a job without his consent causing Patterson to question Severide's being at 51. Meanwhile, Borelli and Chili take their romance to the next level, Cruz receives a visit from one of his brother Leon's old gang members. Also, Mouch receives tickets from one of the members of ",
+          "score": 6.0
+        },
+        {
+          "document_id": "b2dd9008-5e24-45a9-bae6-cfa2c549fcb0",
+          "chunk_id": "8a7c5ed8-46fd-4dec-83fe-388e211a93bc",
+          "text": "Love Will Keep Us Alive\n\nAside from being on the album Hell Freezes Over, the song appears on the Eagles' box set, Selected Works 1972-1999 and the 2003 compilation album, The Very Best Of.",
+          "score": 7.5
+        },
+        {
+          "document_id": "f83b1f60-0f7f-4b6f-b453-ad45e486fd03",
+          "chunk_id": "a4c4feb6-bed5-4fd3-8bfb-f9c3ba4c8024",
+          "text": "Love Will Keep Us Alive\n\n\"Love Will Keep Us Alive\" was also recorded by Capaldi and Dave Mason on their 40,000 Headman tour and live album, and by Carrack (duet with Lindsay Dracass) on his 2007 album Old, New, Borrowed and Blue. It was also covered by Canadian-Australian singer Wendy Matthews in 1995 as \"Love Will Keep Me Alive\" as a track from the album The Witness Tree (1994).",
+          "score": 8.5
+        }
+      ]
+    }
+  },
+  {
+    "id": "test16",
+    "query": "what was the name of atom bomb dropped by usa on hiroshima",
+    "response": {
+      "results": [
+        {
+          "document_id": "f772002e-5174-4fca-861d-c5c376b84622",
+          "chunk_id": "696e47e5-85e9-43d2-b35a-c3c783dd6644",
+          "text": "chart. In the United Kingdom, \"Love Will Keep Us Alive\" was issued as a single and peaked at number 52 on the UK Singles Chart.[2]",
+          "score": 0.891575491930515
+        },
+        {
+          "document_id": "b2dd9008-5e24-45a9-bae6-cfa2c549fcb0",
+          "chunk_id": "8a7c5ed8-46fd-4dec-83fe-388e211a93bc",
+          "text": "Love Will Keep Us Alive\n\nAside from being on the album Hell Freezes Over, the song appears on the Eagles' box set, Selected Works 1972-1999 and the 2003 compilation album, The Very Best Of.",
+          "score": 0.907224841415882
+        },
+        {
+          "document_id": "8ac3ab11-4a8c-4567-85f0-841bb663d1a8",
+          "chunk_id": "cfcceacc-2fc1-4e86-bacf-921fb3660ec4",
+          "text": "o rule that the Act does not contain a disparate impact provision, but both cases settled before the Court could issue a decision. The federal government appeared to pressure the settlement in one or both cases in an effort to preserve the disparate impact theory.[16][17][18]",
+          "score": 0.911230954679136
+        },
+        {
+          "document_id": "18323c3d-fcc6-436a-b8a0-b47ee05b3872",
+          "chunk_id": "5e154a84-90aa-47dd-8ff6-7c4b8c632bcf",
+          "text": "o rule that the Act does not contain a disparate impact provision, but both cases settled before the Court could issue a decision. The federal government appeared to pressure the settlement in one or both cases in an effort to preserve the disparate impact theory.[16][17][18]",
+          "score": 0.911230954679136
+        },
+        {
+          "document_id": "18323c3d-fcc6-436a-b8a0-b47ee05b3872",
+          "chunk_id": "dcad0e87-8c6d-4f71-b7ed-7747dd705869",
+          "text": "Disparate impact\n\nUntil 2015, the U.S. Supreme Court had not yet determined whether the Fair Housing Act allowed for claims of disparate impact. This question reached the Supreme Court twice since 2012, first in Magner v. Gallagher and then in Township of Mount Holly v. Mount Holly Gardens Citizens. The Supreme Court seemed likely to rule that the Act does not contain a disparate i",
+          "score": 0.919364854693413
+        }
+      ]
+    }
+  },
+  {
+    "id": "test17",
+    "query": "when did the us take over wake island",
+    "response": {
+      "results": [
+        {
+          "document_id": "243d2e9c-5365-491e-ad86-9d6c4c665419",
+          "chunk_id": "6432124e-136a-4ead-897d-0557b7ee062c",
+          "text": "right and was criticized for his decision to support a united right from party leader Joe Clark and Member of Parliament Scott Brison. Brown was later re-elected as PCYF president with 81 percent of the vote against Jonathan Frate of Manitoba.",
+          "score": 0.827695479163658
+        },
+        {
+          "document_id": "d9b29701-704d-42bd-81ec-8a953fe34606",
+          "chunk_id": "6142303c-cd04-48a0-8014-e6e90f02df75",
+          "text": "right and was criticized for his decision to support a united right from party leader Joe Clark and Member of Parliament Scott Brison. Brown was later re-elected as PCYF president with 81 percent of the vote against Jonathan Frate of Manitoba.",
+          "score": 0.827695479163658
+        },
+        {
+          "document_id": "47449570-7bce-455e-8bef-18e272baa451",
+          "chunk_id": "8f92fca2-36ed-49ce-94b9-99442ef15e38",
+          "text": "right and was criticized for his decision to support a united right from party leader Joe Clark and Member of Parliament Scott Brison. Brown was later re-elected as PCYF president with 81 percent of the vote against Jonathan Frate of Manitoba.",
+          "score": 0.827695479163658
+        },
+        {
+          "document_id": "1487d528-ccca-440c-89d1-123a8e2c8777",
+          "chunk_id": "87624eca-00a7-49af-90c2-d04c822dc9f6",
+          "text": "Patrick Brown (politician)\n\nBrown was the Deputy Chairman of the International Young Democrat Union (IYDU).[when?] He has also represented Canada on a number of international assistance projects hosted by the IYDU.",
+          "score": 0.831937288410986
+        },
+        {
+          "document_id": "4637e503-c44b-44dc-b0f1-23fcf07c110f",
+          "chunk_id": "84c40a43-a52b-453b-859a-73c8debc1ac7",
+          "text": "Patrick Brown (politician)\n\nMuch of Brown's time at Queen's Park has been spent criticizing and debating the government's energy policies. He has promised to dismantle the Green Energy Act, rein in executive salaries at Hydro One, and place a moratorium on the signing of new energy contracts.[11][12][13]",
+          "score": 0.846251327246268
+        }
+      ]
+    }
+  },
+  {
+    "id": "test18",
+    "query": "when did american two party system began to emerge",
+    "response": {
+      "results": [
+        {
+          "document_id": "317d522d-0821-46cd-8b6c-ac902955da40",
+          "chunk_id": "fa0a9087-a118-45e7-987d-d118c587fc39",
+          "text": "ent election campaign, in 2014, the party election platform included a commitment to cut 100,000 public service jobs over 4 years through attrition.[37] As the only one of the original five leadership candidates who was not a member of the Ontario legislature, Brown was not involved in the promise, which he considered ill-advised,[36][38] [39] Brown's rivals attempted to use this s",
+          "score": 3.0
+        },
+        {
+          "document_id": "d9b29701-704d-42bd-81ec-8a953fe34606",
+          "chunk_id": "0e204ca0-cae0-4df7-a9a7-fdc96d7434b1",
+          "text": "Patrick Brown (politician)\n\nBrown served two terms as President of the Progressive Conservative Youth Federation (PCYF),[5] a position he held from 1998 to 2002. He also served on the executive of the Progressive Conservative Party of Ontario, as a Vice President. As PCYF President, Brown was one of the early supporters of a united right and was criticized for his decision to suppo",
+          "score": 3.5
+        },
+        {
+          "document_id": "47449570-7bce-455e-8bef-18e272baa451",
+          "chunk_id": "70ad3a5f-6bdb-4e3e-90e9-d584cf3e3e9c",
+          "text": "Patrick Brown (politician)\n\nBrown served two terms as President of the Progressive Conservative Youth Federation (PCYF),[5] a position he held from 1998 to 2002. He also served on the executive of the Progressive Conservative Party of Ontario, as a Vice President. As PCYF President, Brown was one of the early supporters of a united right and was criticized for his decision to suppo",
+          "score": 5.0
+        },
+        {
+          "document_id": "243d2e9c-5365-491e-ad86-9d6c4c665419",
+          "chunk_id": "e9245823-8aad-49c6-869d-35d1177a770a",
+          "text": "Patrick Brown (politician)\n\nBrown served two terms as President of the Progressive Conservative Youth Federation (PCYF),[5] a position he held from 1998 to 2002. He also served on the executive of the Progressive Conservative Party of Ontario, as a Vice President. As PCYF President, Brown was one of the early supporters of a united right and was criticized for his decision to suppo",
+          "score": 5.0
+        },
+        {
+          "document_id": "317d522d-0821-46cd-8b6c-ac902955da40",
+          "chunk_id": "8727f051-00fa-40dd-8f40-902d0f40ea0c",
+          "text": "Patrick Brown (politician)\n\nIn September 2014, Brown announced his intention to run in the contest to replace PC Party Leader, Tim Hudak. From the outset of his campaign, Brown positioned himself as an outsider, challenging the leadership of the PC Party, which had been defeated in the last four provincial elections. In the most recent election campaign, in 2014, the party election",
+          "score": 7.0
+        }
+      ]
+    }
+  },
+  {
+    "id": "test19",
+    "query": "where are the mitochondria located in the sperm",
+    "response": {
+      "results": [
+        {
+          "document_id": "e0ad9b17-f8f0-4e1a-a6c9-5f941d5042f3",
+          "chunk_id": "3d61b392-6c7f-4573-9c1e-60f149fd5cbe",
+          "text": "Three Rings\n\nThe second ring, Nenya, was made of mithril and adorned with a \"white stone\", presumably a diamond.[2] The name is derived from the Quenya n\u00c3\u00a9n meaning water. It is also called Ring of Adamant, Ring of Water and the White Ring.",
+          "score": 4.0
+        },
+        {
+          "document_id": "140b1b73-2b3d-4f3c-bffb-4c6ecfae0602",
+          "chunk_id": "7b5de791-ffa4-469b-bad3-95c2db2c61a3",
+          "text": "Three Rings\n\nAccording to Unfinished Tales, at the start of the War of the Elves and Sauron, Celebrimbor gave Narya together with the Ring Vilya to Gil-galad, High King of the Noldor. Gil-galad entrusted Narya to his lieutenant C\u00edrdan, Lord of the Havens of Mithlond, who kept it after Gil-galad's death. According to The Lord of the Rings, Gil-galad received only Vilya, while C\u00edrdan",
+          "score": 4.5
+        },
+        {
+          "document_id": "8187bd15-0e94-4482-a76b-5134bd0eecfe",
+          "chunk_id": "b05b4304-c2de-459a-ad55-da7eed936e68",
+          "text": "Three Rings\n\nThe second ring, Nenya, was made of mithril and adorned with a \"white stone\", presumably a diamond.[2] The name is derived from the Quenya n\u00c3\u00a9n meaning water. It is also called Ring of Adamant, Ring of Water and the White Ring.",
+          "score": 5.0
+        },
+        {
+          "document_id": "f2ffc368-40de-4874-ba46-78d1b412eac9",
+          "chunk_id": "70196872-0747-48fb-adb9-4c196a09fdda",
+          "text": "Three Rings\n\nThe ring was wielded by Galadriel of Lothl\u00f3rien, and possessed a radiance that matched that of the stars; while Frodo Baggins could see it by virtue of being a Ring-bearer, Samwise Gamgee tells Galadriel he only \"saw a star through your fingers\". (This appears in many editions as \"finger\"\u2014which sounds more magical, since it suggests that her finger has somehow become t",
+          "score": 5.0
+        },
+        {
+          "document_id": "ed91ea40-d2d7-4fb5-8f2e-d74428f336a0",
+          "chunk_id": "cf65860e-a1e9-47f3-b7a4-4eda287017a2",
+          "text": "Three Rings\n\nThe ring was wielded by Galadriel of Lothl\u00f3rien, and possessed a radiance that matched that of the stars; while Frodo Baggins could see it by virtue of being a Ring-bearer, Samwise Gamgee tells Galadriel he only \"saw a star through your fingers\". (This appears in many editions as \"finger\"\u2014which sounds more magical, since it suggests that her finger has somehow become t",
+          "score": 5.0
+        }
+      ]
+    }
+  },
+  {
+    "id": "test20",
+    "query": "how many lines of symmetry are there in a equilateral triangle",
+    "response": {
+      "results": [
+        {
+          "document_id": "fb02fa94-8691-49fa-931e-4fa845e63297",
+          "chunk_id": "5677ff5e-884e-44c8-aa35-cb139807f42a",
+          "text": "Three Rings\n\nIn Tolkien's mythology, the Three Rings are magical artifacts forged by the Elves of Eregion. After the One Ring, they are the most powerful of the twenty Rings of Power.[1]",
+          "score": 2.0
+        },
+        {
+          "document_id": "bbd57a78-8572-41dc-9355-aff1deec6f0f",
+          "chunk_id": "6227f8a9-c39d-4527-b877-7849806a72e6",
+          "text": "Three Rings\n\nIn Tolkien's mythology, the Three Rings are magical artifacts forged by the Elves of Eregion. After the One Ring, they are the most powerful of the twenty Rings of Power.[1]",
+          "score": 2.0
+        },
+        {
+          "document_id": "7bb9131a-8399-4700-abef-7b97fb52189c",
+          "chunk_id": "ba190264-aff8-4d6b-aaa5-dbe1a592e7cb",
+          "text": "Three Rings\n\nThe third ring, Vilya, was made of gold and adorned with a \"great blue stone\", probably a sapphire. The name is derived from the Quenya vilya meaning air. It is also called, Ring of Air, Ring of Firmament, or Blue Ring.",
+          "score": 4.5
+        },
+        {
+          "document_id": "cc6b6b59-5355-42f5-9caf-d8d313b55dd8",
+          "chunk_id": "89c0b25e-f8c2-47c1-be2f-ed35cc82c391",
+          "text": "Three Rings\n\nThe third ring, Vilya, was made of gold and adorned with a \"great blue stone\", probably a sapphire. The name is derived from the Quenya vilya meaning air. It is also called, Ring of Air, Ring of Firmament, or Blue Ring.",
+          "score": 5.0
+        },
+        {
+          "document_id": "65957903-51fe-402b-9c5b-69521ab0e740",
+          "chunk_id": "5d6b628d-1b47-406e-9896-8e7dc37d5115",
+          "text": "Three Rings\n\nIt is generally considered that Vilya was the mightiest of these three bands (as mentioned in the ending chapter in The Return of the King). The exact power of Vilya is not mentioned. However, it is reasonable to speculate that it also possesses the power to heal and to preserve (it is mentioned in The Silmarillion that Celebrimbor had forged the Three in order to heal",
+          "score": 5.0
+        }
+      ]
+    }
+  },
+  {
+    "id": "test21",
+    "query": "how many seasons of the oc are there",
+    "response": {
+      "results": [
+        {
+          "document_id": "8b120684-1113-45f8-a9ac-1fd0b14c4eb5",
+          "chunk_id": "9c1fc6c1-e7a0-426e-9fab-1af89fb7544c",
+          "text": "Chicago Fire (season 4)\n\nThe fourth season of Chicago Fire, an American drama television series with executive producer Dick Wolf, and producers Derek Haas, Michael Brandt, and Matt Olmstead, was ordered on February 5, 2015, by NBC,[1] and premiered on October 13, 2015 and concluded on May 17, 2016.[2] The season contained 23 episodes.[3]",
+          "score": 0.0
+        },
+        {
+          "document_id": "f772002e-5174-4fca-861d-c5c376b84622",
+          "chunk_id": "696e47e5-85e9-43d2-b35a-c3c783dd6644",
+          "text": "chart. In the United Kingdom, \"Love Will Keep Us Alive\" was issued as a single and peaked at number 52 on the UK Singles Chart.[2]",
+          "score": 8.5
+        }
+      ]
+    }
+  },
+  {
+    "id": "test22",
+    "query": "latest season on keeping up with the kardashians",
+    "response": {
+      "results": [
+        {
+          "document_id": "76764239-816d-4850-9d87-fb45f24910b3",
+          "chunk_id": "6d785159-ba0e-4e76-aa71-0a6706e7d140",
+          "text": "Chicago Fire (season 4)\n\nHermann is rushed to Chicago Med after being stabbed at Molly's. After losing a lot a blood, it is determined he needs emergency surgery. Feeling guilty about Hermann's present state, Cruz searches for Freddy to turn him in. Severide is reinstated as Lieutenant while Borelli grows more concerned about Chili's erratic behavior. Mouch considers finally propos",
+          "score": 1.5
+        },
+        {
+          "document_id": "34dd3b99-89c3-4bd7-9f9b-aeb7f12970b0",
+          "chunk_id": "c34f9924-2c70-4b03-bbd6-ab5d77e0aef4",
+          "text": "Chicago Fire (season 4)\n\nHermann is rushed to Chicago Med after being stabbed at Molly's. After losing a lot a blood, it is determined he needs emergency surgery. Feeling guilty about Hermann's present state, Cruz searches for Freddy to turn him in. Severide is reinstated as Lieutenant while Borelli grows more concerned about Chili's erratic behavior. Mouch considers finally propos",
+          "score": 3.0
+        },
+        {
+          "document_id": "4fa36d22-ff15-4ca6-b8b0-5764990cbfab",
+          "chunk_id": "111fd62b-fd14-47c4-8e33-c17234ca897f",
+          "text": "Chicago Fire (season 4)\n\nHermann is rushed to Chicago Med after being stabbed at Molly's. After losing a lot a blood, it is determined he needs emergency surgery. Feeling guilty about Hermann's present state, Cruz searches for Freddy to turn him in. Severide is reinstated as Lieutenant while Borelli grows more concerned about Chili's erratic behavior. Mouch considers finally propos",
+          "score": 3.0
+        },
+        {
+          "document_id": "23b6dd7b-4213-4378-b188-301515eaa1f5",
+          "chunk_id": "596d35df-33c8-4d55-985c-d54aaea1d38f",
+          "text": "Chicago Fire (season 4)\n\nTensions only get worse between Patterson and Severide when Severide makes a call at a job without his consent causing Patterson to question Severide's being at 51. Meanwhile, Borelli and Chili take their romance to the next level, Cruz receives a visit from one of his brother Leon's old gang members. Also, Mouch receives tickets from one of the members of ",
+          "score": 6.0
+        },
+        {
+          "document_id": "f83b1f60-0f7f-4b6f-b453-ad45e486fd03",
+          "chunk_id": "a4c4feb6-bed5-4fd3-8bfb-f9c3ba4c8024",
+          "text": "Love Will Keep Us Alive\n\n\"Love Will Keep Us Alive\" was also recorded by Capaldi and Dave Mason on their 40,000 Headman tour and live album, and by Carrack (duet with Lindsay Dracass) on his 2007 album Old, New, Borrowed and Blue. It was also covered by Canadian-Australian singer Wendy Matthews in 1995 as \"Love Will Keep Me Alive\" as a track from the album The Witness Tree (1994).",
+          "score": 9.0
+        }
+      ]
+    }
+  },
+  {
+    "id": "test23",
+    "query": "how dose the poet present death as a voyage in crossing the bar",
+    "response": {
+      "results": [
+        {
+          "document_id": "f8834b8b-cbb6-4d54-9727-f1f7d13a028a",
+          "chunk_id": "b429cce5-b471-4a76-b050-b19379e6c34e",
+          "text": "n the Beatles's \"A Day In The Life\" Lennon's vocals are switched to the extreme right on the first two strophes, on the third strophe they are switched center then extreme left, and switched left on the final strophe while during the bridge McCartney's vocals are switched extreme right.[6][7]",
+          "score": 0.0
+        },
+        {
+          "document_id": "52950dde-d4e4-4841-a7a0-899b08bc3727",
+          "chunk_id": "e5d0302c-e0c0-4dd0-bec7-b29568c7d402",
+          "text": "Three Rings\n\nIn the Third Age, C\u00c3\u00adrdan, recognizing Gandalf's true nature as one of the Maiar from Valinor, gave him the ring to aid him in his labours. It is described as having the power to inspire others to resist tyranny, domination, and despair (in other words, evoking hope in others around the wielder), as well as giving resistance to the weariness of time.",
+          "score": 6.5
+        },
+        {
+          "document_id": "c1157204-9c24-40ea-a512-e58a5bae9fa1",
+          "chunk_id": "66a424cf-bc21-45b1-9ff5-7b5a7bf98a0e",
+          "text": "Love Will Keep Us Alive\n\nIn 2011, Paul Carrack and Timothy B. Schmit recorded the song in London with the Royal Philharmonic Orchestra, and released it in the UK on the Carrack label.",
+          "score": 6.5
+        },
+        {
+          "document_id": "47e81ab3-dd61-4ba2-8139-65b6987a894c",
+          "chunk_id": "ddf4c2dd-c910-4bd0-8e74-90f4ca21c2c6",
+          "text": "or the mailing because Michael Prowse could not afford to send the flyer out himself.[34]",
+          "score": 7.0
+        },
+        {
+          "document_id": "f8834b8b-cbb6-4d54-9727-f1f7d13a028a",
+          "chunk_id": "aa8dddbb-7449-415d-9b55-7b06a3524fbe",
+          "text": "Panning (audio)\n\nBefore pan pots were available, \"a three-way switch was used to assign the track to the left output, right output, or both (the center)\".[4] Ubiquitous in the Billboard charts throughout the middle and late 1960s, clear examples include the Beatles's \"Strawberry Fields Forever\" and Jimi Hendrix's \"Purple Haze\".[5] In the Beatles's \"A Day In The Life\" Lennon's vocal",
+          "score": 7.0
+        }
+      ]
+    }
+  },
+  {
+    "id": "test24",
+    "query": "who were farmers who kept a small portion of their crops & gave the rest to the landowners",
+    "response": {
+      "results": [
+        {
+          "document_id": "5635e3e0-020f-43bc-bf8d-79949527c5a5",
+          "chunk_id": "f8166ccb-0f26-4fa5-833f-f3bc93b81203",
+          "text": " the owning company to reflect the claim on assets belonging to other, non-controlling shareholders. Also, minority interest is reported on the consolidated income statement as a share of profit belonging to minority shareholders.",
+          "score": 0.5
+        },
+        {
+          "document_id": "75888783-e7bf-4d16-adf9-45bbb0e6e100",
+          "chunk_id": "a8e882b9-24fa-4e3f-9d05-66dfed190a50",
+          "text": "ng Sauron's intent, the Elves hid the three from him. They were carried out of Middle-earth at the end of the Third Age, after the destruction of the One Ring.",
+          "score": 1.0
+        },
+        {
+          "document_id": "6cafbaaa-cf9b-4d2a-bb00-4b1755071e8c",
+          "chunk_id": "5fe797c4-5fb4-42ac-a427-c79bf97f5255",
+          "text": " the owning company to reflect the claim on assets belonging to other, non-controlling shareholders. Also, minority interest is reported on the consolidated income statement as a share of profit belonging to minority shareholders.",
+          "score": 1.5
+        },
+        {
+          "document_id": "f2cfbe16-63e9-4db5-a814-a9ba880c9c7b",
+          "chunk_id": "13988b45-80fb-4dc0-bce9-83d492f90a01",
+          "text": "Minority interest\n\nThe reporting of 'minority interest' is a consequence of the requirement by accounting standards to 'fully' consolidate partly owned subsidiaries. Full consolidation, as opposed to partial consolidation, results in financial statements that are constructed as if the parent corporation fully owns these partly owned subsidiaries; except for two line items that refl",
+          "score": 6.5
+        },
+        {
+          "document_id": "7a65e845-2daa-4ee5-ab7a-36001e356c73",
+          "chunk_id": "0e82e69a-b8df-463b-9b7f-01dd66587dec",
+          "text": "Minority interest\n\nThe reporting of 'minority interest' is a consequence of the requirement by accounting standards to 'fully' consolidate partly owned subsidiaries. Full consolidation, as opposed to partial consolidation, results in financial statements that are constructed as if the parent corporation fully owns these partly owned subsidiaries; except for two line items that refl",
+          "score": 6.5
+        }
+      ]
+    }
+  }
+]
